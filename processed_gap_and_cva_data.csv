@@ -1,0 +1,895 @@
+"scientific_name","ComName","Last_assessment","avg_model_category","Catch_gap","Abundance_gap","LH_gap","Comp_gap","Eco_gap","Region","Functional_group","Repro_strat","Hab_spec","Prey_spec","Exposure","Sensitivity"
+"Clupea _ harengus","Atlantic herring",2020,6,0,0,2,1,0,NA,NA,NA,NA,NA,NA,NA
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Pomatomus _ saltatrix","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Anoplopoma _ fimbria","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Thymallus _ arcticus","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Kyphosus _ vaigiensis","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"gulf","Pelagics",1.64,1.6,1.44,4,1.64
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"neva","Pelagics",1.72,1.88,1.08,4,2.16
+"Girella _ cyanea","Bluefish",2021,6,0,0,1,0,2,"sava","Coastal Pelagic",2.4,1.7,1.8,4,2.4
+"Gadus _ morhua","Atlantic cod",2021,2,1,1,2,1,4,NA,NA,NA,NA,NA,NA,NA
+"Hippoglossus _ hippoglossus","Atlantic halibut",2020,1,3,2,3,3,2,NA,NA,NA,NA,NA,NA,NA
+"Merluccius _ australis","Haddock",2019,4,0,1,1,1,2,"neva","Groundfish",1.92,1.96,1.36,4,2.36
+"Melanogrammus _ aeglefinus","Haddock",2019,4,0,1,1,1,2,"neva","Groundfish",1.92,1.96,1.36,4,2.36
+"Seriolella _ brama","Haddock",2019,4,0,1,1,1,2,"neva","Groundfish",1.92,1.96,1.36,4,2.36
+"Zoarces _ americanus","Ocean pout",2020,2,0,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Merluccius _ albidus","Offshore hake",2011,2,0,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Pseudopleuronectes _ americanus","Winter flounder",2020,4,1,1,2,1,4,NA,NA,NA,NA,NA,NA,NA
+"Glyptocephalus _ cynoglossus","Witch flounder",2019,2,0,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Limanda _ ferruginea","Yellowtail flounder",2021,2,1,1,0,0,2,NA,NA,NA,NA,NA,NA,NA
+"Squalus _ suckleyi","Pacific spiny dogfish",2021,6,2,0,1,0,2,NA,NA,NA,NA,NA,NA,NA
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ acanthias","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ megalops","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ mitsukurii","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"general","Elasmobranch",2.75,1.15,1.1,3.95,2.3
+"Squalus _ suckleyi","Spiny dogfish",2018,5,1,0,0,0,2,"sava","Elasmobranchs",1.3,1.5,1.2,4,2
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stenotomus _ chrysops","Scup",2021,6,1,0,2,1,0,"neva","Coastal",1.28,1.4,1.32,4,1.76
+"Paralichthys _ dentatus","Summer flounder",2021,6,0,1,1,1,0,NA,NA,NA,NA,NA,NA,NA
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Lopholatilus _ chamaeleonticeps","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Malacanthus _ plumieri","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Branchiostegus _ auratus","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Prolatilus _ jugularis","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Scomberomorus _ cavalla","King mackerel",2020,6,1,1,1,2,0,"gulf","Coastal Pelagic",1.64,1.84,1.52,4,1.64
+"Scomberomorus _ cavalla","King mackerel",2020,6,1,1,1,2,0,"sava","Coastal Pelagic",2,1.8,1.8,4,1.8
+"Scomberomorus _ cavalla","King mackerel",2020,6,1,1,1,2,0,"gulf","Coastal Pelagic",1.64,1.84,1.52,4,1.64
+"Scomberomorus _ cavalla","King mackerel",2020,6,1,1,1,2,0,"sava","Coastal Pelagic",2,1.8,1.8,4,1.8
+"Scomberomorus _ commerson","King mackerel",2020,6,1,1,1,2,0,"gulf","Coastal Pelagic",1.64,1.84,1.52,4,1.64
+"Scomberomorus _ commerson","King mackerel",2020,6,1,1,1,2,0,"sava","Coastal Pelagic",2,1.8,1.8,4,1.8
+"Scomberomorus _ commerson","King mackerel",2020,6,1,1,1,2,0,"gulf","Coastal Pelagic",1.64,1.84,1.52,4,1.64
+"Scomberomorus _ commerson","King mackerel",2020,6,1,1,1,2,0,"sava","Coastal Pelagic",2,1.8,1.8,4,1.8
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomber _ japonicus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ brasiliensis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ cavalla","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ commerson","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ guttatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ lineolatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ regalis","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ sierra","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Scomberomorus _ tritor","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Chloroscombrus _ chrysurus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Elagatis _ bipinnulata","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"gulf","Coastal Pelagic",1.68,1.92,1.6,4,1.64
+"Schedophilus _ maculatus","Spanish mackerel",2013,6,1,1,2,2,2,"sava","Coastal Pelagic",2.2,1.8,1.6,4,1.8
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Centropristis _ striata","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"gulf","Offshore Bottomfish",2.76,1.72,1.68,4,2.16
+"Stereolepis _ gigas","Black sea bass",2019.5,6,1,1,2,1,2,"sava","Reef Fish",2.4,1.7,1.3,4,2.3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Mycteroperca _ microlepis","Gag",2021,6,1,2,2,1,0,NA,NA,NA,NA,NA,NA,NA
+"Mycteroperca _ tigris","Gag",2021,6,1,2,2,1,0,NA,NA,NA,NA,NA,NA,NA
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ dumerili","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"gulf","Coastal Pelagic",1.96,1.72,1.56,4,1.92
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"pacific","Coastal",1.56,1.48,1.84,4,2.04
+"Seriola _ rivoliana","Greater amberjack",2020,6,1,2,1,2,0,"sava","Coastal Pelagic",1.8,2.1,1.2,4,1.6
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Orthopristis _ chrysoptera","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ pulchellus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ rufus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Lachnolaimus _ maximus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Bodianus _ insularis","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"gulf","Snappers",3.04,2.64,2.2,4,2.52
+"Acanthostracion _ notacanthus","Hogfish",2014,6,1,2,1,1,2,"sava","Reef Fish",3,2.8,1.8,4,2.8
+"Epinephelus _ morio","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Epinephelus _ morio","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Epinephelus _ morio","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Epinephelus _ morio","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Epinephelus _ akaara","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Epinephelus _ akaara","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Epinephelus _ akaara","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Epinephelus _ akaara","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Cephalopholis _ miniata","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Cephalopholis _ miniata","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Cephalopholis _ miniata","Red grouper",2017,6,1,1,2,2,2,"gulf","Groupers",2.6,2.68,1.72,4,2.32
+"Cephalopholis _ miniata","Red grouper",2017,6,1,1,2,2,2,"sava","Reef Fish",2.7,2.7,1.7,4,3.1
+"Argyrops _ spinifer","Red porgy",2020,6,1,1,2,2,0,"sava","Reef Fish",1.7,1.4,1.2,4,2
+"Pagrus _ major","Red porgy",2020,6,1,1,2,2,0,"sava","Reef Fish",1.7,1.4,1.2,4,2
+"Pagrus _ pagrus","Red porgy",2020,6,1,1,2,2,0,"sava","Reef Fish",1.7,1.4,1.2,4,2
+"Lagodon _ rhomboides","Red porgy",2020,6,1,1,2,2,0,"sava","Reef Fish",1.7,1.4,1.2,4,2
+"Pagrus _ africanus","Red porgy",2020,6,1,1,2,2,0,"sava","Reef Fish",1.7,1.4,1.2,4,2
+"Lutjanus _ argentimaculatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ argentimaculatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ argentimaculatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ argentimaculatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ bengalensis","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ bengalensis","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ bengalensis","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ bengalensis","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ bohar","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ bohar","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ bohar","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ bohar","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ campechanus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ campechanus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ campechanus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ campechanus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ erythropterus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ erythropterus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ erythropterus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ erythropterus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Sebastes _ ruberrimus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Sebastes _ ruberrimus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Sebastes _ ruberrimus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Sebastes _ ruberrimus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Centroberyx _ affinis","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Centroberyx _ affinis","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Centroberyx _ affinis","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Centroberyx _ affinis","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Centroberyx _ gerrardi","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Centroberyx _ gerrardi","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Centroberyx _ gerrardi","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Centroberyx _ gerrardi","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ carbunculus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ carbunculus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ carbunculus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ carbunculus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ jordani","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ jordani","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ jordani","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ jordani","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ lemniscatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ lemniscatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ lemniscatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ lemniscatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ malabaricus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ malabaricus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ malabaricus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ malabaricus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ monostigma","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ monostigma","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ monostigma","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ monostigma","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ sanguineus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ sanguineus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ sanguineus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ sanguineus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ sebae","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ sebae","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ sebae","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ sebae","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ vivanus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ vivanus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ vivanus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ vivanus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Rhomboplites _ aurorubens","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Rhomboplites _ aurorubens","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Rhomboplites _ aurorubens","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Rhomboplites _ aurorubens","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ gibbus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ gibbus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ gibbus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ gibbus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ dodecacanthoides","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ dodecacanthoides","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Lutjanus _ dodecacanthoides","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Lutjanus _ dodecacanthoides","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ coruscans","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ coruscans","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ coruscans","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ coruscans","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ oculatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ oculatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Etelis _ oculatus","Red snapper",2021,6,1,1,2,2,0,"gulf","Snappers",1.32,1.44,1.2,4,1.68
+"Etelis _ oculatus","Red snapper",2021,6,1,1,2,2,0,"sava","Reef Fish",1.4,1.9,1.5,4,1.9
+"Hyporthodus _ niveatus","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Hyporthodus _ niveatus","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Hyporthodus _ niveatus","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Hyporthodus _ niveatus","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Epinephelus _ coeruleopunctatus","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Epinephelus _ coeruleopunctatus","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Epinephelus _ coeruleopunctatus","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Epinephelus _ coeruleopunctatus","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Hyporthodus _ niphobles","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Hyporthodus _ niphobles","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Hyporthodus _ niphobles","Snowy grouper",2021,6,1,2,2,2,0,"gulf","Groupers",2.76,2.28,1.44,4,2.24
+"Hyporthodus _ niphobles","Snowy grouper",2021,6,1,2,2,2,0,"sava","Deep Water Reef",2.4,2.7,1.5,4,2.9
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ microps","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"gulf","Offshore Bottomfish",2.36,1.72,1.88,4,2.36
+"Caulolatilus _ bermudensis","Blueline tilefish",2017.5,2,1,2,0.5,0.5,1.5,"sava","Deep Water Reef",1.8,2.2,1.4,4,3
+"Lopholatilus _ chamaeleonticeps","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Malacanthus _ plumieri","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Branchiostegus _ auratus","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Prolatilus _ jugularis","Tilefish",2021,6,1.5,2,2,2,1,"neva","Groundfish",2.28,2.88,1.2,4,2.12
+"Rhomboplites _ aurorubens","Vermilion snapper",2018,6,1,1,2,2,2,"gulf","Snappers",1.4,1.36,1.2,4,1.76
+"Rhomboplites _ aurorubens","Vermilion snapper",2018,6,1,1,2,2,2,"sava","Reef Fish",1.3,1.9,1.4,4,2.1
+"Rhomboplites _ aurorubens","Vermilion snapper",2018,6,1,1,2,2,2,"gulf","Snappers",1.4,1.36,1.2,4,1.76
+"Rhomboplites _ aurorubens","Vermilion snapper",2018,6,1,1,2,2,2,"sava","Reef Fish",1.3,1.9,1.4,4,2.1
+"Polyprion _ americanus","Wreckfish",2014,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Morone _ americana","Wreckfish",2014,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Pseudanthias _ squamipinnis","Wreckfish",2014,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Scomberomorus _ commerson","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ alalunga","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ albacares","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ atlanticus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Seriola _ lalandi","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Carangoides _ fulvoguttatus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Rhizoprionodon _ porosus","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"gulf","Elasmobranch",1.76,1.52,1.2,4,2.36
+"Rhizoprionodon _ porosus","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"sava","Elasmobranchs",1.4,1.7,1.4,4,2.8
+"Rhizoprionodon _ porosus","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"gulf","Elasmobranch",1.76,1.52,1.2,4,2.36
+"Rhizoprionodon _ porosus","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"sava","Elasmobranchs",1.4,1.7,1.4,4,2.8
+"Rhizoprionodon _ terraenovae","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"gulf","Elasmobranch",1.76,1.52,1.2,4,2.36
+"Rhizoprionodon _ terraenovae","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"sava","Elasmobranchs",1.4,1.7,1.4,4,2.8
+"Rhizoprionodon _ terraenovae","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"gulf","Elasmobranch",1.76,1.52,1.2,4,2.36
+"Rhizoprionodon _ terraenovae","Atlantic sharpnose shark",2013,6,1,1,1,1,1,"sava","Elasmobranchs",1.4,1.7,1.4,4,2.8
+"Alopias _ superciliosus","Bigeye thresher",2017,1,0,0,0,0,0.5,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Bigeye tuna",2020.33333333333,5.66666666666667,0.666666666666667,1.66666666666667,1.66666666666667,1,1,"pacific","Pelagics",1.44,1.4,1.36,4,1.4
+"Carcharhinus _ acronotus","Blacknose shark",2011,6,1,1,1,1,1,"gulf","Elasmobranch",2.2,1.76,1.44,4,2.28
+"Carcharhinus _ dussumieri","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Carcharhinus _ limbatus","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Carcharhinus _ melanopterus","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Carcharhinus _ sorrah","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Rhizoprionodon _ acutus","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Carcharhinus _ tilstoni","Blacktip shark",2021,6,2,1,2,1,1,"gulf","Elasmobranch",2.08,1.64,1.6,4,2.32
+"Makaira _ nigricans","Blue marlin",2015.5,5.5,1.5,0,1.5,1.5,1,NA,NA,NA,NA,NA,NA,NA
+"Makaira _ mazara","Blue marlin",2015.5,5.5,1.5,0,1.5,1.5,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Prionace _ glauca","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ maccoyii","Bluefin tuna",2021,6,0,1,1,2,0,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ thynnus","Bluefin tuna",2021,6,0,1,1,2,0,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ tonggol","Bluefin tuna",2021,6,0,1,1,2,0,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ orientalis","Bluefin tuna",2021,6,0,1,1,2,0,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ orientalis","Pacific bluefin tuna",2020,6,0,2,0,0,1,NA,NA,NA,NA,NA,NA,NA
+"Lamna _ nasus","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ nasus","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ nasus","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ nasus","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ ditropis","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ ditropis","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ ditropis","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Lamna _ ditropis","Porbeagle",2021,1,0,0,1,2,1,"neva","Elasmobranch",1.36,1.28,1.24,4,1.96
+"Istiophorus _ albicans","Sailfish",2016,6,1,0,1,1.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Istiophorus _ platypterus","Sailfish",2016,6,1,0,1,1.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Shortfin mako",2017.5,6,0.5,0,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Shortfin mako",2017.5,6,0.5,0,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Katsuwonus _ pelamis","Skipjack tuna",2017,3.33333333333333,0.666666666666667,0,1.33333333333333,1,2.33333333333333,"pacific","Pelagics",1.48,1.56,1.2,4,1.96
+"Mustelus _ canis","Smooth dogfish",2015,6,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Mustelus _ mustelus","Smooth dogfish",2015,6,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Istiompax _ indica","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Xiphias _ gladius","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Strongylura _ marina","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Pareques _ acuminatus","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Kajikia _ albida","White marlin",2019,5,1,0,2,2,1,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56
+"Pleuronectes _ quadrituberculatus","Alaska plaice",2021,6,0,0,0,0,1,"bering_sea","Flatfish",1.65,1.4,1.35,4,1.75
+"Bathyraja _ parmifera","Alaska skate",2021,6,2,1,0,0,0,"bering_sea","Elasmobranch",2.93,1.6,1.2,4,1.67
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Pleurogrammus _ azonus","Atka mackerel",2018,3.5,0.5,0.5,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Pleurogrammus _ monopterygius","Atka mackerel",2018,3.5,0.5,0.5,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Reinhardtius _ hippoglossoides","Greenland halibut",2021,6,0,1,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Atheresthes _ evermanni","Kamchatka flounder",2021,6,1,1,1,1,0,"bering_sea","Flatfish",1.96,1.28,1.6,4,2.2
+"Sebastes _ polyspinis","Northern rockfish",2021,6,0,0.5,0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ macrocephalus","Pacific cod",2020.66666666667,4.66666666666667,0.25,0.75,1.5,1.25,1.25,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ macrocephalus","Pacific cod",2020.66666666667,4.66666666666667,0.25,0.75,1.5,1.25,1.25,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Gadus _ chalcogrammus","Walleye pollock",2020.6,4.4,0,0.6,0.8,0.8,0.8,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ chalcogrammus","Walleye pollock",2020.6,4.4,0,0.6,0.8,0.8,0.8,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ chalcogrammus","Walleye pollock",2020.6,4.4,0,0.6,0.8,0.8,0.8,NA,NA,NA,NA,NA,NA,NA
+"Limanda _ aspera","Yellowfin sole",2021,6,0,0,1,1,0,"bering_sea","Flatfish",1.65,1.55,1.35,4,1.75
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Pleurogrammus _ azonus","Atka mackerel",2018,3.5,0.5,0.5,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Pleurogrammus _ monopterygius","Atka mackerel",2018,3.5,0.5,0.5,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Beringraja _ binoculata","Big skate",2020,4,0,0,1.5,0.5,2,NA,NA,NA,NA,NA,NA,NA
+"Leucoraja _ ocellata","Big skate",2020,4,0,0,1.5,0.5,2,NA,NA,NA,NA,NA,NA,NA
+"Microstomus _ pacificus","Dover sole",2021,6,0,0,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Solea _ solea","Dover sole",2021,6,0,0,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ ciliatus","Dusky rockfish",2021,6,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ variabilis","Dusky rockfish",2021,6,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Hippoglossoides _ elassodon","Flathead sole",2020,6,0,0,0,0.5,0,"bering_sea","Flatfish",1.9,1.75,1.4,4,1.6
+"Beringraja _ rhina","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Dipturus _ oxyrinchus","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Dentiraja _ confusa","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Sebastes _ polyspinis","Northern rockfish",2021,6,0,0.5,0.5,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ macrocephalus","Pacific cod",2020.66666666667,4.66666666666667,0.25,0.75,1.5,1.25,1.25,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Glyptocephalus _ zachirus","Rex sole",2016,4.5,0,0,0.5,0,0,NA,NA,NA,NA,NA,NA,NA
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Lepidopsetta _ bilineata","Rock sole",2020,6,0.5,0,0.5,0.5,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ zacentrus","Sharpchin rockfish",2013,3,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Gadus _ chalcogrammus","Walleye pollock",2020.6,4.4,0,0.6,0.8,0.8,0.8,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ chalcogrammus","Walleye pollock",2020.6,4.4,0,0.6,0.8,0.8,0.8,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ ruberrimus","Yelloweye rockfish",2019,4,0.5,1,1,2.5,1,NA,NA,NA,NA,NA,NA,NA
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Atheresthes _ stomias","Arrowtooth flounder",2021,6,0,0,0.333333333333333,0.333333333333333,0,"bering_sea","Flatfish",1.8,1.12,1.56,4,2
+"Sebastes _ aurora","Aurora rockfish",2013,6,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ rufus","Bank rockfish",2010,1,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Beringraja _ binoculata","Big skate",2020,4,0,0,1.5,0.5,2,NA,NA,NA,NA,NA,NA,NA
+"Leucoraja _ ocellata","Big skate",2020,4,0,0,1.5,0.5,2,NA,NA,NA,NA,NA,NA,NA
+"Mycteroperca _ bonaci","Black rockfish",2019,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ melanops","Black rockfish",2019,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ melanostomus","Blackgill rockfish",2019,6,0,0,0,0,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ paucispinis","Bocaccio",2017,6,1,0,2,1,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ auriculatus","Brown rockfish",2013,3,1,0,1,0,2,NA,NA,NA,NA,NA,NA,NA
+"Larimus _ breviceps","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Cottus _ bairdii","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Hemitripterus _ americanus","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Leptocottus _ armatus","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Myoxocephalus _ octodecemspinosus","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Scorpaenichthys _ marmoratus","Cabezon",2019,6,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA
+"Scorpaena _ guttata","California scorpionfish",2017,6,1,0,0,2,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ pinniger","Canary rockfish",2021,6,1,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ goodei","Chilipepper",2017,6,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ nebulosus","China rockfish",2019,6,1,1,0,0,1,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ caurinus","Copper rockfish",2021,5,1,3,1,3,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ levis","Cowcod",2019,6,1,0,0,0,1,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ crameri","Darkblotched rockfish",2021,6,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Microstomus _ pacificus","Dover sole",2021,6,0,0,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Solea _ solea","Dover sole",2021,6,0,0,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Parophrys _ vetulus","English sole",2013,3,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Hippoglossoides _ elassodon","Flathead sole",2020,6,0,0,0,0.5,0,"bering_sea","Flatfish",1.9,1.75,1.4,4,1.6
+"Sebastes _ chlorostictus","Greenspotted rockfish",2011,6,0,0,0,1,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ elongatus","Greenstriped rockfish",2009,6,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Hexagrammos _ decagrammus","Kelp greenling",2015,6,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Ophiodon _ elongatus","Lingcod",2021,6,2,0,2,2,2,"general","Other Groundfish",2.85,1.85,1.55,3.95,1.45
+"Beringraja _ rhina","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Dipturus _ oxyrinchus","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Dentiraja _ confusa","Longnose skate",2020,4,1,0,2,0.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Sebastolobus _ altivelis","Longspine thornyhead",2019,6,2,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Gadus _ macrocephalus","Pacific cod",2020.66666666667,4.66666666666667,0.25,0.75,1.5,1.25,1.25,NA,NA,NA,NA,NA,NA,NA
+"Merluccius _ gayi _ gayi","Pacific hake",2021,6,0,0,1,0,3,NA,NA,NA,NA,NA,NA,NA
+"Merluccius _ productus","Pacific hake",2021,6,0,0,1,0,3,NA,NA,NA,NA,NA,NA,NA
+"Merluccius _ gayi _ peruanus","Pacific hake",2021,6,0,0,1,0,3,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"bering_sea","Rockfish",2.3,1.9,1.95,4,3.2
+"Sebastes _ alutus","Pacific ocean perch",2019.66666666667,6,0.333333333333333,0,0,0.666666666666667,1,"general","Rockfish",2.75,2.4,1.8,3.95,2.35
+"Citharichthys _ sordidus","Pacific sanddab",2013,6,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Squalus _ suckleyi","Pacific spiny dogfish",2021,6,2,0,1,0,2,NA,NA,NA,NA,NA,NA,NA
+"Eopsetta _ jordani","Petrale sole",2021,6,0,0,2,0,2,NA,NA,NA,NA,NA,NA,NA
+"Glyptocephalus _ zachirus","Rex sole",2016,4.5,0,0,0.5,0,0,NA,NA,NA,NA,NA,NA,NA
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Lepidopsetta _ polyxystra","Northern rock sole",2020,6,1,1,1,1,0,"bering_sea","Flatfish",1.65,1.4,1.45,4,1.45
+"Lepidopsetta _ bilineata","Rock sole",2020,6,0.5,0,0.5,0.5,0,NA,NA,NA,NA,NA,NA,NA
+"Anoplopoma _ fimbria","Sablefish",2021,6,1,0,1,1,0,"bering_sea","Other",1.6,1.7,1.25,4,1.7
+"Anoplopoma _ fimbria","Sablefish",2021,6,1,0,1,1,0,"general","Other Groundfish",2.15,1.25,1.25,3.95,1.85
+"Anoplopoma _ fimbria","Sablefish",2021,6,1,0,1,1,0,"bering_sea","Other",1.6,1.7,1.25,4,1.7
+"Anoplopoma _ fimbria","Sablefish",2021,6,1,0,1,1,0,"general","Other Groundfish",2.15,1.25,1.25,3.95,1.85
+"Sebastes _ zacentrus","Sharpchin rockfish",2013,3,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ jordani","Shortbelly rockfish",2007,6,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"bering_sea","Rockfish",2.3,1.9,1.75,4,3.2
+"Sebastes _ borealis","Shortraker rockfish",2020.5,2,1.33333333333333,0.333333333333333,1.33333333333333,1.33333333333333,1.66666666666667,"general","Rockfish",2,2.45,1.6,4,2.15
+"Sebastolobus _ alascanus","Shortspine thornyhead",2019,6,0,0,2,1,0,"bering_sea","Rockfish",1.9,1.95,1.85,4,2.45
+"Sebastolobus _ alascanus","Shortspine thornyhead",2019,6,0,0,2,1,0,"general","Other Groundfish",1.7,1.25,1.2,3.95,2
+"Sebastolobus _ alascanus","Shortspine thornyhead",2019,6,0,0,2,1,0,"bering_sea","Rockfish",1.9,1.95,1.85,4,2.45
+"Sebastolobus _ alascanus","Shortspine thornyhead",2019,6,0,0,2,1,0,"general","Other Groundfish",1.7,1.25,1.2,3.95,2
+"Sebastes _ diploproa","Splitnose rockfish",2009,6,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ hopkinsi","Squarespot rockfish",2021,5,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Platichthys _ stellatus","Starry flounder",2017,1,0,0,0,0,0,"bering_sea","Flatfish",2,1.3,1.3,4,1.5
+"Platichthys _ stellatus","Starry flounder",2017,1,0,0,0,0,0,"general","Flatfish",1.45,1.45,1.266666667,3.95,2.45
+"Platichthys _ stellatus","Starry flounder",2017,1,0,0,0,0,0,"bering_sea","Flatfish",2,1.3,1.3,4,1.5
+"Platichthys _ stellatus","Starry flounder",2017,1,0,0,0,0,0,"general","Flatfish",1.45,1.45,1.266666667,3.95,2.45
+"Sebastes _ saxicola","Stripetail rockfish",2013,3,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ entomelas","Widow rockfish",2019,6,1,0,2,1,2,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ ruberrimus","Yelloweye rockfish",2019,4,0.5,1,1,2.5,1,NA,NA,NA,NA,NA,NA,NA
+"Sebastes _ flavidus","Yellowtail rockfish",2017,6,2,1,1,1,2,NA,NA,NA,NA,NA,NA,NA
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ gorbuscha","Pink salmon",2021,3,0,0,0,0,0,"bering_sea","Salmon",3.05,2.45,1.65,3.83,2.15
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"bering_sea","Salmon",3.25,2.8,1.8,4,2.55
+"Oncorhynchus _ tshawytscha","Chinook salmon",2020.73333333333,3.76666666666667,0.741935483870968,0.612903225806452,0.903225806451613,0.935483870967742,2.87096774193548,"general","Salmon",3.5,1.85,1.75,4,3.5
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"bering_sea","Salmon",3.25,2.8,1.65,4,2.15
+"Oncorhynchus _ kisutch","Coho salmon",2021,3.43478260869565,0.130434782608696,0.782608695652174,1.17391304347826,1.78260869565217,2.30434782608696,"general","Salmon",3.5,2.1,1.8,4,3.45
+"Scomber _ japonicus","Pacific chub mackerel",2019,6,0,1,2,1,3,NA,NA,NA,NA,NA,NA,NA
+"Sardinops _ sagax","Pacific sardine",2020,6,0,0,0,0,2,NA,NA,NA,NA,NA,NA,NA
+"Scomberomorus _ commerson","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ alalunga","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ albacares","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ atlanticus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Seriola _ lalandi","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Carangoides _ fulvoguttatus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Bigeye tuna",2020.33333333333,5.66666666666667,0.666666666666667,1.66666666666667,1.66666666666667,1,1,"pacific","Pelagics",1.44,1.4,1.36,4,1.4
+"Isurus _ oxyrinchus","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Prionace _ glauca","Blue shark",2016,6,1,0.5,1,0.5,1,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ orientalis","Pacific bluefin tuna",2020,6,0,2,0,0,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Shortfin mako",2017.5,6,0.5,0,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Isurus _ oxyrinchus","Shortfin mako",2017.5,6,0.5,0,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Katsuwonus _ pelamis","Skipjack tuna",2017,3.33333333333333,0.666666666666667,0,1.33333333333333,1,2.33333333333333,"pacific","Pelagics",1.48,1.56,1.2,4,1.96
+"Kajikia _ audax","Striped marlin",2014.5,5.5,0.5,0,1,1,1,"pacific","Pelagics",1.64,1.6,1.56,4,1.52
+"Kajikia _ audax","Striped marlin",2014.5,5.5,0.5,0,1,1,1,"pacific","Pelagics",1.64,1.6,1.56,4,1.52
+"Istiompax _ indica","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Xiphias _ gladius","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Strongylura _ marina","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Pareques _ acuminatus","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56
+"Scomberomorus _ commerson","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ alalunga","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ albacares","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ atlanticus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Seriola _ lalandi","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Carangoides _ fulvoguttatus","Albacore",2018.33333333333,5,0.666666666666667,0,0.666666666666667,1.33333333333333,2,NA,NA,NA,NA,NA,NA,NA
+"Makaira _ nigricans","Blue marlin",2015.5,5.5,1.5,0,1.5,1.5,1,NA,NA,NA,NA,NA,NA,NA
+"Makaira _ mazara","Blue marlin",2015.5,5.5,1.5,0,1.5,1.5,1,NA,NA,NA,NA,NA,NA,NA
+"Carcharhinus _ longimanus","Oceanic whitetip shark",2019,6,3,1,1,1,0,"pacific","Shark",1.4,1.28,1.28,4,1.76
+"Istiophorus _ albicans","Sailfish",2016,6,1,0,1,1.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Istiophorus _ platypterus","Sailfish",2016,6,1,0,1,1.5,1.5,NA,NA,NA,NA,NA,NA,NA
+"Carcharhinus _ falciformis","Silky shark",2018,6,1,0,0,0,0,"pacific","Shark",1.84,1.28,1.16,4,2.2
+"Alopias _ superciliosus","Bigeye thresher",2017,1,0,0,0,0,0.5,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ obesus","Bigeye tuna",2020.33333333333,5.66666666666667,0.666666666666667,1.66666666666667,1.66666666666667,1,1,"pacific","Pelagics",1.44,1.4,1.36,4,1.4
+"Katsuwonus _ pelamis","Skipjack tuna",2017,3.33333333333333,0.666666666666667,0,1.33333333333333,1,2.33333333333333,"pacific","Pelagics",1.48,1.56,1.2,4,1.96
+"Kajikia _ audax","Striped marlin",2014.5,5.5,0.5,0,1,1,1,"pacific","Pelagics",1.64,1.6,1.56,4,1.52
+"Kajikia _ audax","Striped marlin",2014.5,5.5,0.5,0,1,1,1,"pacific","Pelagics",1.64,1.6,1.56,4,1.52
+"Istiompax _ indica","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Xiphias _ gladius","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Strongylura _ marina","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Pareques _ acuminatus","Swordfish",2016.33333333333,5,0.666666666666667,0,0.666666666666667,1,1.33333333333333,"general","HMS",1.75,1.35,1.65,4,1.55
+"Alopias _ superciliosus","Thresher shark",2018,6,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Alopias _ vulpinus","Thresher shark",2018,6,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Alopias _ pelagicus","Thresher shark",2018,6,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56
+"Thunnus _ albacares","Yellowfin tuna",2019.66666666667,5.66666666666667,0.666666666666667,1.33333333333333,1,1,1,"pacific","Pelagics",1.68,1.28,1.12,4,1.56

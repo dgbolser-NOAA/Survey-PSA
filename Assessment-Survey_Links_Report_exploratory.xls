@@ -1,0 +1,1100 @@
+
+
+
+
+
+ <table border=1><tr><td>Report Type: </td><td align=left colspan=4>Number_of_Assessments_Supported_by_Surveys</td></tr>
+ <tr><td>Asmt Year From: </td><td align=left  colspan=4>2023</td></tr>
+ <tr><td>Asmt Year To: </td><td align=left  colspan=4>2023</td></tr>  
+ <tr><td>Influence Degree: </td><td align=left  colspan=4>Exploratory</td></tr>  
+ </table><br></br><br></br>
+
+ <table border=1><tr><td>Ecosystem</td><td>Survey Type</td><td>Survey Name</td><td>Survey Degree</td>   
+        
+        <td valign="top">2023</td>
+        
+        </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Sardine - Hake Acoustic Trawl Survey (SaKe)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Rockfish Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP Gulf of Mexico Reef Fish</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP-GOM Shrimp/Groundfish Trawl_Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Sea Scallop_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">IPHC longline survey. Conducted off the coast of Oregon and Washington.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Edison Power Plant Impingement Survey (1972-2008)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC west coast slope survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Oregon Department of Fish and Wildlife ROV Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Los Angeles County Sanitation District Trawl Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Washington Department of Fish and Wildlife?s Nearshore Rockfish Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">ADF&G Pot Surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">IPHC Longline Survey </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">SWFSC Groundfish Ecology survey longline (2001-2005): 
+explored for bio comp. data</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Laidig et al. (2003) dive surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">PC Longline ? All	Carlson et al.	LCS05/06-DW-12	Coastal NW FL	93-00	Apr-Oct	No/100 hook hour	Independent	Lo Method	Length Frequencies	All	Fishery independent	Limited spatial coverage, Gear differences	Sensitivity
+(PC LL)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">The Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) adult survey (1999-2018), conducted SCUBA surveys predominantly in the Monterey region - explored but not used</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">PISCO SCUBA Survey (1999-2008).  Explored but not retained in base case due to central California coverage. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Enhanced Data Collection Project (EDCP) (1995-1999)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Eastern Bering Sea Groundfish Bottom Trawl</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">GOA/EBS/AI Longline Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Alaska Department of Fish and Game Large-mesh Trawl Survey of Gulf of Alaska and Eastern Aleutian Islands_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">CalCOFI_Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">California Cooperative Oceanic Fisheries Investigation (CalCOFI) Winter, Spring, Summer, and Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">West Coast Rockfish Hook and Line</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">NH/ME Inshore Trawl Survey (MDMF)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">CDFG Hook and Line Survey (1979-1982, 1995-1998) </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">US GOM Larval Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Postseason fall pot survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC shelf survey 1977 - ????, 2004</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">[SEAMAP Inshore Longline?] 
+
+SEAMAP coastal LL	Hoffmayer and Pollack	WP-15	Coastal MS, LA	08-10 (11)	Mar-Oct	No/100 hook hour	Independent	Lo Method	Frequencies	All	Inshore survey	Limited spatial coverage, Short time series	Sensitivity ? Model includes Age-1+
+(MS-LA LL)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">CDFG Hook and Line Survey (1979-1982, 1995-1998)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC slope survey - Discontinued</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) SCUBA Transects and hook-and-line sampling at reef sites</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Monterey SCUBA Survey (1993-1998).</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Southern California Sanitation Index. Explored but rejected since cabezon are rarely encountered. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">California Spearfishing Database (1958-2003) explored but rejected due to low sample size.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">TENERA SCUBA Survey (1977-2008). Explored but rejected due to very limited coverage.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Gulf of Alaska Shelf and Slope Groundfish Bottom Trawl </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Untrawlable Habitat Adult Rockfish/Deepsea Corals (COAST)_ROV</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Coastal Pelagic Species (CPS)_Spring</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Cooperative Research Survey - Longline</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Summer pot survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC/NWFSC West Coast Triennial Shelf Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC west coast slope survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Marine Reserve Program (ODFW) / Oregon State University SMURF Surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC slope survey 1999-2002</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">IPHC longline survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish.  This survey has been discontinued. The data from this survey were not used in the assessment because greenspotted rockfish were rarely caught in the survey. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">TENERA Scuba (1976-2007) Explored but rejected due to spatially limited. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Zooplankton anomally Index taken from Mackas et al. 2006.  </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Method</td><td valign="top">United States Rod and Reel (145-177 cm)
+1993-2001</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Southern California Sanitation Index. Explored but rejected since cabezon are rarely encountered.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Untrawlable Habitat Adult Rockfish/Deepsea Corals (COAST)_Acoustics</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Caribbean Sea</td><td valign="top">FINSS Survey</td><td valign="top">Fish assemblages of western and southwestern Puerto Rico</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP Shark/Red Snapper Bottom Longline</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">Panama City Laboratory Reef Fish Trap/Video</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Spring</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Pacific Highly Migratory</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS West Coast Slope Survey </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFS-SWFSC Joint Pacific sardine/Pacific hake acoustic survey_summer _Age-1 index</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Delta submersible survey of Southern California Bight conducted by University of Santa Barbara (M. Love et al.).</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Delta submersible survey of Southern California Bight conducted by University of Santa Barbara (M. Love et al.). </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Preseason pot survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS Triennial Bottom Trawl Survey (discontinued) </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Cooperative U.S.-Japan trawl survey from 1979-1985 on the EBS slope, and from 1980-1986 in the AI</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">WDFW hook and line survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">CDFW/Ven Tresca Dive Surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC Bottom trawl Slope Survey -- 1999-2002</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC/NWFSC Triennial Bottom Trawl Survey (discontinued)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Preseason spring pot survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) (2010-2011)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">VIMS   Chesapeake   Bay   Multispecies   Monitoring   and   Assessment   Program  (ChesMMap)  survey </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">	
+CDFG Hook and Line Survey (1979-1982, 1995-1998)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">CENECAL (1959-2006). Spearfish tournament. Explored but rejected due to spatially limited. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish. This survey has been discontinued.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Pikitch study (1985-1987)
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Sea-Surface Height environmental index</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">The West Coast Groundfish Observer Program (WCGOP) provides observer data on discarding across fishery sectors back to 2003.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Method</td><td valign="top">United States Rod and Reel >195 cm Combined
+1983-2001</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Aleutian Island Groundfish Bottom Trawl</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Eastern Bering Sea Upper Continenal Slope Groundfish Bottom Trawl</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">CalCOFI_Spring</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">CalCOFI_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Salmon_Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Salmon_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Winter</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Massachusetts DMF Bottom Trawl_Spring</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Southeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP Reef Fish Camera/Trap</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">VIMS juvenile survey in Chesapeake Bay</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS and IPHC Pot Surveys - Discontinued
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC West Coast bottom trawl "triennial shelf survey"</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS and IPHC Pot Surveys - Discontinued</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">International Pacific Halibut Commission (IPHC) longline survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">International Pacific Halibut Commission longline survey (1997-present)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFS Pacific hake acoustic survey_summer _Age-1 index</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">[SEAMAP Inshore Longline?] 
+
+GCRL Bottom LL ? All	Hoffmayer et al.	WP-14	MS Sound	04-10 (11)	Mar-Oct	No/100 hook hour	Independent	Lo Method	Length Frequencies	All	Inshore survey	Limited spatial coverage, Short time series	Sensitivity ? Model includes Age-1+
+(MS LL)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">[SEAMAP Inshore Longline?] 
+
+Dauphin Island Sea Lab	Drymon and Powers	WP-11	Coastal AL	10-Jun	Jan-Dec	No/100 hook hour	Independent	Lo Method	Length Frequencies	Mostly immature	Inshore survey, Same gear as NMFS SE LL	Limited spatial coverage, Short time series	Sensitivity
+(AL LL)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">International Pacific Halibut Commission (IPHC) longline survey </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">PISCO Scuba (1999-2007). Explored but rejected because spatially limited. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">SMURFS (conducted by PISCO and CalPOLY in San Louis Obispo) have both collected recruitment information on nearshore fishes in California (2006-2008).  </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Edison Power Plant Impingement Data - authors unable to obtain the data in time for the assesment. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">SMURFS (conducted by PISCO and CalPOLY in San Louis Obispo) have both collected recruitment information on nearshore fishes in California (2006-2008).</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">CalCOFI_Winter</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Shrimp Survey (ASMFC) Northern Shrimp</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Coral Reef Ecosystem Research</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Postseason pot survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFS-SWFSC Joint Pacific sardine/Pacific hake acoustic survey_summer _Age-1 index </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Summer preseason survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish.  This survey has been discontinued. - Black rockfish are rarely taken in this survey so not used as an index of abundance in the assessment. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC/NWFSC Triennial Bottom Trawl Survey (discontinued) </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">International Pacific Halibut Commission (IPHC) longline survey. Note: The IPHC longline survey fishes in suitable habitat for rougheye rockfish, but the majority of the rockfish catch is yelloweye rockfish (S. ruberrimus). In 2012, 169 rockfish were observed in area 2A, and consisted of eleven different species. Of those 169 rockfish, 115 were yelloweye, and 13 were rougheye. Based on the low numbers of rougheye rockfish, the data were not used in this assessment.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Gulf of Mexico Oceanographic Index 1993-2016</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Mote GN ? Juvenile Carlson et al. WP-01 Coastal W FL 95-97,99-10 Mar-Nov No/net hour Independent Lo Method Length Frequencies Only immature Long time series, Consistent gear type Limited spatial coverage, Missing 1998 Sensitivity ? Model includes Age-1+ (MML GN Juv) </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">IPHC Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">U.S.-Japan cooperative trawl surveys conducted in 1980, 1983, 1986</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">GOM larvae survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC slope survey - Discontinued</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">GCRL Gillnet ? All	Hoffmayer et al.	WP-13	MS Sound	98-10 (11)	Mar-Oct	No/100m net hour	Independent	Lo Method	Length Frequencies	All	Long time series	Limited spatial coverage	Sensitivity ? Model includes Age-1+
+(MS GN )													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Gulf of Mexico</td><td valign="top">Other Survey</td><td valign="top">Florida Fish and Wildlife Conservation Commission Reef Fish Video Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Marine Reserve Program (ODFW) Hook and Line Surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">US GOM Larval Survey 1982-2015</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Texas PWD GN ? All	Bubley and Carlson	WP-12	TX Bays	92-10	April-June, Sept-Nov	No/net hour	Independent	Lo Method	Length Frequencies	All	Long time series, High spatial coverage across Texas		Base ? Model include only Age-1+
+(TEXAS)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">TENERA SCUBA Survey (1977-2008). Explored but rejected due to very limited coverage.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">TENERA SCUBA Survey (1977-2008). Explored but rejected due to very limited coverage. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Pikitch study (1985-1987)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Pikitch study 1985-1987</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">PISCO SCUBA Survey (1999-2008). Explored but not retained in base case due to central California coverage.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Coastal Pelagic Species (CPS)_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">West Coast Groundfish Bottom Trawl</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Northern Juvenile Fish</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Hake Acoustic_Summer</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Massachusetts DMF Bottom Trawl_Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Area Monitoring and Assessment Program (NEAMAP)_Spring (MDMR/VIMS)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Pacific Highly Migratory</td><td valign="top">FINSS Survey</td><td valign="top">Southwest Highly Migratory Species (HMS) Longline</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">CDFG Hook and Line Survey (1978-1982, 1995-1998).  Explored but rejected due to spatially limited and difference between time periods. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">ODFW?s hook and line survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish.  This survey has been discontinued.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS Pot Survey (1979-1991). Survey has been discontinued. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">ODFW ROV Camera Surveys </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Tenera Dive Surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">The NMFS triennial trawl survey (Discontinued)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">SWFSC Groundfish Ecology survey longline (2001-2005): explored for bio comp. data</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">ADF&G Pot Surveys
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish.  This survey has been discontinued. Explored but rejected for this stock since the survey depth range in most years has been from 30-200 fm (Wilkins et al., 1995) which is outside the normal depth range of black rockfish and only
+233 fish in 27 tows have been captured to date.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish. This survey has been discontinued.</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">PC GN ? Juvenile	Carlson et al.	WP-01	Coastal NW FL	96-10	Apr-Oct	No/net hour	Independent	Lo Method	Length Frequencies	Only immature	Long time series, Consistent gear type	Limited spatial coverage	Sensitivity ? Model includes Age-1+
+(PC GN Juv)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Alaska Fisheries Science Center (AFSC) triennial shelf survey off Pacific coast. Conducted  by AFSC 1977-2001 and NWFSC in 2004. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC shelf-slope survey 2003 - present</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">PC GN ? Juvenile Carlson et al. WP-01 Coastal NW FL 96-10 Apr-Oct No/net hour Independent Lo Method Length Frequencies Only immature Long time series, Consistent gear type Limited spatial coverage Sensitivity ? Model includes Age-1+ (PC GN Juv) </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">CDFG Scuba (1995-1998). Rejected because spatially limited. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">California Spearfishing Database (1958-2003) explored but rejected due to low sample size. </td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) 2010 - 2011</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">FINSS Survey</td><td valign="top">Gulf of Mexico Shark Pupping and Nursery (GULFSPAN)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">COOPERATIVE RESEARCH SURVEY - GOOSEFISH</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Northeast Shelf / Southeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Ecosystem Monitoring (EcoMon)_Fall</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO)  subtidal scuba surveys</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">California Collaborative Fisheries Research Program (CCFRP)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">Cooperative U.S.-Japan trawl survey from 1979-1985 on the EBS slope, and from 1980-1986 in the AI
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO)  (2010-2011)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">International Pacific Halibut Commission longline survey (1997-2008)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Survey</td><td valign="top">IPHC Longline Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS Triennial Shelf Survey - retired</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Mote GN ? Juvenile	Carlson et al.	WP-01	Coastal W FL	95-97,99-10	Mar-Nov	No/net hour	Independent	Lo Method	Length Frequencies	Only immature	Long time series, Consistent gear type	Limited spatial coverage, Missing 1998	Sensitivity ? Model includes Age-1+
+(MML GN Juv)													
+</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">2002 US Vancouver Submersible Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Oregon Department of Fish and Wildlife Nearshore Acoustic Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NWFSC west coast bottom trawl "slope survey" (1999-2002)</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Orange County Sanitation District Trawl Survey</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+        <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Enhanced Data Collection Project 1995-1999</td><td valign="top">Exploratory</td>
+
+        
+        <td valign="top">0</td>
+                
+                </tr>
+          </table>
+
+

@@ -1,0 +1,538 @@
+
+
+
+
+
+ <table border=1><tr><td>Report Type: </td><td align=left colspan=4>Latest_Assessments_Supported_by_Surveys</td></tr>
+ <tr><td>Asmt Year From: </td><td align=left  colspan=4>2005</td></tr>
+ <tr><td>Asmt Year To: </td><td align=left  colspan=4>2023</td></tr>  
+ <tr><td>Influence Degree: </td><td align=left  colspan=4>Secondary</td></tr>  
+ </table><br></br><br></br>
+
+ <table border=1><tr><td>Ecosystem</td><td>Survey Type</td><td>Survey Name</td><td>Entity Name</td><td>Assessment Year</td><td>Assessment Month</td><td>Degree of Influence</td></tr>
+        <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Red king crab - Norton Sound</td><td valign="top">2022</td><td valign="top">2</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Red king crab - Pribilof Islands</td><td valign="top">2022</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Sablefish - Eastern Bering Sea / Aleutian Islands / Gulf of Alaska</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Southern Tanner crab - Bering Sea</td><td valign="top">2022</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Walleye pollock - Eastern Bering Sea</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Aleutian Island Groundfish Bottom Trawl</td>
+           <td valign="top">Giant octopus - Bering Sea / Aleutian Islands</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Aleutian Islands Cooperative Acoustic Survey Studies</td>
+           <td valign="top">Walleye pollock - Aleutian Islands</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Eastern Bering Sea Groundfish Bottom Trawl</td>
+           <td valign="top">Giant octopus - Bering Sea / Aleutian Islands</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Eastern Bering Sea Groundfish Bottom Trawl</td>
+           <td valign="top">Pacific ocean perch - Bering Sea / Aleutian Islands</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Eastern Bering Sea Slope Bottom Trawl Survey_Summer</td>
+           <td valign="top">Giant octopus - Bering Sea / Aleutian Islands</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Gulf of Alaska/Kenai/PWS Walleye Pollock Acoustic Trawl Survey_Winter</td>
+           <td valign="top">Walleye pollock - Western / Central / West Yakutat Gulf of Alaska</td><td valign="top">2022</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Alaska Ecosystem Complex</td><td valign="top">Other Method</td><td valign="top">Observer Data</td>
+           <td valign="top">Southern Tanner crab - Bering Sea</td><td valign="top">2022</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Method</td><td valign="top">SEFSC Shark Bottom Longline Observer Program 1994-2009</td>
+           <td valign="top">Blacknose shark - Gulf of Mexico</td><td valign="top">2011</td><td valign="top">4</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">BLLOP Atlantic (SEDAR 13-DW-12: Carlson et al.: Standardized catch rates of small coastal sharks from the Commercial Shark Fishery Longline Observer Program, 1994-2005) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">BLLOP GoM (SEDAR 13-DW-12: Carlson et al.: Standardized catch rates of small coastal sharks from the Commercial Shark Fishery Longline Observer Program, 1994-2005) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Dauphin Island Sea Lab (DISL) Bottom Longline; monthly longline survey initiated off the coast of Alabama in 2006</td>
+           <td valign="top">Blacknose shark - Gulf of Mexico</td><td valign="top">2011</td><td valign="top">4</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Gillnet Logs (SEDAR 13-DW-26: McCarthy: Standardized catch rates for small coastal sharks from the United States Gulf of Mexico and south Atlantic gillnet fishery, 1998-2005) </td>
+           <td valign="top">Atlantic Small Coastal Shark Complex</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Gillnet Logs (SEDAR 13-DW-26: McCarthy: Standardized catch rates for small coastal sharks from the United States Gulf of Mexico and south Atlantic gillnet fishery, 1998-2005) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Gillnet Logs (SEDAR 13-DW-26: McCarthy: Standardized catch rates for small coastal sharks from the United States Gulf of Mexico and south Atlantic gillnet fishery, 1998-2005) </td>
+           <td valign="top">Finetooth shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">MS Gillnet (SEDAR 13-DW-21: Hoffmayer and Ingram: Catch Rates and Size Composition of Small Coastal Sharks Collected During a Gillnet Survey of Mississippi Coastal Waters During 2001?2006)</td>
+           <td valign="top">Finetooth shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">MS Gillnet (SEDAR 13-DW-21: Hoffmayer and Ingram: Catch Rates and Size Composition of Small Coastal Sharks Collected During a Gillnet Survey of Mississippi Coastal Waters During 2001?2006)  </td>
+           <td valign="top">Atlantic Small Coastal Shark Complex</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">MS Gillnet adult (SEDAR 13-DW-21: Hoffmayer and Ingram: Catch Rates and Size Composition of Small Coastal Sharks Collected During a Gillnet Survey of Mississippi Coastal Waters During 2001?2006)  </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">MS Gillnet juvi (SEDAR 13-DW-21: Hoffmayer and Ingram: Catch Rates and Size Composition of Small Coastal Sharks Collected During a Gillnet Survey of Mississippi Coastal Waters During 2001?2006)  </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Mote Marine Lab (MML) Longline; quarterly longline survey of sharks in southwest Florida offshore waters, 2001-2009. </td>
+           <td valign="top">Blacknose shark - Gulf of Mexico</td><td valign="top">2011</td><td valign="top">4</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">NE Exp LL (SEDAR 13-DW-28: McCandless and Hoey: Standardized catch rates for Atlantic sharpnose sharks from exploratory longline surveys conducted by the Sandy Hook, NJ and Narragansett, RI labs: 1961-1991) 
+</td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">NMFS LL SE Atlantic (SEDAR 13-DW-22: Ingram et al.: Catch rates, distribution and size composition of small coastal sharks collected during NOAA Fisheries Bottom Longline Surveys from the U.S. Gulf of Mexico and U.S. Atlantic Ocean)</td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">NMFS LL SE GoM (SEDAR 13-DW-22: Ingram et al.: Catch rates, distribution and size composition of small coastal sharks collected during NOAA Fisheries Bottom Longline Surveys from the U.S. Gulf of Mexico and U.S. Atlantic Ocean) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">PC LL (SEDAR 13-DW-05: Carlson: Standardized catch rates of small coastal sharks from a fisheryindependent longline survey in northwest Florida) </td>
+           <td valign="top">Finetooth shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Panama City Gillnet (PCGN) adults and juveniles; survey of large and small coastal shark populations in coastal areas of the northeast Gulf of Mexico conducted using gillnets from 1996-2009</td>
+           <td valign="top">Blacknose shark - Gulf of Mexico</td><td valign="top">2011</td><td valign="top">4</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">SEAMAP-GoM Extended Fall Groundfish (SEDAR 13-DW-31: Nichols: Indexes of abundance for small coastal sharks from the SEAMAP trawl surveys) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">SEAMAP-GoM Extended Fall SEAMAP (SEDAR 13-DW-31: Nichols: Indexes of abundance for small coastal sharks from the SEAMAP trawl surveys) </td>
+           <td valign="top">Atlantic sharpnose shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Atlantic Highly Migratory</td><td valign="top">Other Survey</td><td valign="top">Texas (SEDAR 13-DW-18: Fisher: Fishery-Independent Catch of Small Coastal Sharks in Texas Bays, 1975-2006)</td>
+           <td valign="top">Finetooth shark - Atlantic and Gulf of Mexico</td><td valign="top">2007</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Bank rockfish - California</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Black-and-yellow rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Chilipepper - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Copper rockfish - Oregon</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Flag rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Grass rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Greenblotched rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Honeycomb rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Kelp rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Mexican rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Olive rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Pacific grenadier - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Petrale sole - Pacific Coast</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Pink rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Quillback rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Quillback rockfish - Washington</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Redbanded rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Redstripe rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Rock sole - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Rosethorn rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Rosy rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Rougheye rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Sand sole - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Shortraker rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Silvergray rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Speckled rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Starry rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Swordspine rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Tiger rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Tope - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Treefish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Vermilion rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Yellowmouth rockfish - Pacific Coast</td><td valign="top">2010</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Rockfish Survey</td>
+           <td valign="top">Bocaccio - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Rockfish Survey</td>
+           <td valign="top">Canary rockfish - Pacific Coast</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Rockfish Survey</td>
+           <td valign="top">Chilipepper - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">Juvenile Rockfish Survey</td>
+           <td valign="top">Shortbelly rockfish - Pacific Coast</td><td valign="top">2007</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">West Coast Groundfish Bottom Trawl</td>
+           <td valign="top">Quillback rockfish - Oregon</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">West Coast Groundfish Bottom Trawl</td>
+           <td valign="top">Quillback rockfish - Washington</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">FINSS Survey</td><td valign="top">West Coast Groundfish Bottom Trawl</td>
+           <td valign="top">Squarespot rockfish - Pacific Coast</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Discard information from the West Coast Observer Program</td>
+           <td valign="top">Quillback rockfish - Oregon</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Method</td><td valign="top">Edison Power Impingement Survey (1972-2010). </td>
+           <td valign="top">Bocaccio - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">AFSC Pacific Ocean Perch Survey - West Coast (1979, 1985). This survey has been discontinued. </td>
+           <td valign="top">Pacific ocean perch - Pacific Coast</td><td valign="top">2017</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">CDFG and Interagency Ecological Program Pre-Recruit Survey </td>
+           <td valign="top">Starry flounder - Pacific Coast</td><td valign="top">2005</td><td valign="top">12</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">IPHC Longline Survey</td>
+           <td valign="top">Big skate - Pacific Coast</td><td valign="top">2019</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">NMFS (Conducted by AFSC for 1977-2001 and NWFSC for 2004) Triennial Shelf Bottom Trawl Survey for Pacific coast groundfish.  This survey has been discontinued.</td>
+           <td valign="top">Yelloweye rockfish - Pacific Coast</td><td valign="top">2017</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Other Survey</td><td valign="top">Seabird Food Habits Survey (1975-2004) by the Point Reyes Bird Observatory (PRBO) on the Southeast
+Farallon Islands.  </td>
+           <td valign="top">Shortbelly rockfish - Pacific Coast</td><td valign="top">2007</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Bocaccio - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Chilipepper - Southern Pacific Coast</td><td valign="top">2017</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Copper rockfish - Northern California</td><td valign="top">2021</td><td valign="top">11</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Copper rockfish - Oregon</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Copper rockfish - Washington</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Vermilion rockfish - Washington</td><td valign="top">2021</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">California Current</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Yelloweye rockfish - Pacific Coast</td><td valign="top">2017</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Gulf of Mexico</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Vermilion snapper - Gulf of Mexico</td><td valign="top">2020</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">Panama City Laboratory Reef Fish Trap/Video</td>
+           <td valign="top">Gray snapper - Gulf of Mexico</td><td valign="top">2018</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP Reef Fish Camera/Trap</td>
+           <td valign="top">Gray snapper - Gulf of Mexico</td><td valign="top">2018</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP South Atlantic Coastal Trawl_Summer (SCDNR)</td>
+           <td valign="top">Hogfish - Eastern Gulf of Mexico | Asmt & Status</td><td valign="top">2018</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Gulf of Mexico</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Vermilion snapper - Gulf of Mexico</td><td valign="top">2020</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Fall</td>
+           <td valign="top">Atlantic mackerel - Gulf of Maine / Cape Hatteras</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Fall</td>
+           <td valign="top">Red deepsea crab - Northwestern Atlantic</td><td valign="top">2006</td><td valign="top">7</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Spring</td>
+           <td valign="top">Atlantic mackerel - Gulf of Maine / Cape Hatteras</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Spring</td>
+           <td valign="top">Red deepsea crab - Northwestern Atlantic</td><td valign="top">2006</td><td valign="top">7</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Spring</td>
+           <td valign="top">Silver hake - Gulf of Maine / Northern Georges Bank</td><td valign="top">2020</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Spring</td>
+           <td valign="top">Silver hake - Southern Georges Bank / Mid-Atlantic | Asmt & Status</td><td valign="top">2020</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Bottom Trawl Survey_Winter</td>
+           <td valign="top">Red deepsea crab - Northwestern Atlantic</td><td valign="top">2006</td><td valign="top">7</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">COOPERATIVE RESEARCH SURVEY - GOOSEFISH</td>
+           <td valign="top">Red deepsea crab - Northwestern Atlantic</td><td valign="top">2006</td><td valign="top">7</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">MARMAP Reef Fish Long Bottom Longline Survey (SCDNR)</td>
+           <td valign="top">Yellowtail flounder - Southern New England / Mid-Atlantic</td><td valign="top">2022</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Massachusetts DMF Bottom Trawl_Fall</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Massachusetts DMF Bottom Trawl_Spring</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Area Monitoring and Assessment Program (NEAMAP)_Spring (MDMR/VIMS)</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Area Monitoring and Assessment Program (NEAMAP)_Spring (MDMR/VIMS)</td>
+           <td valign="top">Bluefish - Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Atlantic Benthic Habitat_Winter</td>
+           <td valign="top">Yellowtail flounder - Southern New England / Mid-Atlantic</td><td valign="top">2022</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Ecosystem Monitoring (EcoMon)_Fall</td>
+           <td valign="top">Yellowtail flounder - Southern New England / Mid-Atlantic</td><td valign="top">2022</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Northeast Ecosystem Monitoring (EcoMon)_Summer</td>
+           <td valign="top">Yellowtail flounder - Southern New England / Mid-Atlantic</td><td valign="top">2022</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Shrimp Survey (ASMFC) Northern Shrimp</td>
+           <td valign="top">Red deepsea crab - Northwestern Atlantic</td><td valign="top">2006</td><td valign="top">7</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Method</td><td valign="top">Arnie's Fisheries Optical Survey</td>
+           <td valign="top">Sea scallop - Northwestern Atlantic Coast</td><td valign="top">2020</td><td valign="top">9</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">Connecticut DEEP spring Long Island trawl</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">Connecticut Long Island sound trawl survey</td>
+           <td valign="top">Bluefish - Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">DE DFW spring trawl</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">NEFSC ECOMON and MARMAP larval surveys</td>
+           <td valign="top">Summer flounder - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">NJ Ocean Trawl Survey</td>
+           <td valign="top">Bluefish - Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">North Carolina Pamlico Sound Independent Gillnet Survey</td>
+           <td valign="top">Bluefish - Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">Rhode Island DFW spring trawl</td>
+           <td valign="top">Black sea bass - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">URI GSO trawl survey</td>
+           <td valign="top">Summer flounder - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Northeast Shelf</td><td valign="top">Other Survey</td><td valign="top">VIMS ChesMMAP</td>
+           <td valign="top">Summer flounder - Mid-Atlantic Coast</td><td valign="top">2021</td><td valign="top">6</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Highly Migratory</td><td valign="top">Other Method</td><td valign="top">Regional Tuna Tagging Project</td>
+           <td valign="top">Yellowfin tuna - Western and Central Pacific</td><td valign="top">2020</td><td valign="top">8</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Bigeye bream - Guam | Asmt</td><td valign="top">2019</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Blacktail snapper - Guam | Asmt</td><td valign="top">2019</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Pacific longnose parrotfish - Guam | Asmt</td><td valign="top">2019</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">Commercial CPUE</td><td valign="top">Commercial CPUE</td>
+           <td valign="top">Steephead parrotfish - Guam | Asmt</td><td valign="top">2019</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">FINSS Survey</td><td valign="top">Coral Reef Ecosystem Research</td>
+           <td valign="top">Humpback red snapper - Guam | Asmt</td><td valign="top">2019</td><td valign="top">5</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Pacific Islands Ecosystem Complex</td><td valign="top">Recreational CPUE</td><td valign="top">Recreational CPUE</td>
+           <td valign="top">Peacock hind - Main Hawaiian Islands</td><td valign="top">2017</td><td valign="top">2</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Southeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Epifaunal (small fish and macro-invertebrates) Sampling</td>
+           <td valign="top">Hogfish - Southeast Florida | Asmt & Status</td><td valign="top">2014</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Southeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">Florida Keys/Southeast Reef Fish Visual Census (RVC)</td>
+           <td valign="top">Hogfish - Southeast Florida | Asmt & Status</td><td valign="top">2014</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Southeast Shelf</td><td valign="top">FINSS Survey</td><td valign="top">SEAMAP-GOM Shrimp/Groundfish Trawl_Summer (FFWCC)</td>
+           <td valign="top">Hogfish - Southeast Florida | Asmt & Status</td><td valign="top">2014</td><td valign="top">10</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Southeast Shelf / Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">Dry Tortugas Reef Fish Visual Census (RVC)</td>
+           <td valign="top">Black grouper - Southern Atlantic Coast / Gulf of Mexico</td><td valign="top">2010</td><td valign="top">3</td>
+           <td valign="top">Secondary</td></tr>
+        
+       <tr><td valign="top">Southeast Shelf / Gulf of Mexico</td><td valign="top">FINSS Survey</td><td valign="top">Gulf of Mexico Pelagic Longline
+</td>
+           <td valign="top">Black grouper - Southern Atlantic Coast / Gulf of Mexico</td><td valign="top">2010</td><td valign="top">3</td>
+           <td valign="top">Secondary</td></tr>
+        
+       
+
+

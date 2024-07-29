@@ -1,0 +1,555 @@
+Stock,Last_assessment,Model_category,Target_frequency,Catch_level,Catch_target,Catch_gap,Abundance_level,Abundance_target,Abundance_gap,LH_level,LH_target,LH_gap,Comp_level,Comp_target,Comp_gap,Eco_level,Eco_target,Eco_gap
+Atlantic herring - Northwestern Atlantic Coast,2020,6,1,5,5,0,4,4,0,3,5,2,4,5,1,2,2,0
+Atlantic salmon - Gulf of Maine,2020,2,1,5,5,0,5,5,0,4,4,0,5,5,0,0,2,2
+Sea scallop - Northwestern Atlantic Coast,2020,5,2,5,5,0,4,5,1,4,4,0,4,4,0,2,2,0
+Atlantic surfclam - Mid-Atlantic Coast,2020,6,4,5,5,0,4,4,0,5,5,0,4,4,0,2,2,0
+Ocean quahog - Atlantic Coast,2020,6,10,5,5,0,4,4,0,4,5,1,4,5,1,2,2,0
+Bluefish - Atlantic Coast,2021,6,1,5,5,0,4,4,0,3,4,1,4,4,0,0,2,2
+Red deepsea crab - Northwestern Atlantic,2006,2,5,4,5,1,2,4,2,2,2,0,4,4,0,0,2,2
+Atlantic chub mackerel - Mid-Atlantic Coast,NA,NA,5,2,5,3,2,2,0,2,4,2,1,4,3,1,2,1
+Atlantic mackerel - Gulf of Maine / Cape Hatteras,2021,6,3,4,5,1,4,4,0,4,5,1,4,4,0,2,3,1
+Butterfish - Gulf of Maine / Cape Hatteras,2020,6,2,4,5,1,4,4,0,4,4,0,4,4,0,3,3,0
+Longfin inshore squid - Georges Bank / Cape Hatteras,2020,2,1,5,5,0,4,4,0,2,5,3,2,5,3,0,2,2
+Northern shortfin squid - Northwestern Atlantic Coast,2005,2,1,4,5,1,3,4,1,2,2,0,2,2,0,0,1,1
+Goosefish - Gulf of Maine / Northern Georges Bank,2019,2,3,5,5,0,3,4,1,2,2,0,2,2,0,0,2,2
+Goosefish - Southern Georges Bank / Mid-Atlantic,2019,2,4,5,5,0,3,4,1,2,2,0,2,2,0,0,2,2
+Acadian redfish - Gulf of Maine / Georges Bank,2020,6,10,4,5,1,4,4,0,4,4,0,4,4,0,2,2,0
+American plaice - Gulf of Maine / Georges Bank,2019,4,3,4,5,1,4,5,1,3,4,1,4,4,0,0,2,2
+Atlantic cod - Georges Bank,2021,2,1,4,5,1,4,5,1,3,5,2,4,5,1,0,4,4
+Atlantic cod - Gulf of Maine,2021,6,1,4,5,1,4,5,1,3,5,2,4,5,1,2,4,2
+Atlantic halibut - Northwestern Atlantic Coast,2020,1,3,2,5,3,3,5,2,2,5,3,2,5,3,0,2,2
+Atlantic wolffish - Gulf of Maine / Georges Bank,2020,5,2,5,5,0,3,4,1,3,4,1,4,4,0,2,2,0
+Haddock - Georges Bank,2019,4,4,5,5,0,4,5,1,3,4,1,4,5,1,0,2,2
+Haddock - Gulf of Maine,2019,6,4,4,5,1,4,5,1,3,4,1,4,5,1,2,2,0
+Ocean pout - Northwestern Atlantic Coast,2020,2,3,5,5,0,3,4,1,2,4,2,2,4,2,0,2,2
+Offshore hake - Northwestern Atlantic Coast,2011,2,4,5,5,0,3,4,1,2,4,2,2,4,2,0,2,2
+Pollock - Gulf of Maine / Georges Bank,2019,6,5,4,5,1,4,4,0,3,3,0,4,4,0,2,2,0
+Red hake - Gulf of Maine / Northern Georges Bank,2020,2,3,4,4,0,4,4,0,2,2,0,2,2,0,0,2,2
+Red hake - Southern Georges Bank / Mid-Atlantic,2020,2,3,4,4,0,4,4,0,2,2,0,2,2,0,0,2,2
+Silver hake - Gulf of Maine / Northern Georges Bank,2020,2,4,4,5,1,4,4,0,2,2,0,2,2,0,0,1,1
+Silver hake - Southern Georges Bank / Mid-Atlantic,2020,2,4,4,5,1,4,4,0,2,2,0,2,2,0,0,1,1
+White hake - Gulf of Maine / Georges Bank,2019,6,3,4,5,1,4,5,1,3,4,1,4,4,0,2,2,0
+Windowpane - Gulf of Maine / Georges Bank,2020,2,3,3,5,2,3,4,1,3,3,0,2,2,0,0,2,2
+Windowpane - Southern New England / Mid-Atlantic,2020,2,5,2,5,3,3,4,1,2,3,1,2,2,0,0,2,2
+Winter flounder - Georges Bank,2020,4,1,4,5,1,4,5,1,3,5,2,4,5,1,0,4,4
+Winter flounder - Gulf of Maine,2020,2,1,4,5,1,4,4,0,3,5,2,2,5,3,0,2,2
+Winter flounder - Southern New England / Mid-Atlantic,2020,6,1,5,5,0,4,5,1,3,5,2,4,5,1,2,2,0
+Witch flounder - Northwestern Atlantic Coast,2019,2,3,5,5,0,4,5,1,3,5,2,3,5,2,0,2,2
+Yellowtail flounder - Cape Cod / Gulf of Maine,2019,4,3,4,5,1,4,4,0,3,3,0,4,4,0,0,2,2
+Yellowtail flounder - Georges Bank,2021,2,3,4,5,1,4,5,1,4,4,0,4,4,0,0,2,2
+Yellowtail flounder - Southern New England / Mid-Atlantic,2019,6,5,5,5,0,4,4,0,3,3,0,4,4,0,2,2,0
+Barndoor skate - Georges Bank / Southern New England,2020,2,1,2,5,3,3,4,1,2,2,0,1,2,1,0,2,2
+Clearnose skate - Southern New England / Mid-Atlantic,2020,2,2,2,5,3,3,4,1,2,2,0,1,2,1,0,1,1
+Little skate - Georges Bank / Southern New England,2019,2,2,2,5,3,3,4,1,2,2,0,1,2,1,0,1,1
+Rosette skate - Southern New England / Mid-Atlantic,2020,2,2,2,5,3,3,4,1,2,2,0,1,2,1,0,1,1
+Smooth skate - Gulf of Maine,2020,2,1,2,5,3,3,4,1,2,2,0,1,2,1,0,2,2
+Thorny skate - Gulf of Maine,2020,2,1,2,5,3,3,4,1,2,2,0,1,2,1,0,2,2
+Winter skate - Georges Bank / Southern New England,2020,2,2,2,5,3,3,4,1,2,2,0,1,2,1,0,2,2
+Spiny dogfish - Atlantic Coast,2018,5,5,4,5,1,4,4,0,4,4,0,4,4,0,0,2,2
+Black sea bass - Mid-Atlantic Coast,2021,6,1,4,5,1,4,5,1,3,5,2,4,5,1,2,4,2
+Scup - Atlantic Coast,2021,6,1,4,5,1,4,4,0,3,5,2,4,5,1,2,2,0
+Summer flounder - Mid-Atlantic Coast,2021,6,1,5,5,0,4,5,1,4,5,1,4,5,1,2,2,0
+Blueline tilefish - Mid-Atlantic Coast,2018,1,2,3,5,2,2,4,2,2,2,0,2,2,0,0,1,1
+Tilefish - Mid-Atlantic Coast,2021,6,1,3,5,2,2,4,2,3,5,2,3,5,2,0,2,2
+King mackerel - Southern Atlantic Coast,2020,6,7,3,4,1,3,4,1,3,4,1,3,5,2,2,2,0
+Spanish mackerel - Southern Atlantic Coast,2013,6,9,3,4,1,3,4,1,2,4,2,3,5,2,0,2,2
+Black corals (Antipatharia) - Southern Atlantic Coast,NA,NA,10,1,2,1,0,2,2,0,2,2,0,2,2,0,2,2
+Fire corals (Milleporidae) - Southern Atlantic Coast,NA,NA,10,1,2,1,0,2,2,0,2,2,0,2,2,0,2,2
+Hydrocorals (Stylasteridae) - Southern Atlantic Coast,NA,NA,10,1,2,1,0,2,2,0,2,2,0,2,2,0,2,2
+Soft corals (Octocorallia) - Southern Atlantic Coast,NA,NA,10,1,2,1,0,2,2,0,2,2,0,2,2,0,2,2
+Stony corals (Scleractinia) - Southern Atlantic Coast,NA,NA,10,1,2,1,0,2,2,0,2,2,0,2,2,0,2,2
+Dolphinfish - Southern Atlantic Coast,NA,NA,3,3,4,1,1,4,3,1,3,2,1,3,2,0,2,2
+Wahoo - Southern Atlantic Coast,NA,NA,1,3,4,1,1,4,3,1,3,2,1,3,2,0,2,2
+Golden deepsea crab - Southern Atlantic Coast,NA,NA,10,2,4,2,0,3,3,0,3,3,0,3,3,0,2,2
+Sargassum - Southern Atlantic Coast,NA,NA,1,0,1,1,0,0,0,0,2,2,0,0,0,0,2,2
+Brown rock shrimp - Southern Atlantic Coast,2018,2,1,3,5,2,0,4,4,1,4,3,0,4,4,0,2,2
+Brown shrimp - Southern Atlantic Coast,2018,2,1,3,5,2,2,4,2,1,4,3,0,4,4,0,2,2
+Pink shrimp - Southern Atlantic Coast,2018,2,1,3,5,2,2,4,2,1,4,3,0,4,4,0,2,2
+White shrimp - Southern Atlantic Coast,2018,2,1,3,5,2,2,4,2,1,4,3,0,4,4,0,2,2
+Atlantic spadefish - Southern Atlantic Coast,NA,NA,1,3,3,0,1,3,2,1,3,2,1,3,2,0,2,2
+Bar jack - Southern Atlantic Coast,NA,NA,1,3,3,0,1,3,2,1,3,2,1,3,2,0,2,2
+Black sea bass - Southern Atlantic Coast,2018,6,5,3,4,1,3,4,1,2,4,2,4,5,1,0,2,2
+Blueline tilefish - Southern Atlantic Coast,2017,3,5,3,3,0,1,3,2,2,3,1,2,3,1,0,2,2
+Gag - Southern Atlantic Coast,2021,6,6,3,4,1,2,4,2,2,4,2,4,5,1,2,2,0
+Gray triggerfish - Southern Atlantic Coast,NA,NA,5,3,4,1,3,4,1,1,4,3,1,5,4,0,2,2
+Greater amberjack - Southern Atlantic Coast,2020,6,7,3,4,1,2,4,2,3,4,1,3,5,2,2,2,0
+Hogfish - Carolinas,NA,NA,10,2,3,1,1,3,2,2,3,1,3,4,1,0,2,2
+Hogfish - Southeast Florida,2014,6,7,3,4,1,2,4,2,2,3,1,3,4,1,0,2,2
+Red grouper - Southern Atlantic Coast,2017,6,6,3,4,1,3,4,1,2,4,2,3,5,2,0,2,2
+Red porgy - Southern Atlantic Coast,2020,6,7,3,4,1,3,4,1,2,4,2,3,5,2,2,2,0
+Red snapper - Southern Atlantic Coast,2021,6,6,3,4,1,3,4,1,2,4,2,3,5,2,2,2,0
+Scamp - Southern Atlantic Coast,2021,NA,8,3,4,1,3,4,1,2,4,2,3,5,2,2,2,0
+Snowy grouper - Southern Atlantic Coast,2021,6,10,3,4,1,2,4,2,2,4,2,3,5,2,2,2,0
+South Atlantic Deepwater Snapper-Grouper Complex,2021,NA,10,2,3,1,1,2,1,1,2,1,1,2,1,2,2,0
+South Atlantic Grunts Complex,2021,NA,8,2,3,1,1,2,1,1,2,1,1,2,1,2,2,0
+South Atlantic Jacks Complex,2021,NA,7,2,3,1,1,2,1,1,2,1,1,2,1,2,2,0
+South Atlantic Porgy Complex,2021,NA,8,2,3,1,1,2,1,1,2,1,2,2,0,2,2,0
+South Atlantic Shallow Water Snapper-Grouper Complex,2021,NA,9,2,3,1,1,2,1,1,2,1,1,2,1,2,2,0
+South Atlantic Snappers Complex,2021,NA,8,2,3,1,1,2,1,1,2,1,1,2,1,2,2,0
+Speckled hind - Southern Atlantic Coast,2021,NA,10,2,3,1,1,2,1,1,3,2,1,2,1,2,2,0
+Tilefish - Southern Atlantic Coast,2021,6,8,3,4,1,2,4,2,2,4,2,3,5,2,2,2,0
+Vermilion snapper - Southern Atlantic Coast,2018,6,5,3,4,1,3,4,1,2,4,2,3,5,2,0,2,2
+Warsaw grouper - Southern Atlantic Coast,NA,NA,10,2,2,0,1,3,2,2,3,1,3,3,0,0,2,2
+Wreckfish - Southern Atlantic Coast,2014,6,8,3,4,1,2,3,1,1,3,2,1,3,2,0,2,2
+Black grouper - Southern Atlantic Coast / Gulf of Mexico,2010,6,9,3,4,1,2,4,2,2,4,2,4,5,1,0,2,2
+Goliath grouper - Southern Atlantic Coast / Gulf of Mexico,22010,3,10,3,3,0,1,4,3,1,3,2,1,3,2,0,2,2
+Mutton snapper - Southern Atlantic Coast / Gulf of Mexico,2015,6,8,3,4,1,3,4,1,2,4,2,3,5,2,0,2,2
+Yellowtail snapper - Southern Atlantic Coast / Gulf of Mexico,2020,6,9,3,4,1,3,4,1,2,3,1,3,4,1,2,2,0
+King mackerel - Gulf of Mexico,2020,6,8,4,4,0,3,4,1,3,4,1,4,5,1,2,3,1
+Spanish mackerel - Gulf of Mexico,2013,6,5,4,4,0,3,4,1,3,4,1,4,4,0,0,2,2
+Cobia - Gulf of Mexico,2020,6,6,3,4,1,2,4,2,3,4,1,3,4,1,2,2,0
+Black corals (Antipatharia) - Gulf of Mexico,NA,NA,10,1,2,1,0,2,2,2,2,0,1,2,1,0,2,2
+Fire corals (Milleporidae) - Gulf of Mexico,NA,NA,10,1,2,1,0,2,2,2,2,0,1,2,1,0,2,2
+Hydrocorals (Stylasteridae) - Gulf of Mexico,NA,NA,10,1,2,1,0,2,2,2,2,0,1,2,1,0,2,2
+Sea fans (Gorgonia spp.) - Gulf of Mexico,NA,NA,10,1,2,1,0,2,2,2,2,0,1,2,1,0,2,2
+Stony corals (Scleractinia) - Gulf of Mexico,NA,NA,10,1,2,1,0,2,2,2,2,0,1,2,1,0,2,2
+Red drum - Gulf of Mexico,NA,NA,8,2,5,3,1,4,3,3,3,0,1,4,3,0,2,2
+Almaco jack - Gulf of Mexico [member of Gulf of Mexico Jacks Complex],NA,NA,7,2,4,2,1,3,2,1,3,2,1,3,2,0,2,2
+Banded rudderfish - Gulf of Mexico [member of Gulf of Mexico Jacks Complex],NA,NA,7,2,4,2,0,3,3,1,3,2,1,3,2,0,2,2
+Blackfin snapper - Gulf of Mexico [member of Gulf of Mexico Mid-Water Snapper Complex],NA,NA,10,2,4,2,0,3,3,3,3,0,2,3,1,0,2,2
+Blueline tilefish - Gulf of Mexico [member of Gulf of Mexico Tilefishes Complex],NA,NA,10,2,4,2,2,4,2,3,3,0,2,4,2,0,2,2
+Cubera snapper - Gulf of Mexico,NA,NA,10,1,2,1,0,3,3,2,3,1,2,3,1,0,2,2
+Gag - Gulf of Mexico,2021,6,10,3,4,1,3,4,1,2,4,2,3,5,2,3,4,1
+Gray snapper - Gulf of Mexico,2018,6,9,4,4,0,4,4,0,3,4,1,3,5,2,1,2,1
+Gray triggerfish - Gulf of Mexico,2020,6,7,4,4,0,3,4,1,4,4,0,4,5,1,2,3,1
+Greater amberjack - Gulf of Mexico,2021,6,6,4,4,0,1,4,3,1,4,3,4,5,1,2,3,1
+Hogfish - Eastern Gulf of Mexico,2018,6,7,4,4,0,4,4,0,3,4,1,4,4,0,2,2,0
+Lane snapper - Gulf of Mexico,2020,1,7,3,4,1,2,4,2,2,4,2,2,4,2,2,2,0
+Lesser amberjack - Gulf of Mexico [member of Gulf of Mexico Jacks Complex],NA,NA,8,2,4,2,1,3,2,1,3,2,1,3,2,0,2,2
+Nassau grouper - Southern Atlantic Coast / Gulf of Mexico,NA,NA,10,0,0,0,0,2,2,2,4,2,1,3,2,0,2,2
+Queen snapper - Gulf of Mexico [member of Gulf of Mexico Mid-Water Snapper Complex],NA,NA,10,2,4,2,0,3,3,3,3,0,2,3,1,0,2,2
+Red grouper - Gulf of Mexico,2021,6,8,4,4,0,3,4,1,2,5,3,3,5,2,4,4,0
+Red snapper - Gulf of Mexico,2021,6,10,3,4,1,4,5,1,2,5,3,3,5,2,2,4,2
+Scamp - Gulf of Mexico [member of Gulf of Mexico Shallow Water Grouper Complex],NA,NA,9,4,4,0,3,4,1,3,4,1,3,4,1,1,2,1
+Silk snapper - Gulf of Mexico [member of Gulf of Mexico Mid-Water Snapper Complex],NA,NA,10,2,4,2,1,3,2,3,3,0,2,3,1,0,2,2
+Snowy grouper - Gulf of Mexico [member of Gulf of Mexico Deep Water Grouper Complex],NA,NA,9,2,4,2,2,4,2,3,4,1,2,3,1,0,2,2
+Speckled hind - Gulf of Mexico [member of Gulf of Mexico Deep Water Grouper Complex],NA,NA,10,2,4,2,2,4,2,3,3,0,2,3,1,0,2,2
+Tilefish - Gulf of Mexico,2011,6,10,4,4,0,3,4,1,3,3,0,3,4,1,0,2,2
+Vermilion snapper - Gulf of Mexico,2020,6,9,4,4,0,3,4,1,3,4,1,4,5,1,2,3,1
+Warsaw grouper - Gulf of Mexico [member of Gulf of Mexico Deep Water Grouper Complex],NA,NA,10,2,4,2,2,4,2,3,3,0,2,3,1,0,2,2
+Wenchman - Gulf of Mexico [member of Gulf of Mexico Mid-Water Snapper Complex],NA,NA,7,2,4,2,3,3,0,2,3,1,2,3,1,0,2,2
+Yellowedge grouper - Gulf of Mexico,2010,6,10,4,4,0,3,4,1,3,4,1,3,4,1,1,3,2
+Yellowfin grouper - Gulf of Mexico [member of Gulf of Mexico Shallow Water Grouper Complex],NA,NA,10,2,4,2,0,3,3,2,3,1,2,3,1,0,2,2
+Yellowmouth grouper - Gulf of Mexico [member of Gulf of Mexico Shallow Water Grouper Complex],NA,NA,9,2,4,2,3,3,0,3,3,0,2,3,1,0,2,2
+Caribbean spiny lobster - Southern Atlantic Coast / Gulf of Mexico,2005,6,6,4,4,0,2,4,2,3,3,0,3,3,0,0,2,2
+Brown shrimp - Gulf of Mexico,2020,5,3,4,5,1,3,4,1,2,4,2,2,4,2,2,3,1
+Pink shrimp - Gulf of Mexico,2020,5,4,4,5,1,3,4,1,2,4,2,2,4,2,2,3,1
+Royal red shrimp - Gulf of Mexico,2021,2,4,4,5,1,0,1,1,0,2,2,0,4,4,0,0,0
+White shrimp - Gulf of Mexico,2020,5,4,4,5,1,3,4,1,2,4,2,2,4,2,2,3,1
+Barracuda - Puerto Rico,NA,0,7,2,3,1,1,2,1,2,3,1,1,3,2,0,2,2
+Caribbean spiny lobster - Puerto Rico,2020,6,7,2,4,2,1,4,3,3,3,0,3,4,1,2,2,0
+Puerto Rico Angelfishes Complex,NA,0,7,1,3,2,0,2,2,0,2,2,0,3,3,0,2,2
+Puerto Rico Dorado,NA,0,3,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+Puerto Rico Grouper Unit 1,NA,0,8,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+Puerto Rico Grouper Unit 2,NA,0,10,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+Puerto Rico Grouper Unit 3,NA,0,7,2,4,2,1,3,2,1,3,2,1,3,2,0,2,2
+Puerto Rico Grouper Unit 4,NA,0,7,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Grouper Unit 5,NA,0,10,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Grouper Unit 6,NA,0,7,2,4,2,1,3,2,2,3,1,2,3,1,0,2,2
+Puerto Rico Grunts Complex,NA,0,6,2,3,1,1,3,2,2,3,1,1,3,2,0,2,2
+Puerto Rico Jacks 1,NA,0,6,1,3,2,0,2,2,1,3,2,1,3,2,0,2,2
+Puerto Rico Jacks 2,NA,0,6,1,3,2,0,2,2,1,3,2,1,3,2,0,2,2
+Puerto Rico Jacks 3,NA,0,4,1,3,2,0,2,2,1,3,2,1,3,2,0,2,2
+Puerto Rico Mackerels,NA,0,6,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Parrotfishes 1,NA,0,8,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Parrotfishes 2,NA,0,5,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Rays 1,NA,0,9,2,3,1,0,2,2,1,2,1,0,2,2,0,2,2
+Puerto Rico Rays 2,NA,0,9,1,3,2,0,2,2,1,2,1,0,2,2,0,2,2
+Puerto Rico Rays 3,NA,0,10,1,3,2,0,2,2,1,2,1,0,2,2,0,2,2
+Puerto Rico Snapper Unit 1,NA,0,10,1,4,3,0,3,3,2,3,1,2,3,1,0,2,2
+Puerto Rico Snapper Unit 2,NA,0,8,2,4,2,1,3,2,2,3,1,2,3,1,0,2,2
+Puerto Rico Snapper Unit 3,NA,0,7,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+Puerto Rico Snapper Unit 4,NA,0,7,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+Puerto Rico Snapper Unit 5,NA,0,2,2,4,2,1,3,2,2,3,1,2,3,1,0,2,2
+Puerto Rico Snapper Unit 6,NA,0,8,2,3,1,1,2,1,1,3,2,1,3,2,0,2,2
+Puerto Rico Surgeonfishes Complex,NA,0,5,1,3,2,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Triggerfishes Complex,NA,0,4,2,3,1,1,2,1,2,3,1,1,3,2,0,2,2
+Puerto Rico Tunas,NA,0,5,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+Puerto Rico Wrasses 1,NA,0,6,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+Puerto Rico Wrasses 2,NA,0,8,1,3,2,0,2,2,1,2,1,0,3,3,0,2,2
+Queen conch - Puerto Rico,NA,0,9,2,4,2,1,4,3,2,3,1,1,3,2,0,2,2
+Tripletail - Puerto Rico,NA,0,6,1,3,2,0,2,2,1,3,2,1,3,2,0,2,2
+Wahoo - Puerto Rico,NA,0,5,2,3,1,1,2,1,2,3,1,1,3,2,0,2,2
+Caribbean spiny lobster - St. Croix,2020,6,6,2,4,2,1,4,3,3,3,0,3,4,1,2,2,0
+Dolphin - St. Croix,NA,0,3,2,4,2,1,2,1,2,3,1,1,3,2,0,2,2
+Queen conch - St. Croix,NA,0,8,2,4,2,1,4,3,2,3,1,1,3,2,0,2,2
+St. Croix Angelfishes Complex,NA,0,7,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Grouper Unit 1,NA,0,9,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+St. Croix Grouper Unit 2,NA,0,10,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+St. Croix Grouper Unit 3,NA,0,7,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+St. Croix Grouper Unit 4,NA,0,8,2,4,2,1,3,2,2,3,1,2,3,1,0,2,2
+St. Croix Grouper Unit 5,NA,0,8,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Grouper Unit 6,NA,0,10,2,3,1,1,2,1,1,3,2,0,3,3,0,2,2
+St. Croix Grunts Complex,NA,0,6,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Parrotfishes 1,NA,0,8,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Parrofishes 2,NA,0,5,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+St. Croix Snapper Unit 1,NA,0,7,2,4,2,1,3,2,2,3,1,0,3,3,0,2,2
+St. Croix Snapper Unit 2,NA,0,9,2,4,2,1,2,1,2,3,1,0,3,3,0,2,2
+St. Croix Snapper Unit 3,NA,0,9,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Snapper Unit 4,NA,0,9,2,3,1,1,2,1,2,3,1,0,3,3,0,2,2
+St. Croix Snapper Unit 5,NA,0,7,2,3,1,1,2,1,2,3,1,0,3,3,0,2,2
+St. Croix Snapper Unit 6,NA,0,5,2,4,2,1,3,2,2,3,1,0,3,3,0,2,2
+St. Croix Squirrelfishes Complex,NA,0,3,2,3,1,1,2,1,1,3,2,0,3,3,0,2,2
+St. Croix Surgeonfishes Complex,NA,0,3,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Croix Triggerfishes Complex,NA,0,5,2,3,1,1,2,1,2,3,1,1,3,2,0,2,2
+Wahoo - St. Croix,NA,0,5,2,3,1,1,2,1,2,3,1,0,3,3,0,2,2
+Caribbean spiny lobster - St. Thomas / St. John,2020,6,6,2,4,2,1,4,3,3,3,0,3,4,1,2,2,0
+Dolphinfish - St. Thomas / St. John,NA,0,3,2,4,2,1,2,1,2,3,1,0,3,3,0,2,2
+Hogfish - St. Thomas / St. John,NA,0,8,1,3,2,0,2,2,2,3,1,0,3,3,0,2,2
+Queen conch - St. Thomas / St. John,NA,0,9,2,4,2,1,4,3,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Angelfishes Complex,NA,0,6,2,3,1,1,3,2,1,3,2,0,3,3,0,2,2
+St. Thomas / St. John Grouper Unit 1,NA,0,9,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Grouper Unit 2,NA,0,10,2,3,1,0,3,3,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Grouper Unit 3,NA,0,7,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+St. Thomas / St. John Grouper Unit 4,NA,0,7,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Thomas / St. John Grouper Unit 5,NA,0,10,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Thomas / St. John Grunts 1,NA,0,7,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+St. Thomas / St. John Grunts 2,NA,0,7,2,3,1,1,2,1,1,3,2,0,3,3,0,2,2
+St. Thomas / St. John Jacks Complex,NA,0,4,2,3,1,1,2,1,1,3,2,0,3,3,0,2,2
+St. Thomas / St. John Parrotfishes 1,NA,0,8,2,3,1,0,2,2,1,2,1,0,3,3,0,2,2
+St. Thomas / St. John Parrotfishes 2,NA,0,6,2,4,2,1,3,2,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Porgies Complex,NA,0,9,2,3,1,1,2,1,1,3,2,0,3,3,0,2,2
+St. Thomas / St. John Snapper Unit 1,NA,0,6,2,4,2,1,3,2,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Snapper Unit 2,NA,0,10,2,3,1,1,2,1,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Snapper Unit 3,NA,0,9,2,4,2,1,3,2,2,3,1,0,3,3,0,2,2
+St. Thomas / St. John Snapper Unit 4,NA,0,4,2,4,2,1,3,2,2,3,1,1,3,2,0,2,2
+St. Thomas / St. John Surgeonfishes Complex,NA,0,4,2,3,1,1,2,1,1,2,1,1,3,2,0,2,2
+St. Thomas / St. John Triggerfishes Complex,NA,0,5,2,3,1,1,2,1,2,3,1,1,3,2,0,2,2
+Wahoo - St. Thomas / St. John,NA,0,5,2,3,1,1,2,1,2,3,1,0,3,3,0,2,2
+Albacore - North Atlantic,2020,3,3,3,5,2,2,2,0,3,4,1,1,5,4,1,3,2
+Atlantic angelshark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,1,1,0,2,2,0,1,1,0,0,0,0
+Atlantic sharpnose shark - Atlantic,2013,6,4,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Atlantic sharpnose shark - Gulf of Mexico,2013,6,3,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Basking shark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,1,1,0,2,2,0,1,1,0,0,0,0
+Bigeye sand tiger - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Bigeye sixgill shark - Atlantic [member of Prohibited Species complex],NA,NA,2,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Bigeye thresher - Atlantic [member of Prohibited Species complex],NA,NA,4,1,1,0,1,1,0,2,2,0,1,1,0,0,0,0
+Bigeye tuna - Atlantic,2021,5,3,3,4,1,2,3,1,2,4,2,3,5,2,2,3,1
+Bignose shark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Blacknose shark - Atlantic,2011,6,4,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Blacknose shark - Gulf of Mexico,NA,NA,4,3,4,1,3,4,1,3,4,1,3,4,1,0,2,2
+Blacktip shark - Atlantic,2021,6,5,2,4,2,3,4,1,2,4,2,3,4,1,1,2,1
+Blacktip shark - Gulf of Mexico,2018,6,4,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Blue marlin - Atlantic,2018,5,2,2,4,2,2,2,0,2,4,2,3,5,2,1,3,2
+Blue shark - North Atlantic,2015,6,3,3,4,1,2,3,1,3,4,1,3,4,1,1,2,1
+Bluefin tuna - Western Atlantic,2021,6,3,4,4,0,4,5,1,3,4,1,3,5,2,3,3,0
+Bluntnose sixgill shark - Atlantic [member of Prohibited Species complex],NA,NA,2,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Bonnethead - Atlantic,NA,NA,5,3,4,1,3,4,1,3,4,1,3,4,1,0,2,2
+Bonnethead - Gulf of Mexico,NA,NA,5,3,4,1,3,4,1,3,4,1,3,4,1,0,2,2
+Bull shark - Atlantic and Gulf of Mexico,NA,NA,3,3,3,0,3,3,0,3,3,0,3,3,0,0,2,2
+Caribbean sharpnose shark - Atlantic [member of Prohibited Species complex],NA,NA,2,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Dusky shark - Atlantic and Gulf of Mexico,2016,3,6,1,1,0,3,3,0,3,4,1,3,4,1,1,2,1
+Finetooth shark - Atlantic and Gulf of Mexico,2007,3,6,3,4,1,3,3,0,3,4,1,1,4,3,1,2,1
+Galapagos shark - Atlantic [member of Prohibited Species complex],NA,NA,2,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Great hammerhead - Atlantic and Gulf of Mexico,NA,NA,3,3,3,0,3,3,0,3,3,0,2,2,0,0,0,0
+Gulf Smoothhound Complex,2015,3,7,3,3,0,3,3,0,2,2,0,1,3,2,1,0,0
+Lemon shark - Atlantic and Gulf of Mexico,NA,NA,2,3,3,0,3,3,0,3,3,0,1,3,2,0,0,0
+Longbill spearfish - Western Atlantic,NA,NA,1,2,3,1,0,2,2,1,2,1,1,5,4,0,1,1
+Longfin mako - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0
+Narrowtooth shark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Night shark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,3,3,0,2,2,0,2,2,0,0,0,0
+Nurse shark - Atlantic and Gulf of Mexico,NA,NA,3,3,3,0,3,3,0,3,3,0,2,2,0,0,0,0
+Oceanic whitetip shark - Atlantic and Gulf of Mexico,NA,NA,3,2,2,0,2,2,0,3,3,0,2,2,0,0,0,0
+Porbeagle - Northwestern Atlantic,2021,1,7,2,2,0,2,1,0,3,4,1,2,4,2,1,2,1
+Reef shark - Atlantic [member of Prohibited Species complex],NA,NA,3,1,1,0,0,0,0,2,2,0,1,1,0,0,0,0
+Roundscale spearfish - Atlantic,NA,NA,1,2,3,1,0,2,2,1,2,1,1,5,4,0,1,1
+Sailfish - Western Atlantic,2016,6,1,3,4,1,2,2,0,3,4,1,3,5,2,1,3,2
+Sand tiger - Atlantic [member of Prohibited Species complex],NA,NA,3,3,3,0,3,3,0,3,3,0,2,2,0,0,0,0
+Sandbar shark - Atlantic and Gulf of Mexico,2018,5,5,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Scalloped hammerhead - Atlantic and Gulf of Mexico,2009,3,4,3,3,0,3,3,0,3,3,0,1,3,2,0,0,0
+Shortfin mako - North Atlantic,2017,6,7,3,4,1,2,2,0,3,4,1,3,4,1,1,2,1
+Silky shark - Atlantic and Gulf of Mexico,NA,NA,3,3,3,0,3,3,0,3,3,0,3,3,0,0,2,2
+Skipjack tuna - Western Atlantic,2014,3,1,3,4,1,3,3,0,2,4,2,3,5,2,1,3,2
+Smalltail shark - Atlantic [member of Prohibited Species complex],NA,NA,2,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+Smooth dogfish - Atlantic,2015,6,4,3,4,1,3,4,1,3,4,1,3,4,1,1,2,1
+Smooth hammerhead - Atlantic and Gulf of Mexico,NA,NA,3,2,2,0,2,2,0,2,2,0,2,2,0,0,0,0
+Spinner shark - Atlantic and Gulf of Mexico,NA,NA,2,3,4,1,3,3,0,3,3,0,3,3,0,0,0,0
+Swordfish - North Atlantic,2017,6,3,4,5,1,2,2,0,3,4,1,3,5,2,3,3,0
+Thresher shark - Atlantic and Gulf of Mexico,NA,NA,3,3,3,0,2,2,0,3,3,0,2,2,0,0,0,0
+Tiger shark - Atlantic and Gulf of Mexico,NA,NA,3,3,4,1,3,3,0,3,3,0,3,3,0,0,0,0
+Whale shark - Atlantic [member of Prohibited Species complex],NA,NA,8,1,1,0,1,1,0,2,2,0,1,1,0,0,0,0
+White marlin - Atlantic,2019,5,1,2,3,1,2,2,0,2,4,2,3,5,2,2,3,1
+White shark - Atlantic [member of Prohibited Species complex],NA,NA,4,1,1,0,1,1,0,2,2,0,1,1,0,0,0,0
+Yellowfin tuna - Atlantic,2019,6,2,3,4,1,2,3,1,3,4,1,3,5,2,2,3,1
+Alaska plaice – Bering Sea / Aleutian Islands,2021,6,2,5,5,0,5,5,0,4,4,0,4,4,0,2,3,1
+Alaska skate – Bering Sea / Aleutian Islands [member of Bering Sea / Aleutian Islands Skate Complex],2021,6,2,3,5,2,3,4,1,4,4,0,3,3,0,2,2,0
+Arrowtooth flounder – Bering Sea / Aleutian Islands,2021,6,2,4,4,0,4,4,0,3,4,1,3,3,0,4,4,0
+Atka mackerel – Bering Sea / Aleutian Islands,2020,6,1,5,5,0,4,4,0,4,5,1,4,5,1,2,3,1
+Bering Sea / Aleutian Islands Blackspotted and Rougheye Rockfish Complex,2020,6,2,4,5,1,4,4,0,4,4,0,4,5,1,2,3,1
+Bering Sea / Aleutian Islands Flathead Sole Complex [indicator = flathead sole],2021,6,2,5,5,0,4,4,0,4,4,0,4,5,1,2,1,0
+Bering Sea / Aleutian Islands Octopus Complex [indicator = giant Pacific octopus],2020,1,2,3,3,0,2,3,1,1,2,1,1,2,1,1,2,1
+Bering Sea / Aleutian Islands Other Flatfish Complex [indicator = starry flounder],2020,2,4,5,4,0,4,4,0,2,2,0,1,1,0,0,0,0
+Bering Sea / Aleutian Islands Other Rockfish Complex,2020,2,4,2,5,3,3,4,1,3,4,1,1,4,3,0,4,4
+Bering Sea / Aleutian Islands Other Skates Complex [remainder of Bering Sea / Aleutian Islands Skate Complex],2021,2,2,3,5,2,2,4,2,2,3,1,2,2,0,0,2,2
+Bering Sea / Aleutian Islands Rock Sole Complex [indicator = northern rock sole],2021,6,2,5,5,0,4,5,1,4,4,0,4,5,1,2,4,2
+Bering Sea / Aleutian Islands Shark Complex [indicator = Pacific sleeper shark],2016,1,2,2,2,0,1,2,1,1,2,1,1,2,1,1,1,0
+Greenland halibut – Bering Sea / Aleutian Islands,2021,6,2,5,5,0,3,4,1,3,4,1,3,4,1,2,3,1
+Kamchatka flounder – Bering Sea / Aleutian Islands,2021,6,2,4,5,1,3,4,1,3,4,1,3,4,1,2,2,0
+Northern rockfish – Bering Sea / Aleutian Islands,2021,6,2,5,5,0,4,4,0,4,4,0,4,5,1,2,3,1
+Pacific cod – Aleutian Islands,2021,2,2,5,5,0,3,4,1,1,4,3,1,4,3,2,2,0
+Pacific cod – Bering Sea,2021,6,2,4,5,1,3,5,2,4,5,1,4,5,1,2,4,2
+Pacific ocean perch – Bering Sea / Aleutian Islands,2021,6,2,5,5,0,4,4,0,4,4,0,4,5,1,2,3,1
+Shortraker rockfish – Bering Sea / Aleutian Islands,2020,2,4,2,5,3,3,4,1,2,4,2,1,4,3,0,4,4
+Walleye pollock – Aleutian Islands,2021,6,4,5,5,0,3,4,1,2,3,1,2,5,3,2,2,0
+Walleye pollock – Bogoslof,2020,2,2,5,5,0,4,4,0,4,4,0,4,4,0,0,0,0
+Walleye pollock – Eastern Bering Sea,2020,6,1,5,5,0,4,4,0,4,4,0,4,5,1,2,4,2
+Yellowfin sole – Bering Sea / Aleutian Islands,2021,6,1,5,5,0,5,5,0,4,5,1,4,5,1,4,4,0
+Arrowtooth flounder – Gulf of Alaska,2021,6,2,4,4,0,4,4,0,3,3,0,4,3,0,2,2,0
+Atka mackerel – Gulf of Alaska,2016,1,1,1,2,1,0,1,1,3,4,1,1,2,1,0,1,1
+Big skate – Gulf of Alaska [member of Gulf of Alaska Skates],2021,2,2,5,5,0,4,4,0,2,5,3,2,3,1,0,2,2
+Dover sole – Gulf of Alaska [indicator for Gulf of Alaska Deepwater Flatfish Complex],2021,6,4,5,5,0,4,4,0,4,4,0,3,3,0,2,2,0
+Dusky rockfish – Gulf of Alaska,2021,6,2,4,4,0,3,4,1,1,2,1,4,4,0,2,1,0
+Flathead sole – Gulf of Alaska,2020,6,4,5,5,0,4,4,0,4,4,0,3,4,1,2,1,0
+Gulf of Alaska Blackspotted and Rougheye Rockfish Complex,2020,6,4,4,5,1,4,4,0,4,4,0,4,4,0,2,2,0
+Gulf of Alaska Demersal Shelf Rockfish Complex [indicator = yelloweye rockfish],NA,NA,2,2,2,0,1,1,0,0,0,0,1,1,0,0,0,0
+Gulf of Alaska Octopus Complex [indicator = giant Pacific octopus],2017,2,2,3,3,0,3,3,0,1,2,1,2,2,0,1,2,1
+Gulf of Alaska Other Deepwater Flatfish Complex [indicator = Dover sole],2016,1,4,3,2,0,4,4,0,1,1,0,0,0,0,0,1,1
+Gulf of Alaska Other Rockfish Complex [indicator = silvergray rockfish],2021,2,2,3,3,0,3,3,0,2,2,0,1,2,1,0,1,1
+Gulf of Alaska Other Shallow Water Flatfish Complex [remainder of Gulf of Alaska Shallow Water Flatfish Complex],2019,2,4,4,4,0,3,4,1,0,2,2,1,2,1,0,1,1
+Gulf of Alaska Other Skates Complex [remainder of Gulf of Alaska Skates],2021,2,2,3,5,2,4,4,0,2,3,1,2,2,0,0,2,2
+Gulf of Alaska Shark Complex [indicator = spiny dogfish],2020,2,2,3,3,0,3,3,0,2,3,1,1,2,1,0,1,1
+Gulf of Alaska Thornyhead Rockfish Complex [indicator = shortspine thornyhead],2020,2,2,2,3,1,3,3,0,2,4,2,2,3,1,0,1,1
+Longnose skate – Gulf of Alaska [member of Gulf of Alaska Skates],2021,2,2,5,5,0,4,4,0,2,5,3,2,3,1,0,2,2
+Northern rock sole – Gulf of Alaska [indicator for Gulf of Alaska Shallow Water Flatfish Complex],2020,6,4,3,4,1,3,4,1,3,4,1,3,4,1,2,2,0
+Northern rockfish – Western / Central Gulf of Alaska,2021,6,2,5,5,0,3,4,1,3,4,1,4,4,0,2,2,0
+Pacific cod – Gulf of Alaska,2020,6,1,5,5,0,4,4,0,4,5,1,4,5,1,4,5,1
+Pacific ocean perch – Gulf of Alaska,2021,6,2,5,5,0,4,4,0,4,4,0,4,5,1,2,4,2
+Rex sole – Gulf of Alaska,2019,6,2,5,5,0,4,4,0,4,5,1,5,5,0,2,2,0
+Rock sole – Gulf of Alaska [indicator for Gulf of Alaska Shallow Water Flatfish Complex],2020,6,4,3,4,1,4,4,0,3,4,1,3,4,1,2,2,0
+Sharpchin rockfish – Gulf of Alaska [member of Gulf of Alaska Other Rockfish Complex],NA,NA,2,3,3,0,3,3,0,2,2,0,2,2,0,1,1,0
+Shortraker rockfish – Gulf of Alaska,2021,2,2,2,3,1,3,3,0,2,4,2,2,3,1,0,1,1
+Walleye pollock – Southeast Gulf of Alaska,2021,2,2,5,5,0,3,4,1,2,4,2,2,2,0,0,0,0
+Walleye pollock – Western / Central / West Yautat Gulf of Alaska,2021,6,1,5,5,0,4,5,1,4,5,1,5,5,0,2,4,2
+Yelloweye rockfish – Gulf of Alaska [indicator for Gulf of Alaska Demersal Shelf Rockfish Complex],2021,2,2,4,4,0,3,4,1,3,4,1,2,5,3,0,2,2
+Sablefish - Eastern Bering Sea / Aleutian Islands / Gulf of Alaska,2021,6,1,5,5,0,4,4,0,4,4,0,4,5,1,2,4,2
+Blue king crab – Pribilof Islands,2021,2,3,4,5,1,3,3,0,2,3,1,2,2,0,0,4,4
+Blue king crab – Saint Matthew Island,2020,5,1,3,4,1,3,4,1,2,3,1,3,3,0,2,2,0
+Golden king crab – Aleutian Islands,2021,5,1,4,5,1,2,3,1,4,4,0,3,3,0,2,2,0
+Golden king crab – Pribilof Islands,2017,1,3,3,3,0,2,3,1,1,1,0,1,2,1,1,1,0
+Red king crab – Bristol Bay,2021,5,1,5,5,0,4,5,1,3,5,2,3,3,0,3,3,0
+Red king crab – Norton Sound,2021,5,2,3,5,2,3,4,1,1,3,2,3,3,0,3,2,0
+Red king crab – Pribilof Islands,2019,5,2,5,5,0,4,4,0,1,3,2,3,3,0,2,2,0
+Red king crab – Western Aleutian Islands,2017,1,3,3,3,0,1,1,0,2,2,0,1,2,1,0,1,1
+Snow crab – Bering Sea,2021,5,1,5,5,0,4,5,1,3,5,2,3,3,0,2,3,1
+Southern Tanner crab – Bering Sea,2021,5,1,4,4,0,4,5,1,3,5,2,3,3,0,2,4,2
+Arctic cod - Arctic Management Area,NA,NA,1,0,0,0,0,3,3,1,2,1,1,3,2,1,2,1
+Saffron cod - Arctic Management Area,NA,NA,2,0,0,0,0,3,3,1,2,1,1,3,2,1,2,1
+Snow crab - Arctic Management Area,NA,NA,4,0,0,0,0,3,3,1,2,1,1,3,2,1,2,1
+Coho salmon - Auke Creek [indicator for Alaska Coho Salmon Assemblage],2021,2,1,5,5,0,5,5,0,3,5,2,0,5,5,2,2,0
+Coho salmon - Berners River [indicator for Alaska Coho Salmon Assemblage],2021,2,1,5,5,0,4,4,0,3,5,2,0,5,5,2,2,0
+Coho salmon - Hugh Smith Lake [indicator for Alaska Coho Salmon Assemblage],2021,2,1,5,5,0,5,5,0,4,4,0,5,5,0,2,2,0
+Chinook salmon - Eastern North Pacific Far North Migrating,2021,6,1,5,5,0,4,4,0,4,4,0,0,4,4,2,2,0
+Weathervane scallop - Alaska,2021,2,1,5,5,0,3,3,0,3,4,1,4,5,1,0,0,0
+Arrowtooth flounder - Pacific Coast,2021,6,6,4,4,0,4,4,0,3,3,0,3,4,1,2,2,0
+Aurora rockfish - Pacific Coast [member of Minor Slope Rockfish],2013,6,10,4,4,0,4,4,0,3,3,0,3,3,0,2,2,0
+Bank rockfish - Pacific Coast [member of Minor Slope Rockfish],2010,1,4,3,3,0,3,3,0,2,2,0,3,3,0,0,0,0
+Big skate - Pacific Coast,2019,6,4,3,3,0,4,4,0,3,3,0,3,3,0,0,2,2
+Black rockfish - Pacific Coast,2019,6,4,3,4,1,2,3,1,3,5,2,3,5,2,2,4,2
+Blackgill rockfish - Pacific Coast [member of Minor Slope Rockfish],2019,6,10,3,3,0,2,2,0,3,3,0,3,3,0,0,2,2
+Bocaccio - Pacific Coast,2017,6,4,4,5,1,4,4,0,3,5,2,3,4,1,2,4,2
+Bronzespotted rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,2,2,0,1,1,0,0,0,0,0,0,0
+Brown rockfish - Pacific Coast [member of Minor Nearshore Rockfish],2013,3,4,3,4,1,2,2,0,3,4,1,2,2,0,0,2,2
+Butter sole - Pacific Coast [member of Other Flatfish],NA,NA,2,2,2,0,0,0,0,1,1,0,1,1,0,0,0,0
+Cabezon - Pacific Coast,2019,6,4,3,4,1,2,2,0,2,3,1,3,3,0,2,2,0
+Calico rockfish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+California scorpionfish - Pacific Coast,2017,6,6,4,5,1,2,2,0,3,3,0,3,5,2,2,2,0
+Canary rockfish - Pacific Coast,2021,6,6,4,5,1,3,4,1,3,5,2,3,5,2,2,4,2
+Chameleon rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Chilipepper - Pacific Coast,2017,6,6,4,4,0,3,4,1,3,3,0,3,3,0,2,2,0
+China rockfish - Pacific Coast,2019,6,10,3,4,1,2,3,1,3,3,0,3,3,0,1,2,1
+Copper rockfish - Pacific Coast,2021,5,6,4,5,1,0,3,3,3,4,1,2,5,3,0,2,2
+Cowcod - Pacific Coast,2019,6,10,3,4,1,3,3,0,3,3,0,3,3,0,1,2,1
+Curlfin sole - Pacific Coast [member of Other Flatfish],NA,NA,2,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Darkblotched rockfish - Pacific Coast,2021,6,8,4,4,0,4,4,0,3,3,0,3,3,0,2,2,0
+Dover sole - Pacific Coast,2021,6,6,5,5,0,4,4,0,3,5,2,4,5,1,2,4,2
+English sole - Pacific Coast,2013,3,6,3,4,1,4,4,0,3,3,0,3,3,0,0,0,0
+Flag rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Flathead sole - Pacific Coast [member of Other Flatfish],NA,NA,4,2,2,0,3,3,0,1,1,0,2,2,0,0,0,0
+Freckled rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Grass rockfish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Greenblotched rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,6,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Greenspotted rockfish - Pacific Coast [member of Minor Shelf Rockfish],2011,6,10,3,3,0,3,3,0,3,3,0,3,4,1,2,2,0
+Greenstriped rockfish - Pacific Coast [member of Minor Shelf Rockfish],2009,6,10,4,4,0,3,3,0,3,3,0,3,3,0,2,2,0
+Halfbanded rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Harlequin rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Honeycomb rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Kelp greenling - Pacific Coast [member of Other Fish],2015,6,6,3,3,0,2,3,1,3,3,0,3,3,0,2,2,0
+Kelp rockfish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Leopard shark - Pacific Coast [member of Other Fish],NA,NA,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lingcod - Pacific Coast,2021,6,4,3,5,2,4,4,0,3,5,2,3,5,2,2,4,2
+Longnose skate - Pacific Coast,2019,6,6,3,5,2,4,4,0,3,4,1,3,3,0,1,2,1
+Longspine thornyhead - Pacific Coast,2019,6,8,3,5,2,4,4,0,3,3,0,3,3,0,2,2,0
+Mexican rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Olive rockfish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,3,3,0,0,0,0,1,1,0,2,2,0,0,0,0
+Pacific Coast Blue and Deacon Rockfish Complex [member of Minor Nearshore Rockfish],2019,6,8,3,4,1,2,3,1,3,4,1,3,4,1,2,2,0
+Pacific Coast Gopher and Black-and-Yellow Rockfish Complex [member of Minor Nearshore Rockfish],2019,6,6,3,4,1,2,3,1,2,4,2,3,5,2,2,2,0
+Pacific Coast Blackspotted and Rougheye Rockfish Complex [member of Minor Slope Rockfish],2019,6,10,3,4,1,3,3,0,3,3,0,3,3,0,2,2,0
+Pacific Coast Vermilion and Sunset Rockfish Complex [member of Minor Shelf Rockfish],2021,6,4,3,5,2,2,2,0,3,5,2,3,5,2,2,2,0
+Pacific cod - Pacific Coast,NA,NA,2,3,3,0,3,3,0,2,3,1,3,3,0,0,2,2
+Pacific hake - Pacfic Coast,2021,6,2,5,5,0,4,4,0,4,5,1,5,5,0,2,5,3
+Pacific ocean perch - Pacific Coast,2017,6,10,4,5,1,4,4,0,4,4,0,5,5,0,2,2,0
+Pacific sanddab - Pacific Coast [member of Other Flatfish],2013,6,2,4,4,0,4,4,0,4,4,0,4,4,0,2,2,0
+Pacific spiny dogfish - Pacific Coast,2021,6,10,3,5,2,4,4,0,3,4,1,3,3,0,0,2,2
+Petrale sole - Pacific Coast,2021,6,4,5,5,0,4,4,0,3,5,2,5,5,0,2,4,2
+Pink rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Pinkrose rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Pygmy rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Quillback rockfish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,3,5,2,0,3,3,2,3,1,3,3,0,0,2,2
+Redbanded rockfish - Pacific Coast [member of Minor Slope Rockfish],NA,NA,4,3,3,0,3,3,0,1,1,0,2,2,0,0,0,0
+Redstripe rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,6,3,3,0,0,0,0,1,1,0,0,0,0,0,0,0
+Rex sole - Pacific Coast [member of Other Flatfish],2013,3,6,3,3,0,4,4,0,3,3,0,2,2,0,0,0,0
+Rock sole - Pacific Coast [member of Other Flatfish],NA,NA,4,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Rosethorn rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Rosy rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Sablefish - Pacific Coast,2021,6,4,4,5,1,4,4,0,4,5,1,4,5,1,4,4,0
+Sand sole - Pacific Coast [member of Other Flatfish],NA,NA,2,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Sharpchin rockfish - Pacific Coast [member of Minor Slope Rockfish],2013,3,10,3,3,0,3,3,0,2,2,0,2,2,0,0,0,0
+Shortbelly rockfish - Pacific Coast,2007,6,4,3,3,0,3,4,1,4,4,0,3,3,0,2,2,0
+Shortraker rockfish - Pacific Coast [member of Minor Slope Rockfish],NA,NA,6,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Shortspine thornyhead - Pacific Coast,2019,6,8,3,3,0,4,4,0,2,4,2,3,4,1,2,2,0
+Silvergray rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,8,3,3,0,3,3,0,1,1,0,2,2,0,0,0,0
+Speckled rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,6,2,2,0,0,0,0,1,1,0,2,2,0,0,0,0
+Splitnose rockfish - Pacific Coast,2009,6,8,3,3,0,3,3,0,3,3,0,3,3,0,2,2,0
+Squarespot rockfish - Pacific Coast [member of Minor Shelf Rockfish],2021,5,4,3,3,0,3,0,0,2,2,0,2,2,0,0,0,0
+Starry flounder - Pacific Coast,2017,1,4,3,3,0,2,2,0,2,2,0,2,2,0,0,0,0
+Starry rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,6,3,3,0,0,0,0,1,1,0,2,2,0,0,0,0
+Stripetail rockfish - Pacific Coast,2013,3,4,3,3,0,4,4,0,2,2,0,2,2,0,0,0,0
+Swordspine rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Tiger rockfish - Pacific Coast [member of Minor Shelf Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Treefish - Pacific Coast [member of Minor Nearshore Rockfish],NA,NA,4,2,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+Widow rockfish - Pacific Coast,2019,6,6,4,5,1,3,3,0,3,5,2,4,5,1,2,4,2
+Yelloweye rockfish - Pacific Coast,2017,6,10,4,5,1,3,4,1,3,4,1,3,5,2,2,2,0
+Yellowmouth rockfish - Pacific Coast [member of Minor Slope Rockfish],NA,NA,6,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Yellowtail rockfish - Pacific Coast,2017,6,6,3,5,2,3,4,1,4,5,1,4,5,1,2,4,2
+Chinook salmon - Columbia River Basin: Lower River Hatchery Fall,2021,4,1,3,3,0,4,4,0,4,4,0,4,4,0,1,3,2
+Chinook salmon - Columbia River Basin: Lower River Hatchery Spring,2021,2,1,3,3,0,2,4,2,4,4,0,4,4,0,0,3,3
+Chinook salmon - Columbia River Basin: Mid-River Bright Hatchery Fall,2021,4,1,3,3,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Columbia River Basin: North Lewis River Fall,2021,4,1,3,4,1,3,4,1,4,4,0,4,5,1,0,4,4
+Chinook salmon - Columbia River Basin: Snake River Fall,2021,4,1,2,3,1,4,4,0,4,4,0,4,5,1,0,4,4
+Chinook salmon - Columbia River Basin: Snake River Spring/Summer,2021,4,1,3,4,1,4,4,0,4,4,0,4,5,1,0,4,4
+Chinook salmon - Columbia River Basin: Spring Creek Hatchery Fall,2021,4,1,3,3,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Columbia River Basin: Upper River Bright Fall,2021,4,1,3,3,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Columbia River Basin: Upper River Spring,2021,4,1,3,4,1,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Columbia River Basin: Upper River Summer,2021,4,1,4,4,0,2,4,2,4,4,0,4,4,0,0,3,3
+Chinook salmon - Columbia River Basin: Upper Willamette Spring,2021,4,1,3,4,1,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Oregon Coast: Central and Northern Oregon,2021,4,1,2,3,1,2,4,2,2,4,2,3,3,0,0,3,3
+Chinook salmon - Oregon Coast: Southern Oregon,2021,4,1,3,3,0,2,4,2,4,4,0,4,4,0,0,3,3
+Chinook salmon - Puget Sound: Cedar River Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Eastern Strait of Juan de Fuca Summer/Fall,2021,4,1,2,4,2,3,4,1,3,5,2,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Green River Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Mid Hood Canal Summer/Fall,2021,4,1,2,4,2,3,4,1,4,5,1,3,5,2,0,4,4
+Chinook salmon - Puget Sound: Nisqually River Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Nooksack Spring Early,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Puyallup Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Skagit Spring,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Skagit Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Skokomish Summer/Fall,2021,2,1,5,5,0,3,4,1,4,5,1,4,5,1,0,4,4
+Chinook salmon - Puget Sound: Snohomish Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,3,4,1
+Chinook salmon - Puget Sound: Stillaguamish Summer/Fall,2021,4,1,4,4,0,4,4,0,4,5,1,4,5,1,3,4,1
+Chinook salmon - Puget Sound: White River Spring,2021,4,1,4,4,0,3,4,1,3,5,2,4,5,1,0,4,4
+Chinook salmon - Washington Coast: Grays Harbor Fall,2021,4,1,4,4,0,4,4,0,4,4,0,3,4,1,0,3,3
+Chinook salmon - Washington Coast: Grays Harbor Spring,2021,4,1,3,4,1,4,4,0,4,4,0,3,4,1,0,3,3
+Chinook salmon - Washington Coast: Hoh Fall,2021,4,1,3,4,1,4,4,0,4,4,0,3,4,1,0,3,3
+Chinook salmon - Washington Coast: Hoh Spring/Summer,2021,4,1,3,4,1,4,4,0,3,4,1,3,4,1,0,3,3
+Chinook salmon - Washington Coast: Hoko Summer/Fall,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Queets Fall,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Queets Spring/Summer,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Quillayute Fall,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Quillayute Spring/Summer,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Quinault Fall Hatchery,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Willapa Bay Fall Hatchery,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Chinook salmon - Washington Coast: Willapa Bay Fall Natural,2021,4,1,4,4,0,4,4,0,4,4,0,4,4,0,0,3,3
+Coho salmon - Oregon Production Index Area: Columbia River Early Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,0,4,4
+Coho salmon - Oregon Production Index Area: Columbia River Late Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,0,4,4
+Coho salmon - Oregon Production Index Area: Lower Columbia Natural,2021,2,1,2,4,2,3,4,1,3,5,2,3,5,2,0,4,4
+Coho salmon - Oregon Production Index Area: Oregon Coast Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,0,4,4
+Coho salmon - Oregon Production Index Area: Oregon Coast Natural,2021,4,1,4,4,0,3,4,1,3,5,2,3,5,2,3,4,1
+Coho salmon - Puget Sound: Hood Canal,2021,4,1,4,4,0,4,4,0,3,4,1,3,5,2,0,4,4
+Coho salmon - Puget Sound: Skagit,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,3,4,1
+Coho salmon - Puget Sound: Snohomish,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,1,4,3
+Coho salmon - Puget Sound: South Puget Sound Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,1,4,3
+Coho salmon - Puget Sound: Stillaguamish,2021,4,1,4,4,0,3,4,1,3,4,1,3,5,2,0,4,4
+Coho salmon - Washington Coast: Grays Harbor,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,3,4,1
+Coho salmon - Washington Coast: Hoh,2021,3,1,4,4,0,3,4,1,3,4,1,3,4,1,3,4,1
+Coho salmon - Washington Coast: Queets,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,3,4,1
+Coho salmon - Washington Coast: Quillayute Fall,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,1,4,3
+Coho salmon - Washington Coast: Quillayute Summer Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,1,4,3
+Coho salmon - Washington Coast: Quinault Hatchery,2021,2,1,4,4,0,3,4,1,3,4,1,3,4,1,1,4,3
+Coho salmon - Washington Coast: Strait of Juan de Fuca,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,3,4,1
+Coho salmon - Washington Coast: Willapa Bay Hatchery,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,1,4,3
+Coho salmon - Washington Coast: Willapa Bay Natural,2021,4,1,4,4,0,3,4,1,3,4,1,3,4,1,1,4,3
+Pink salmon - Puget Sound,2021,3,1,3,3,0,2,2,0,3,3,0,3,3,0,3,3,0
+Chinook salmon - California Central Valley: Sacramento River Fall,2021,3,1,4,5,1,4,5,1,1,5,4,2,5,3,0,2,2
+Chinook salmon - California Central Valley: Sacramento River Spring,2021,2,1,2,5,3,3,5,2,0,4,4,2,4,2,0,2,2
+Chinook salmon - California Central Valley: Sacramento River Winter,2021,4,1,4,5,1,4,5,1,3,4,1,3,4,1,0,2,2
+Chinook salmon - Northern California Coast: California Coastal,2021,2,1,1,5,4,3,4,1,0,4,4,0,4,4,0,2,2
+Chinook salmon - Northern California Coast: Klamath River Fall,2021,4,1,4,5,1,4,5,1,3,5,2,5,5,0,0,2,2
+Chinook salmon - Northern California Coast: Klamath River Spring,2013,2,1,2,5,3,3,5,2,0,5,5,1,5,4,0,2,2
+Chinook salmon - Northern California Coast: Smith River,NA,NA,1,2,5,3,3,4,1,0,0,0,1,2,1,0,2,2
+Coho salmon - Oregon Production Index Area: Central California Coast,2021,2,1,1,2,1,3,3,0,0,2,2,0,2,2,0,2,2
+Coho salmon - Oregon Production Index Area: Southern Oregon/Northern California Coast,2021,2,1,1,2,1,3,4,1,0,2,2,0,2,2,0,2,2
+Jack mackerel - Pacific Coast,NA,NA,3,4,4,0,0,3,3,2,3,1,1,4,3,0,3,3
+Krill (Euphausiacea) - Pacific Coast,NA,NA,1,2,4,2,3,3,0,1,3,2,0,3,3,0,3,3
+Northern anchovy - Northern Pacific Coast,NA,NA,1,4,4,0,3,4,1,2,3,1,0,4,4,0,4,4
+Northern anchovy - Southern Pacific Coast,NA,NA,1,4,4,0,3,4,1,3,3,0,3,4,1,0,4,4
+Opalescent inshore squid - Pacific Coast,2006,1,1,3,4,1,0,4,4,2,5,3,0,4,4,0,4,4
+Pacific chub mackerel - Pacific Coast,2019,6,2,4,4,0,3,4,1,3,5,2,3,4,1,1,4,3
+Pacific sardine - Northern Subpopulation,2020,6,2,5,5,0,4,4,0,5,5,0,5,4,0,2,4,2
+Albacore - North Pacific,2020,6,3,4,4,0,2,2,0,3,4,1,4,4,0,2,3,1
+Bigeye tuna - Eastern Pacific,2020,6,3,5,5,0,2,5,3,2,4,2,4,3,0,2,3,1
+Blue shark - North Pacific,2017,6,3,3,4,1,2,2,0,3,4,1,3,3,0,2,3,1
+Pacific bluefin tuna - Pacific,2020,6,2,4,4,0,3,5,2,4,4,0,4,4,0,2,3,1
+Shortfin mako - North Pacific,2018,6,3,4,4,0,2,2,0,3,4,1,3,4,1,2,3,1
+Skipjack tuna - Eastern Pacific,2018,2,1,5,5,0,2,2,0,3,4,1,4,4,0,0,3,3
+Striped marlin - Eastern Pacific,2010,6,1,4,4,0,2,2,0,3,4,1,3,4,1,2,3,1
+Swordfish - Eastern Pacific,2014,3,3,4,4,0,2,2,0,3,4,1,3,4,1,0,3,3
+Yellowfin tuna - Eastern Pacific,2020,6,2,4,4,0,2,5,3,3,4,1,3,4,1,2,3,1
+American Samoa Bottomfish Multi-species Complex,2019,3,1,5,5,0,2,5,3,1,5,4,0,5,5,2,3,1
+Crimson jobfish - Main Hawaiian Islands ,2018,3,2,5,5,0,2,5,3,1,5,4,0,5,5,1,3,2
+Green jobfish - Main Hawaiian Islands,2020,5,3,3,5,2,2,5,3,2,5,3,3,5,2,2,3,1
+180 Fathom Bank Precious Coral Complex,NA,NA,10,0,2,2,0,1,1,1,2,1,0,0,0,0,0,0
+Au'Au Bed Black Coral Complex,NA,NA,10,0,5,5,0,1,1,1,2,1,0,0,0,0,0,0
+Brooks Bank Precious Coral Complex,NA,NA,10,0,2,2,0,1,1,1,2,1,0,0,0,0,0,0
+Deepwater shrimps (Heterocarpus spp.) - Main Hawaiian Islands,NA,NA,2,0,5,5,0,1,1,1,2,1,0,0,0,0,0,0
+Hancock Seamount Groundfish Complex,NA,NA,10,0,2,2,0,1,1,1,2,1,0,0,0,0,0,0
+Hawaiian Archipelago Exploratory Area Precious Coral Complex,NA,NA,10,0,2,2,0,1,1,1,2,1,0,0,0,0,0,0
+Kaena Point Bed Precious Coral Complex,NA,NA,10,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+Keahole Bed Precious Coral Complex,NA,NA,10,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex,2021,3,2,3,5,2,2,5,3,1,5,4,0,5,5,2,3,1
+Makapu'u Bed Precious Corals Multi-species Complex,NA,NA,10,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+Northwestern Hawaiian Islands Bottomfish Multi-species Complex,NA,NA,2,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+Northwestern Hawaiian Islands Crustacean Complex,NA,NA,3,0,0,0,0,0,0,1,2,1,0,0,0,0,2,2
+Spanner crab - Main Hawaiian Islands,2019,3,3,3,5,2,2,4,2,2,3,1,0,3,3,2,3,1
+Westpac Bed Refugium - Precious Corals Complex,NA,NA,10,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Guam Bottomfish Multi-species Complex,2019,3,1,5,5,0,2,5,3,1,5,4,0,5,5,2,3,1
+Northern Mariana Islands Bottomfish Multi-species Complex,2019,3,1,5,5,0,2,5,3,1,5,4,0,5,5,2,3,1
+Pacific Remote Island Areas Black Precious Coral Complex,NA,NA,10,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+Pacific Remote Island Areas Bottomfish Complex,NA,NA,2,0,0,0,0,0,0,1,2,1,0,0,0,0,2,2
+Pacific Remote Island Areas Coral Reef Ecosystem Multi-species Complex,NA,NA,10,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+Pacific Remote Island Areas Crustacean Complex,NA,NA,3,0,0,0,0,0,0,1,2,1,0,0,0,0,2,2
+Pacific Remote Island Areas Exploratory Area Precious Coral Complex,NA,NA,10,0,0,0,0,0,0,1,2,1,0,0,0,0,2,2
+Albacore - South Pacific,2015,6,3,5,5,0,2,2,0,4,4,0,4,4,0,0,3,3
+Black marlin - Pacific,NA,NA,1,1,3,2,1,2,1,2,2,0,1,1,0,2,2,0
+Blue marlin - Pacific,2013,6,2,4,5,1,2,2,0,3,4,1,3,4,1,2,2,0
+Kawakawa - Pacific,NA,NA,1,1,4,3,1,2,1,1,1,0,0,0,0,1,1,0
+Longfin mako - North Pacific,NA,NA,3,1,4,3,1,2,1,1,1,0,1,1,0,1,1,0
+Oceanic whitetip shark - Western and Central Pacific,2019,6,3,2,5,3,1,2,1,3,4,1,3,4,1,2,2,0
+Opah - Pacific,NA,NA,1,1,5,4,1,2,1,1,3,2,1,3,2,0,2,2
+Pacific Other Tuna Relatives Complex,NA,NA,1,1,4,3,1,1,0,2,2,0,2,2,0,1,1,0
+Pomfrets (Bramidae) - Pacific,NA,NA,1,1,5,4,1,2,1,1,3,2,1,3,2,0,1,1
+Sailfish - Pacific,NA,NA,1,3,4,1,2,2,0,2,3,1,2,3,1,1,2,1
+Salmon shark - North Pacific,NA,NA,3,4,4,0,1,2,1,2,3,1,2,3,1,1,2,1
+Shortbill spearfish - Pacific,NA,NA,1,3,4,1,2,2,0,2,3,1,2,3,1,1,2,1
+Silky shark - Western and Central Pacific,2018,6,3,4,5,1,2,2,0,3,3,0,3,3,0,2,2,0
+Snake mackerels (Gempylidae) - Pacific,NA,NA,2,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Wahoo - Pacific,NA,NA,1,0,5,5,0,2,2,1,3,2,0,3,3,0,2,2
+Western Pacific Squid Complex,NA,NA,1,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+Bigeye thresher - Pacific,2017,1,4,5,5,0,2,2,0,3,3,0,2,2,0,0,1,1
+Bigeye tuna - Western and Central Pacific,2020,6,3,4,5,1,2,3,1,3,4,1,3,4,1,2,3,1
+Dolphinfish - Pacific,NA,NA,1,1,5,4,1,2,1,2,3,1,2,4,2,1,3,2
+Pelagic thresher - North Pacific,NA,NA,3,0,4,4,0,2,2,1,1,0,0,2,2,0,0,0
+Skipjack tuna - Western and Central Pacific,2019,5,1,4,5,1,2,2,0,3,4,1,3,4,1,1,3,2
+Striped marlin - Western and Central North Pacific,2019,5,1,4,5,1,2,2,0,3,4,1,3,4,1,2,3,1
+Swordfish - Western and Central North Pacific,2018,6,3,4,5,1,2,2,0,4,4,0,4,4,0,2,3,1
+Thresher shark - North Pacific,2018,6,3,4,5,1,2,2,0,3,3,0,4,4,0,2,2,0
+Yellowfin tuna - Western and Central Pacific,2020,5,2,4,5,1,2,2,0,3,4,1,4,4,0,2,3,1
