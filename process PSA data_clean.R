@@ -12,8 +12,8 @@ library(tidyverse)
 library(rfishbase)
 
 #set wds
-pawd<- "C:/Users/Derek.Bolser/Documents/Productivity analysis/SurveyPSA"
-setwd(pawd)
+data<- "C:/Users/Derek.Bolser/Documents/Survey-PSA/Data"
+setwd(data)
 
 #read in data
 gap<- read.csv("gap_analysis_assessment_table.csv")
@@ -715,16 +715,9 @@ colnames(status)<- c('stock_name', 'overfishing', 'overfished', 'approaching_ove
 #combine with species name
 status<-left_join(ssm, status, by = 'stock_name')
 
-#remove species complexes
-#status<- status %>% 
-#  filter(!grepl('Complex', stock_name))
-
-#status<-status[,1:5]
-
 #assign average values or 'unknown' to missing values
 status$overfishing[is.na(status$overfishing)]<- "Unknown"
 status$overfished[is.na(status$overfished)]<- "Unknown"
-#status$assessment_level[is.na(status$assessment_level)]<- 2.5
 
 ##### fix edited spp in status ########################################################################################################################
 #first, seperate genus and species to make this code work
@@ -827,36 +820,6 @@ gap$common_name <- gsub(" -.*", "", gap$common_name)
 gap$common_name <- gsub("- .*", "", gap$common_name)
 gap$common_name <- gsub("--.*", "", gap$common_name)
 
-#remove complexes and unwanted spp; not necessary for now because things will get thrown out when merging
-#gap<-as.data.frame(gap[!grepl("Plan", gap$common_name),])
-#gap<-as.data.frame(gap[!grepl("Complex", gap$common_name),])
-#gap<-as.data.frame(gap[!grepl("Unit", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("coral", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Habitat", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("/", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("1", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("2", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("3", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Multi", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Fishery", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Deepwater", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Shallow", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Puerto Rico", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("crab", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("shrimp", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("scallop", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("lobster", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Krill", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Sargassum", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("fans", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Refugium", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("squid", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Gulf", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Islands", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Bogoslof", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("Eastern Bering Sea", gap[,1]),])
-#gap<-as.data.frame(gap[!grepl("quahog", gap[,1]),])
-
 #trim
 gap[,9]<-trimws(gap[,9])
 
@@ -864,57 +827,15 @@ gap[,9]<-trimws(gap[,9])
 #gap<-gap[!is.na(gap$Model_category),]
 gap$Model_category<-as.numeric(gap$Model_category)
 
-#calculate an average for species with multiple assessments. we lose the specific stock names but can revisit. 
-#gap_summary <- gap %>%
-#  group_by(common_name) %>%
-#  summarise(across(-c(Stock), ~ mean(.x, na.rm = TRUE)))
-
-#pull data from FishBase; this should not be necessary if merging by stock name. 
-#snf<-function(x){
-#  y<- common_to_sci(x['common_name'])
-#  return(as.data.frame(y))
-#}
-
-#sci_name_list<-apply(gap,1,snf)
-
-#make one DF and seperate scientific names to match sis_spp
-#sci_name_df<-do.call(rbind,sci_name_list) 
-
-#merge with gap df
-#colnames(gap_summary)<-c('ComName','Last_assessment','avg_model_category',"Catch_gap","Abundance_gap","LH_gap","Comp_gap","Eco_gap")
-#gap_spp<-left_join(sci_name_df,gap_summary,by = 'ComName')
-#gap_spp<- gap_spp[!is.na(gap_spp$avg_model_category),]
-
-#remove codes and language
-#gap_spp<- gap_spp[,-c(3,4)]
-
 #manipulate to merge with other dfs; revisit if doing the fishbase lookup and merging
 colnames(gap)<- c('stock_name','last_assessment','model_category',"catch_gap","abundance_gap","LH_gap","comp_gap","eco_gap","common_name")
 
-#gap_spp$scientific_name<- gsub(" "," _ ", gap_spp$scientific_name)
-
-# all_scores<- left_join(cname_scores, gap_spp, by = 'scientific_name')
-# 
-# #extract NAs
-# na_category<-all_scores[is.na(all_scores$avg_model_category),]
-# na_category<-na_category[,c(1,16)]
-# 
-# write.csv(na_category, 'missing_model_category_spp.csv',row.names = F)
-# 
-# #remove spp with NA categories for now
-# all_scores<- all_scores[!is.na(all_scores$avg_model_category),]
-# 
-# 
-# ####other extra code
-# 
-# ####merge to get common name
-# sis_og$scientific_name<- gsub(" "," _ ", sis_og$scientific_name)
-# 
-# colnames(scores)<-c("Loo","K","tmax", "tm","M","h", "r", "MASPS", "margsd", "rho",
-#                     "Fmsy_over_M", "scientific_name", "avg_p_score", "avg_s_score", "score")
-# 
-# cname_scores<- merge(scores, sis_og, by = 'scientific_name')
-# cname_scores<-unique(cname_scores)
+#get an average gap
+gap<-gap%>%
+  group_by(stock_name,common_name)%>%
+  summarize(model_category = model_category, last_assessment = last_assessment,
+            mean_gap = mean(c(catch_gap,abundance_gap,LH_gap,comp_gap),na.rm = T))%>%
+  ungroup()
 
 ####now work with CVA data ##############################################################################################################################
 #manipulate CVA data
@@ -925,65 +846,18 @@ colnames(cva)<-c("common_name","Functional_group","Attribute_type","Attribute_na
 
 #remove variables that won't be used because of duplication
 cva_filtered<- cva%>%
-  filter(!Attribute_name %in% c("Adult Mobility", "Dispersal of Early Life Stages", "Early Life History Survival and Settlement Requirements",
-                                "Population Growth Rate", "Spawning Cycle", "Stock Size/Status"))
+  filter(!Attribute_name %in% c("Population Growth Rate", "Stock Size/Status"))
 
-#pivot wider
-cva_wide<-cva_filtered%>%
-  pivot_wider(names_from = Attribute_name, values_from = Mean)
-
-#take the highest value of remaining unrepresented sensitivity to stressors (- prey spec, habitat spec, repro complex) and exposure variables
+#get a mean sensitivty and exposure metric across all variables
 #ignoring the component score and vulnerability rank for now. 
-cva_aggregated<-cva_wide%>%
+cva_aggregated<-cva_filtered%>%
   group_by(common_name,Attribute_type,Region)%>%
-  summarize(`Complexity in Reproductive Strategy` = `Complexity in Reproductive Strategy`,
-            `Habitat Specificity`= `Habitat Specificity`,`Prey Specificity` = `Prey Specificity`, Functional_group = Functional_group,
-            Aggregated_cva_metric = max(c_across(-c(Functional_group,Component_score,Vulnerability_rank, `Complexity in Reproductive Strategy`,`Habitat Specificity`,`Prey Specificity`)),na.rm = T))%>%
+  summarize(Aggregated_cva_metric = mean(Mean),na.rm = T)%>%
   ungroup()
 
-#pivot wider to define the new exposure metric
+#pivot wider to make columns for exposure and sensitivity
 cva_aw<-cva_aggregated%>%
   pivot_wider(names_from = Attribute_type, values_from = Aggregated_cva_metric)
-
-#consolidate rows
-cva_aw<- cva_aw%>%
-  group_by(common_name, Region)%>%
-  summarize(Functional_group = Functional_group, `Complexity in Reproductive Strategy` = max(`Complexity in Reproductive Strategy`,na.rm = T),
-            `Habitat Specificity`= max(`Habitat Specificity`,na.rm = T),`Prey Specificity` = max(`Prey Specificity`,na.rm = T),
-            Exposure = max(Exposure,na.rm = T), Sensitivity = max(Sensitivity,na.rm = T))%>%
-  ungroup()
-
-cva_aw<-unique(cva_aw)
-
-#change -inf to NA
-cva_aw <- cva_aw %>%
-  mutate(across(everything(), ~ ifelse(. == -Inf, NA, .)))
-
-#### now fix the names ###############################################################################################################################
-#try the scientific name pull from fishbase
-#snl_cva<-apply(cva_aw,1,snf)
-
-#make one DF and seperate scientific names to match sis_spp
-#snl_cva_df<-do.call(rbind,snl_cva)
-
-#merge with gap df
-#colnames(cva_aw)<-c('ComName','Region','Functional_group',"Repro_strat","Hab_spec","Prey_spec","Exposure","Sensitivity")
-#cva_spp<-left_join(snl_cva_df,cva_aw,by = 'ComName')
-#cva_spp<- cva_spp[!is.na(cva_spp$Region),]
-
-#remove codes and language
-#cva_spp<- cva_spp[,-c(3,4)]
-
-#fix scientific name column; lots of species that don't seem accurate but merging will eliminate the bad ones
-#colnames(cva_spp)<-c('scientific_name','ComName','Region','Functional_group',"Repro_strat","Hab_spec","Prey_spec","Exposure","Sensitivity")
-#cva_spp$scientific_name<- gsub(" "," _ ", cva_spp$scientific_name)
-
-#merge with gap; this eliminates a fair amount but merging with scores will take care of it. 
-#gap_cva<- left_join(gap_spp,cva_spp,by = c('ComName','scientific_name'))
-#gap_cva<- gap_cva[!is.na(gap_cva$Last_assessment),]
-
-#setwd(pawd)
-#write.csv(gap_cva, "processed_gap_and_cva_data.csv", row.names = F)
 
 #### FishLife ##################################################################################################
 FLfn<-function(x){
