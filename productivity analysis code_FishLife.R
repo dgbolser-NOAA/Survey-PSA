@@ -196,11 +196,24 @@ scores$score<-apply(scores[,c(22,23)],1,mean)
 
 #### write csv #########################################################################################
 setwd(results)
-#write.csv(scores, "scores_preliminary_extended_variables.csv", row.names = F)
+scores<-unique(scores)
+scores<-scores[!scores$scientific_name == 2,]
+write.csv(scores, "scores_preliminary_extended_variables.csv", row.names = F)
+
+#write csv of reduced scores DF; this removes all duplicates resulting from different region designations that don't correspond to different stock names.
+scores[scores == ""] <- NA
+scores[,c(1:4,6,7,9,11)][scores[,c(1:4,6,7,9,11)] == "2"] <- NA
+
+scores$stock_area[is.na(scores$stock_area)] <- scores$Region[is.na(scores$stock_area)]
+scores_red<- scores[,c(1:4,22:24)]
+
+setwd(results)
+scores_red<-unique(scores_red)
+write.csv(scores_red, "avg_scores_df_expanded_variables.csv", row.names = F)
 
 ##### plot ############################################################################################
 #with scores; not much separation on x-axis
-ggplot(scores, aes(x= avg_p_score, y= avg_s_score,label = stock_name)) + 
+ggplot(scores_red, aes(x= avg_p_score, y= avg_s_score,label = stock_name)) + 
   geom_hline(yintercept=2, linetype="dashed", color = "red") +
   geom_vline(xintercept=2, linetype="dashed", color = "red")+
   geom_point(stat = "identity") + 
@@ -215,22 +228,14 @@ ggsave(filename = 'PSA_NMFS_fish_spp_stock_name_FishLife_expanded_variables.png'
 # not producing a png...
 
 ####group by quadrant
-#export list of stocks by quadrant
-scores_red<- scores[,c(1,2,22:24)]
-
-#write csv of reduced scores DF
-setwd(results)
-#write.csv(scores_red, "avg_scores_df_expanded_variables.csv", row.names = F)
-
-#back to quadrants
 Q1<- as.data.frame(scores_red[scores_red$avg_p_score < 2 & scores_red$avg_s_score < 2,])
 Q2<- as.data.frame(scores_red[scores_red$avg_p_score >= 2 & scores_red$avg_s_score < 2,])
 Q3<- as.data.frame(scores_red[scores_red$avg_p_score < 2 & scores_red$avg_s_score >=2,])
 Q4<- as.data.frame(scores_red[scores_red$avg_p_score >= 2 & scores_red$avg_s_score >=2,])
 
-Q1[169:303,]<-NA
-Q3[105:303,]<-NA
-Q4[120:303,]<-NA
+Q1[154:214,]<-NA
+Q3[91:214,]<-NA
+Q4[73:214,]<-NA
 
 colnames(Q1)<-c('Q1','stock_name', 'p_score','s_score','score')
 colnames(Q2)<-c('Q2','stock_name', 'p_score','s_score','score')
@@ -242,7 +247,7 @@ quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-#write.csv(quadrants, "fish_species_by_quadrant_PSA.csv", row.names = F)
+write.csv(quadrants, "fish_species_by_quadrant_PSA.csv", row.names = F)
 
 #now for species
 colnames(Q1)<-c('species_name','Q1', 'p_score','s_score','score')
@@ -255,7 +260,7 @@ quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-#write.csv(quadrants, "fish_stocks_by_quadrant_PSA.csv", row.names = F)
+write.csv(quadrants, "fish_stocks_by_quadrant_PSA.csv", row.names = F)
 
 ##### link spp to their survey #########################################################################
 #exclude non-FINSS surveys
@@ -271,23 +276,96 @@ colnames(surveys_2)<-c('survey','stock_name')
 
 surveys<-rbind(surveys,surveys_2)
 
-scores_survey<- left_join(scores,surveys,by = 'stock_name') #many to many; ok for now
+scores_survey<- left_join(scores_red,surveys,by = 'stock_name') #many to many; ok for now
 
 #summarize scores by survey; many NAs... go back here to check for misaligned stock names #############################################################################
-scores_survey<-scores_survey[!is.na(scores_survey$survey),] 
+scores_no_survey<-scores_survey[is.na(scores_survey$survey),]
+scores_survey<-scores_survey[!is.na(scores_survey$survey),]
 
-str(scores_survey)
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(is.na(survey), 
+                          str_extract(stock_area, "^\\w+(?:\\s+\\w+){0,3}"), 
+                          survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(is.na(survey), 
+                         str_extract(stock_name, "^\\w+(?:\\s+\\w+){0,3}"), 
+                         survey))
+
+#classify by science center if possible, region/taxa if unsure
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "River|Creek|Lake|Basin|Hatchery|Production|Natural|Migrating|Far|Fall|Spring|Summer|Puget|Valley|Washington Coast|Oregon Coast|Northern California Coast"), "Salmon", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Alaska|alaska|bering_sea|Aleutian|Bering"), "AFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Hawaiian|Samoa|Guam|Mariana|pacific"), "PIFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Caribbean|gulf|Gulf of Mexico|sava|Atlantic and Gulf of|Southern Atlantic|Keys|Mid|Carolinas|Atlantic Coast"), "SEFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Maine|Georges|Northwestern Atlantic|New England"), "NEFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "North Atlantic"), "North Atlantic High Seas", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Western Atlantic"), "Western Atlantic High Seas", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Eastern Pacific"), "Eastern Pacific High Seas", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "North Pacific"), "North Pacific High Seas", survey)) 
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "South Pacific"), "South Pacific High Seas", survey)) 
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Western and Central Pacific"), "Western and Central Pacific High Seas", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "Western and Central North"), "Western and Central North Pacific High Seas", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(survey, "California|Oregon|Washington|Pacific Coast"), "Nearshore West Coast", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(stock_name, "Rex sole - Western / Central Gulf of Alaska"), "AFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(stock_name, "Gulf of Alaska Shallow Water Flatfish Complex"), "AFSC not surveyed", survey))
+
+scores_no_survey <- scores_no_survey %>%
+  mutate(survey = ifelse(str_detect(stock_name, "Pacific Coast Blackspotted and Rougheye Rockfish Complex"), "Nearshore West Coast", survey))
+
+scores_no_survey<-unique(scores_no_survey)
+
+str(scores_no_survey)
 
 survey_grouped_scores<-scores_survey%>%
   group_by(survey)%>%
   summarise(p_score = mean(avg_p_score), s_score = mean(avg_s_score), n = n())
 
-#classify n
-survey_grouped_scores$spp_number<- survey_grouped_scores$n
+no_survey_grouped_scores<-scores_no_survey%>%
+  group_by(survey)%>%
+  summarise(p_score = mean(avg_p_score), s_score = mean(avg_s_score), n = n())
 
-survey_grouped_scores$spp_number[survey_grouped_scores$spp_number > 2]<-'3+'
+#get an average score
+no_survey_grouped_scores$score<-apply(no_survey_grouped_scores[,c(2,3)],1,mean)
+survey_grouped_scores$score<-apply(survey_grouped_scores[,c(2,3)],1,mean)
+
+#fix some names
+no_survey_grouped_scores[2,1]<- "Unspecified Atlantic High Seas"
+no_survey_grouped_scores[9,1]<- "Unspecified Pacific High Seas"
+no_survey_grouped_scores[11,1]<- "Pacific Salmon"
+
+colnames(no_survey_grouped_scores)<-c("jurisdiction","p_score","s_score","n","score")
 
 #plot ######################################################################################################
+
 #color by n in the future
 ggplot(survey_grouped_scores, aes(x= p_score, y= s_score,label = survey)) + 
   geom_hline(yintercept=2, linetype="dashed", color = "red") +
@@ -304,33 +382,31 @@ ggplot(survey_grouped_scores, aes(x= p_score, y= s_score,label = survey)) +
   annotate(geom="text", x=2.5, y=2.5, label="Q4")
 
 setwd(data)
-#ggsave(filename = 'PSA_surveys_FishLife_extended_variables.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'tiff', dpi = 300)
-
-#get an average score
-survey_grouped_scores$score<-apply(survey_grouped_scores[,c(2,3)],1,mean)
+ggsave(filename = 'PSA_surveys_FishLife_extended_variables.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'tiff', dpi = 300)
 
 #write csv of survey scores
 setwd(results)
-#write.csv(survey_grouped_scores, "survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
+write.csv(survey_grouped_scores, "survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
+write.csv(no_survey_grouped_scores, "no_survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
 
 #export list of surveys by quadrant; some getting excluded here...
-Q1<- as.data.frame(survey_grouped_scores[survey_grouped_scores$p_score < 2 & survey_grouped_scores$s_score < 2,])
-Q2<- as.data.frame(survey_grouped_scores[survey_grouped_scores$p_score >= 2 & survey_grouped_scores$s_score < 2,])
-Q3<- as.data.frame(survey_grouped_scores[survey_grouped_scores$p_score < 2 & survey_grouped_scores$s_score >=2,])
-Q4<- as.data.frame(survey_grouped_scores[survey_grouped_scores$p_score >= 2 & survey_grouped_scores$s_score >=2,])
+Q1<- as.data.frame(survey_id_grouped_scores[survey_id_grouped_scores$p_score < 2 & survey_id_grouped_scores$s_score < 2,])
+Q2<- as.data.frame(survey_id_grouped_scores[survey_id_grouped_scores$p_score >= 2 & survey_id_grouped_scores$s_score < 2,])
+Q3<- as.data.frame(survey_id_grouped_scores[survey_id_grouped_scores$p_score < 2 & survey_id_grouped_scores$s_score >=2,])
+Q4<- as.data.frame(survey_id_grouped_scores[survey_id_grouped_scores$p_score >= 2 & survey_id_grouped_scores$s_score >=2,])
 
-Q1[19:22,]<-NA
-Q3[19:22,]<-NA
-Q4[15:22,]<-NA
+Q1[19:23,]<-NA
+Q3[21:23,]<-NA
+Q4[12:23,]<-NA
 
-colnames(Q1)<-c('Q1','p_score','s_score','n','spp_num', 'score')
-colnames(Q2)<-c('Q2','p_score','s_score','n','spp_num', 'score')
-colnames(Q3)<-c('Q3','p_score','s_score','n','spp_num', 'score')
-colnames(Q4)<-c('Q4','p_score','s_score','n','spp_num', 'score')
+colnames(Q1)<-c('Q1','p_score','s_score','n','score')
+colnames(Q2)<-c('Q2','p_score','s_score','n','score')
+colnames(Q3)<-c('Q3','p_score','s_score','n','score')
+colnames(Q4)<-c('Q4','p_score','s_score','n','score')
 
 quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-#write.csv(quadrants, "surveys_by_quadrant_PSA_expanded_variables.csv", row.names = F)
+write.csv(quadrants, "surveys_by_quadrant_PSA_expanded_variables.csv", row.names = F)
