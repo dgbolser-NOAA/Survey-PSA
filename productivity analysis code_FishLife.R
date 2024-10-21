@@ -6,9 +6,20 @@
 ####clear environment
 rm(list=ls())
 
+#get dev version of rphylopic
+#remotes::install_github("palaeoverse/rphylopic")
+
 #load packages
+library(ggplot2)
 library(tidyverse)
 library(ggrepel)
+library(rphylopic)
+library(taxize)
+library(fishualize)
+library(ggimage)
+library(httr)
+library(png)
+library(grid)
 
 ####set wds
 #wd <- getwd() 
@@ -194,37 +205,211 @@ scores$avg_s_score<-apply(scores[,c(8,10,18,19,21)],1,mean, na.rm = T)
 ##### avg score overall
 scores$score<-apply(scores[,c(22,23)],1,mean)
 
+#### euclidian distance; the vulnerabiltiy metric
+scores$distance <- sqrt(scores$avg_p_score^2 + scores$avg_s_score^2)
+
 #### write csv #########################################################################################
 setwd(results)
 scores<-unique(scores)
 scores<-scores[!scores$scientific_name == 2,]
-write.csv(scores, "scores_preliminary_extended_variables.csv", row.names = F)
+#write.csv(scores, "scores_preliminary_extended_variables.csv", row.names = F)
 
 #write csv of reduced scores DF; this removes all duplicates resulting from different region designations that don't correspond to different stock names.
 scores[scores == ""] <- NA
 scores[,c(1:4,6,7,9,11)][scores[,c(1:4,6,7,9,11)] == "2"] <- NA
 
 scores$stock_area[is.na(scores$stock_area)] <- scores$Region[is.na(scores$stock_area)]
-scores_red<- scores[,c(1:4,22:24)]
+scores_red<- scores[,c(1:4,22:25)]
 
 setwd(results)
 scores_red<-unique(scores_red)
-write.csv(scores_red, "avg_scores_df_expanded_variables.csv", row.names = F)
+#write.csv(scores_red, "avg_scores_df_expanded_variables.csv", row.names = F)
 
 ##### plot ############################################################################################
-#with scores; not much separation on x-axis
-ggplot(scores_red, aes(x= avg_p_score, y= avg_s_score,label = stock_name)) + 
-  geom_hline(yintercept=2, linetype="dashed", color = "red") +
-  geom_vline(xintercept=2, linetype="dashed", color = "red")+
-  geom_point(stat = "identity") + 
-  theme_minimal() + labs(x = "Productivity", y = "Susceptibility") +
- geom_label_repel(aes(x = avg_p_score, 
-                     y = avg_s_score, 
-                      label = stock_name), 
-                  max.overlaps = 200, angle = 45, hjust = 0.6, size = 1.5)
+#match scientific names with images using phylopic
+#first, fix sci names
+scores_red$scientific_name<-gsub(" _ "," ",scores_red$scientific_name)
 
-setwd(data)
-ggsave(filename = 'PSA_NMFS_fish_spp_stock_name_FishLife_expanded_variables.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#get something for NAs
+# Function to extract the genus from a scientific name
+extract_genus <- function(scientific_name) {
+  strsplit(scientific_name, " ")[[1]][1]
+}
+
+# Add a column with the genus for each species
+scores_red <- scores_red %>%
+  mutate(genus = sapply(scientific_name, extract_genus))
+
+#### now go back to family
+extract_family <- function(name) {
+  # Split the input string into genus and species
+  parts <- strsplit(name, " ")[[1]]
+  if (length(parts) != 2) {
+    return(NA)  # Return NA if input is not in the expected format
+  }
+  
+  genus <- parts[1]
+  species <- parts[2]
+  
+  # Fetch the taxonomic name using ITIS
+  family_info <- tryCatch({
+    tax_name(paste(genus, species), get = "family", db = "itis")
+  }, error = function(e) {
+    return(NA)  # Return NA if any error occurs
+  })
+  
+  # Check if the result is valid and extract the family name
+  if (!is.null(family_info) && nrow(family_info) > 0 && !is.na(family_info$family[1])) {
+    return(family_info$family[1])
+  }
+  
+  return(NA)
+}
+
+# Add a column with the family for each species 
+# Extract families into a separate vector
+families <- sapply(scores_red$scientific_name, extract_family)
+
+# Add the families as a new column to the dataframe
+scores_red$family <- families
+
+#get a species column
+scores_red <- scores_red %>%
+  mutate(
+    genus = sapply(scientific_name, function(x) strsplit(x, " ")[[1]][1]), # Extract genus
+    species = sapply(scientific_name, function(x) strsplit(x, " ")[[1]][2]) # Extract species
+  )
+
+#write csvs
+setwd(results)
+#write.csv(scores_red,"scores_reduced_inc_taxonomic_info.csv",row.names = F)
+
+#try rphylopic functions directly
+#get the images
+get_phylopic_uuid <- function(scientific_name) {
+  tryCatch({
+    uuid <- rphylopic::get_uuid(scientific_name)
+    if (length(uuid) > 0) {
+      return(uuid)
+    } else {
+      return(NA)
+    }
+  }, error = function(e) {
+    return(NA)
+  })
+}
+
+# Add a column with PhyloPic UUIDs to the dataframe
+scores_red <- scores_red %>%
+  rowwise() %>%
+  mutate(phylopic_uuid = get_phylopic_uuid(scientific_name)) %>%
+  ungroup()
+
+#separate for genus matching
+uuids<-scores_red[!is.na(scores_red$phylopic_uuid),]
+
+genus_uuids<- scores_red[is.na(scores_red$phylopic_uuid),] 
+
+#match genera
+genus_uuids <- genus_uuids %>%
+  rowwise() %>%
+  mutate(phylopic_uuid = get_phylopic_uuid(genus)) %>%
+  ungroup()
+
+#separate for family matching
+family_uuids<- genus_uuids[is.na(genus_uuids$phylopic_uuid),]
+
+genus_uuids<- genus_uuids[!is.na(genus_uuids$phylopic_uuid),]
+
+#match families
+family_uuids <- family_uuids %>%
+  rowwise() %>%
+  mutate(phylopic_uuid = get_phylopic_uuid(family)) %>%
+  ungroup()
+
+#bind all
+all_ids<-rbind(uuids,genus_uuids)
+all_ids<-rbind(all_ids, family_uuids)
+
+#make URLs from uuids
+get_phylopic_url <- function(uuid) {
+  if (is.na(uuid) || uuid == "") {
+    message("UUID is missing or NA.")
+    return(NA)
+  }
+  
+  # Construct the URL from the UUID
+  url <- paste0("https://phylopic.org/images/", uuid)
+  
+  # Log the constructed URL
+  message("Checking URL: ", url)
+  
+  # Check if the URL returns a valid image
+  response <- HEAD(url)
+  
+  # Log the status code
+  message("Status code: ", status_code(response))
+  
+  if (status_code(response) == 200) {
+    return(url)
+  } else {
+    return(NA)
+  }
+}
+
+all_ids$silhouette_url <- sapply(all_ids$phylopic_uuid, get_phylopic_url)
+
+#these aren't the final URLs; those have a species name at the end but aren't predictable. get the final ones
+fetch_final_url <- function(url) {
+  if (!is.na(url) && nzchar(url)) {
+    tryCatch({
+      response <- httr::GET(url)
+      if (httr::status_code(response) == 200) {
+        return(response$url)
+      } else {
+        return(NA)
+      }
+    }, error = function(e) {
+      return(NA)  # Return NA if any error occurs
+    })
+  } else {
+    return(NA)
+  }
+}
+
+all_ids$final_url<-sapply(all_ids$silhouette_url,fetch_final_url)
+
+setwd(results)
+write.csv(all_ids,"PSA_data_with_uuids_and_urls.cvs",row.names = F)
+
+#with scores; not much separation on x-axis
+# ggplot(scores_red, aes(x= avg_p_score, y= avg_s_score,label = stock_name)) + 
+#   geom_hline(yintercept=2, linetype="dashed", color = "red") +
+#   geom_vline(xintercept=2, linetype="dashed", color = "red")+
+#   geom_point(stat = "identity") + 
+#   theme_minimal() + labs(x = "Productivity", y = "Susceptibility") +
+#  geom_label_repel(aes(x = avg_p_score, 
+#                      y = avg_s_score, 
+#                       label = stock_name), 
+#                   max.overlaps = 200, angle = 45, hjust = 0.6, size = 1.5)
+
+ggplot(all_ids) + 
+  geom_hline(yintercept = 2, linetype = "dashed", color = "red") +
+  geom_vline(xintercept = 2, linetype = "dashed", color = "red") +
+  #geom_point(stat = "identity") + 
+  theme_minimal() + 
+  labs(x = "Productivity", y = "Risk") +
+  xlim(2, 3) +  
+  ylim(2, 3) +
+  add_phylopic(x = all_ids$avg_p_score, y = all_ids$avg_s_score, uuid = as.character(all_ids$phylopic_uuid),alpha = 0.1, ysize = 0.05)  # Adjust size as needed 
+
+setwd(results)
+#ggsave(filename = 'PSA_NMFS_fish_images.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#ggsave(filename = 'PSA_NMFS_blank.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#ggsave(filename = 'PSA_NMFS_fish_images_q1.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#ggsave(filename = 'PSA_NMFS_fish_images_q2.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#ggsave(filename = 'PSA_NMFS_fish_images_q3.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
+#ggsave(filename = 'PSA_NMFS_fish_images_q4.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'png', dpi = 300)
 # not producing a png...
 
 ####group by quadrant
@@ -247,7 +432,7 @@ quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-write.csv(quadrants, "fish_species_by_quadrant_PSA.csv", row.names = F)
+#write.csv(quadrants, "fish_species_by_quadrant_PSA.csv", row.names = F)
 
 #now for species
 colnames(Q1)<-c('species_name','Q1', 'p_score','s_score','score')
@@ -260,7 +445,7 @@ quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-write.csv(quadrants, "fish_stocks_by_quadrant_PSA.csv", row.names = F)
+#write.csv(quadrants, "fish_stocks_by_quadrant_PSA.csv", row.names = F)
 
 ##### link spp to their survey #########################################################################
 #exclude non-FINSS surveys
@@ -357,12 +542,16 @@ no_survey_grouped_scores<-scores_no_survey%>%
 no_survey_grouped_scores$score<-apply(no_survey_grouped_scores[,c(2,3)],1,mean)
 survey_grouped_scores$score<-apply(survey_grouped_scores[,c(2,3)],1,mean)
 
+#calculate distance
+no_survey_grouped_scores$distance <- sqrt(no_survey_grouped_scores$p_score^2 + no_survey_grouped_scores$s_score^2)
+survey_grouped_scores$distance <- sqrt(survey_grouped_scores$p_score^2 + survey_grouped_scores$s_score^2)
+
 #fix some names
 no_survey_grouped_scores[2,1]<- "Unspecified Atlantic High Seas"
 no_survey_grouped_scores[9,1]<- "Unspecified Pacific High Seas"
 no_survey_grouped_scores[11,1]<- "Pacific Salmon"
 
-colnames(no_survey_grouped_scores)<-c("jurisdiction","p_score","s_score","n","score")
+colnames(no_survey_grouped_scores)<-c("jurisdiction","p_score","s_score","n","score","distance")
 
 #plot ######################################################################################################
 
@@ -382,12 +571,12 @@ ggplot(survey_grouped_scores, aes(x= p_score, y= s_score,label = survey)) +
   annotate(geom="text", x=2.5, y=2.5, label="Q4")
 
 setwd(data)
-ggsave(filename = 'PSA_surveys_FishLife_extended_variables.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'tiff', dpi = 300)
+#ggsave(filename = 'PSA_surveys_FishLife_extended_variables.png',plot = last_plot() , path = data, width = 18, height = 9, device = 'tiff', dpi = 300)
 
 #write csv of survey scores
 setwd(results)
-write.csv(survey_grouped_scores, "survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
-write.csv(no_survey_grouped_scores, "no_survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
+#write.csv(survey_grouped_scores, "survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
+#write.csv(no_survey_grouped_scores, "no_survey_grouped_PSA_scores_extended_variables.csv", row.names = F)
 
 #export list of surveys by quadrant; some getting excluded here...
 Q1<- as.data.frame(survey_id_grouped_scores[survey_id_grouped_scores$p_score < 2 & survey_id_grouped_scores$s_score < 2,])
@@ -409,4 +598,4 @@ quadrants<-cbind.data.frame(c(Q1,Q2,Q3,Q4))
 quadrants<-quadrants[,c('Q1','Q2','Q3','Q4')]
 
 setwd(results)
-write.csv(quadrants, "surveys_by_quadrant_PSA_expanded_variables.csv", row.names = F)
+#write.csv(quadrants, "surveys_by_quadrant_PSA_expanded_variables.csv", row.names = F)
