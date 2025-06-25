@@ -45,45 +45,82 @@ all_ids <- all_ids[!grepl(paste(exclude, collapse = "|"), all_ids$FMP) &
 #write.csv(all_ids, "PSA_data_with_uuids_updated_HMS_salmon_excluded.csv",row.names = F)
 
 ####group by genus
-ggs<- all_ids[,c(14,15,33:35,37)]
+ggs<- all_ids[,c(1,14,15,33:35,37)]
 
-ggs <- ggs %>%
+#get the number of stocks and species
+ggs_components <- ggs %>%
   group_by(Genus) %>%
   summarise(
-    n_stocks = n(),
-    n_species = n_distinct(Species),
+    n_stocks = n_distinct(Stock.Name),
+    n_species = n_distinct(Species)
+  )
+   
+#get means by species
+ggs<-ggs%>%
+  group_by(Genus,Species)%>%
+  summarise(
+  across(
+    where(is.numeric),
+    list(mean = ~ mean(.x, na.rm = TRUE))), # Calculate mean and standard error for numeric columns
+    phylopic_uuid = first(na.omit(phylopic_uuid))
+    )
+
+#calculate summary statistics based on species in the group
+ggs<- ggs %>%
+  group_by(Genus) %>%
+  summarise(
     across(
       where(is.numeric),
       list(mean = ~ mean(.x, na.rm = TRUE), 
-           se = ~ sd(.x, na.rm = TRUE) / sqrt(n()))
-    ), # Calculate mean and standard error for numeric columns
+           se = ~ sd(.x, na.rm = TRUE)/sqrt(n()) )), # Calculate mean and sd for numeric columns
     phylopic_uuid = first(na.omit(phylopic_uuid)) # Select first non-NA value for 'silhouette_url'
   )
 
+####merge components with summary stats
+ggs<- merge(ggs,ggs_components, by = "Genus")
 
-ggs<-ggs[c(1:9,14)]
+colnames(ggs)<-c("Genus","avg_p_score_mean","avg_p_score_se","avg_s_score_mean","avg_s_score_se","distance_mean","distance_se","phylopic_uuid","n_stocks","n_species")
 
 setwd(results)
-#write.csv(ggs, "genus_grouped_vulnerability_scores_updated_HMS_salmon_excluded.csv", row.names = F)
+write.csv(ggs, "genus_grouped_vulnerability_scores_updated_HMS_salmon_excluded.csv", row.names = F)
 
 ####group by family; there are some NA families, will need to manually enter. 
-fgs<- all_ids[,c(14,15,33:37)]
+fgs<- all_ids[,c(1,14,15,33:37)]
 
-fgs<-fgs %>%
+#get the number of stocks and species
+fgs_components <- fgs %>%
   group_by(family) %>%
   summarise(
-    n_stocks = n(),
+    n_stocks = n_distinct(Stock.Name),
     n_species = n_distinct(Species),
-    n_genera = n_distinct(Genus),
+    n_genera = n_distinct(Genus)
+  )
+
+#get means by species
+fgs<-fgs%>%
+  group_by(family,Genus,Species)%>%
+  summarise(
+    across(
+      where(is.numeric),
+      list(mean = ~ mean(.x, na.rm = TRUE))), # Calculate mean and standard error for numeric columns
+    phylopic_uuid = first(na.omit(phylopic_uuid))
+  )
+
+#calculate summary statistics based on species in the group
+fgs<- fgs %>%
+  group_by(family) %>%
+  summarise(
     across(
       where(is.numeric),
       list(mean = ~ mean(.x, na.rm = TRUE), 
-           se = ~ sd(.x, na.rm = TRUE) / sqrt(n()))
-    ), # Calculate mean and standard error for numeric columns
+           se = ~ sd(.x, na.rm = TRUE)/sqrt(n()))), # Calculate mean and standard error for numeric columns
     phylopic_uuid = first(na.omit(phylopic_uuid)) # Select first non-NA value for 'silhouette_url'
   )
 
-fgs<-fgs[c(1:10,17)]
+####merge components with summary stats
+fgs<- merge(fgs,fgs_components, by = "family")
+
+colnames(fgs)<-c("Family","avg_p_score_mean","avg_p_score_se","avg_s_score_mean","avg_s_score_se","distance_mean","distance_se","phylopic_uuid","n_stocks","n_species","n_genera")
 
 setwd(results)
-#write.csv(fgs, "family_grouped_vulnerability_scores_updated_HMS_salmon_excluded.csv", row.names = F)
+write.csv(fgs, "family_grouped_vulnerability_scores_updated_HMS_salmon_excluded.csv", row.names = F)
