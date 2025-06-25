@@ -1,0 +1,427 @@
+"Scientific name","Stock name","Jurisdiction","FMP","Science Center","Area","Productivity score","Susceptibility score","Vulnerability score"
+"Sebastes ruberrimus","Yelloweye rockfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.33,3,2.6
+"Sebastes ruberrimus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.33,3,2.6
+"Sebastes entomelas","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes zacentrus","Sharpchin rockfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes rufus","Bank rockfish - California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,3,2.5
+"Sebastes mystinus","Blue rockfish - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,3,2.5
+"Sebastes aurora","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes melanostictus","Eastern Bering Sea Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes melanostomus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes paucispinis","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes crameri","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes elongatus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes variegatus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes wilsoni","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes babcocki","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes proriger","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes zacentrus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes brevispinis","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes diploproa","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes saxicola","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes miniatus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes reedi","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes flavidus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes pinniger","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes nebulosus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes caurinus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes maliger","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes helvomaculatus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Sebastes nigrocinctus","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,3,2.5
+"Lutjanus vivanus","Silk snapper - Caribbean","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",1.67,3,2.4
+"Sebastes jordani","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.67,3,2.4
+"Microstomus pacificus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.83,3,2.32
+"Lethrinus olivaceus","Longnose emperor - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.83,3,2.32
+"Epinephelus itajara","Goliath grouper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",1.29,2.5,2.28
+"Sebastes variabilis","Bering Sea / Aleutian Islands Other Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.67,2.24
+"Bathyraja minispinosa","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.33,2.5,2.24
+"Hippoglossus hippoglossus","Atlantic halibut - Northwestern Atlantic Coast","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",1.5,2.67,2.24
+"Glyptocephalus zachirus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,3,2.24
+"Lutjanus fulvus","Blacktail snapper - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,3,2.24
+"Myoxocephalus polyacanthocephalus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,3,2.24
+"Myoxocephalus polyacanthocephalus","Gulf of Alaska Sculpin Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,3,2.24
+"Lethrinus xanthochilus","Yellowlip emperor - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,3,2.24
+"Etelis oculatus","Queen snapper - Caribbean","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2,3,2.24
+"Eopsetta jordani","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,3,2.24
+"Dasycottus setiger","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,3,2.24
+"Gadus morhua","Atlantic cod - Eastern Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.17,3,2.17
+"Gadus chalcogrammus","Walleye pollock - Southeast Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Scarus altipinnis","Filament-finned parrotfish - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,3,2.17
+"Lutjanus gibbus","Humpback red snapper - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,3,2.17
+"Scarus dubius","Regal parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,3,2.17
+"Epinephelus guttatus","Red hind - Caribbean","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.17,3,2.17
+"Scarus coeruleus","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.17,3,2.17
+"Scarus coelestinus","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.17,3,2.17
+"Scarus guacamaia","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.17,3,2.17
+"Scarus taeniopterus","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.17,3,2.17
+"Liopsetta glacialis","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Embassichthys bathybius","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Psettichthys melanostictus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Lyopsetta exilis","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Gymnocanthus galeatus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Malacocottus kincaidi","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Malacocottus zonurus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Gymnocanthus detrisus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,3,2.17
+"Etelis carbunculus","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis carbunculus","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis coruscans","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis carbunculus","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis coruscans","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis coruscans","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis carbunculus","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Etelis coruscans","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2.67,2.13
+"Bathyraja aleutica","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja maculata","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja taranetzi","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja mariposa","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja trachura","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja violacea","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Amblyraja badia","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja abyssicola","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja panthera","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja spinosissima","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Sebastes goodei","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Sebastes polyspinis","Gulf of Alaska Other Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Bathyraja aleutica","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Amblyraja badia","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2.5,2.12
+"Scarus vetula","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.33,3,2.11
+"Naso brevirostris","Shortnosed unicornfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.33,3,2.11
+"Parophrys vetulus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,3,2.11
+"Limanda proboscidea","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,3,2.11
+"Clidoderma asperrimum","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,3,2.11
+"Limanda sakhalinensis","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,3,2.11
+"Triglops scepticus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,3,2.11
+"Squalus suckleyi","North Pacific spiny dogfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.17,2,2.09
+"Squalus suckleyi","Gulf of Alaska Shark Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.17,2,2.09
+"Coryphaenoides acrolepis","Pacific grenadier - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.17,2,2.09
+"Scorpaenichthys marmoratus","Cabezon - Washington","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.5,3,2.06
+"Hemilepidotus jordani","Gulf of Alaska Sculpin Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Isopsetta isolepis","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Pleuronichthys decurrens","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Hemilepidotus jordani","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Hemilepidotus papilio","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Triglops metopias","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Artediellus pacificus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Hemilepidotus hemilepidotus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Triglops pingelii","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Triglops forficatus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Icelus spiniger","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.5,3,2.06
+"Sebastes borealis","Shortraker rockfish - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.43,2.33,2.06
+"Monotaxis grandoculis","Bigeye bream - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.67,3,2.03
+"Gymnocanthus pistilliger","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.67,3,2.03
+"Sparisoma viride","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.67,3,2.03
+"Sebastes borealis","Shortraker rockfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.43,2.25,2.01
+"Calotomus carolinus","Stareye parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.83,3,2.01
+"Sebastes auriculatus","Brown rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2.33,2.01
+"Sebastes zacentrus","Sharpchin rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2.33,2.01
+"Hemitripterus bolini","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Scarus iseri","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.83,3,2.01
+"Hemitripterus bolini","Gulf of Alaska Sculpin Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Enophrys diceraus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Gymnocanthus tricuspis","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Blepsias bilobus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Nautichthys pribilovius","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Trachidermus fasciatus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Nautichthys oculofasciatus","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Icelus spatula","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.83,3,2.01
+"Citharichthys sordidus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",3,3,2
+"Myoxocephalus scorpius","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",3,3,2
+"Carangoides orthogrammus","Island jack - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,3,2
+"Parupeneus porphyreus","Goatfish (Parupeneus porphyreus) - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,3,2
+"Parupeneus insularis","Twosaddle goatfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,3,2
+"Sparisoma chrysopterum","Redtail parrotfish - Caribbean","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",3,3,2
+"Sparisoma rubripinne","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",3,3,2
+"Sparisoma chrysopterum","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",3,3,2
+"Epinephelus itajara","Goliath grouper - Southern Atlantic Coast / Gulf of Mexico","SAFMC / GMFMC","Snapper-Grouper Fishery of the South Atlantic Region / Reef Fish Resources of the Gulf of Mexico","SEFSC","Southeast Shelf / Gulf of Mexico",1.29,2,1.98
+"Sebastes aleutianus","Rougheye rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.57,2.33,1.95
+"Sebastes aleutianus","Eastern Bering Sea Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.57,2.33,1.95
+"Aphareus rutilans","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,2.67,1.94
+"Gadus chalcogrammus","Walleye pollock - Bogoslof","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,2.67,1.86
+"Gadus macrocephalus","Pacific cod - Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,2.67,1.86
+"Lethrinus rubrioperculatus","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2.67,1.86
+"Lethrinus rubrioperculatus","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2.67,1.86
+"Lethrinus rubrioperculatus","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2.67,1.86
+"Sebastolobus alascanus","Shortspine thornyhead - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.71,2.33,1.85
+"Squalus suckleyi","Bering Sea / Aleutian Islands Shark Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.17,1,1.83
+"Malacoraja senta","Smooth skate - Gulf of Maine","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.5,2,1.8
+"Amblyraja radiata","Thorny skate - Gulf of Maine","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.5,2,1.8
+"Raja binoculata","Big skate - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Sebastes melanops","Black rockfish - Oregon","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanops","Black rockfish - Point Conception / Oregon Border","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanops","Black rockfish - South of Point Conception","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanops","Black rockfish - Washington","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanops","Black rockfish - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanops","Black rockfish - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Raja binoculata","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Sebastes diaconus","California Blue and Deacon Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Raja binoculata","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Sebastes diaconus","Oregon Blue and Deacon Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Raja rhina","Longnose skate - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Sebastes caurinus","Copper rockfish - Northern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes caurinus","Copper rockfish - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes caurinus","Copper rockfish - Oregon","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes caurinus","Copper rockfish - Washington","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes maliger","Quillback rockfish - California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes maliger","Quillback rockfish - Oregon","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes maliger","Quillback rockfish - Washington","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes miniatus","Vermilion rockfish - Oregon","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes miniatus","Vermilion rockfish - Washington","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanostomus","Blackgill rockfish - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes nebulosus","China rockfish - Central Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes nebulosus","China rockfish - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes nebulosus","China rockfish - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes flavidus","Yellowtail rockfish - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes aurora","Aurora rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes saxicola","Stripetail rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes chlorostictus","Greenspotted rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes elongatus","Greenstriped rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes mystinus","California Blue and Deacon Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes carnatus","Northern California Gopher / Black-and-Yellow Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes mystinus","Oregon Blue and Deacon Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanostictus","Pacific Coast Blackspotted and Rougheye Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes miniatus","Vermilion rockfish and Sunset rockfish Complex - Northern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes miniatus","Vermilion rockfish and Sunset rockfish Complex - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes melanostictus","Aleutian Islands Blackspotted and Rougheye rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Bathyraja interrupta","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,2.5,1.8
+"Raja rhina","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Bathyraja interrupta","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2.5,1.8
+"Raja rhina","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,2,1.8
+"Sebastes chrysomelas","Northern California Gopher / Black-and-Yellow Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes crocotulus","Vermilion rockfish and Sunset rockfish Complex - Northern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Sebastes crocotulus","Vermilion rockfish and Sunset rockfish Complex - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,2,1.8
+"Dipturus laevis","Barndoor skate - Georges Bank / Southern New England","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.33,1.67,1.8
+"Sebastes ruberrimus","Yelloweye rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.33,1.67,1.8
+"Anarhichas lupus","Atlantic wolffish - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",1.33,1.67,1.8
+"Polyprion americanus","Wreckfish - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",1.33,1.67,1.8
+"Variola louti","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.33,2.67,1.8
+"Variola louti","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.33,2.67,1.8
+"Variola louti","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.33,2.67,1.8
+"Sebastolobus alascanus","Bering Sea / Aleutian Islands Other Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.71,2.25,1.79
+"Zoarces americanus","Ocean pout - Northwestern Atlantic Coast","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",1.83,2.33,1.77
+"Caranx lugubris","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.5,2.67,1.74
+"Caranx lugubris","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.5,2.67,1.74
+"Caranx lugubris","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.5,2.67,1.74
+"Pristipomoides filamentosus","Crimson jobfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2.5,1.72
+"Lamna ditropis","Gulf of Alaska Shark Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.43,1.67,1.71
+"Pristipomoides sieboldii","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.67,2.67,1.7
+"Pristipomoides zonatus","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.67,2.67,1.7
+"Pristipomoides sieboldii","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.67,2.67,1.7
+"Pristipomoides sieboldii","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.67,2.67,1.7
+"Urophycis chuss","Red hake - Gulf of Maine / Northern Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,2.33,1.67
+"Urophycis chuss","Red hake - Southern Georges Bank / Mid-Atlantic","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,2.33,1.67
+"Glyptocephalus cynoglossus","Witch flounder - Northwestern Atlantic Coast","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,2.33,1.67
+"Lophius americanus","Goosefish - Gulf of Maine / Northern Georges Bank","NEFMC / MAFMC","Monkfish","NEFSC","Northeast Shelf",2,2.33,1.67
+"Lophius americanus","Goosefish - Southern Georges Bank / Mid-Atlantic","NEFMC / MAFMC","Monkfish","NEFSC","Northeast Shelf",2,2.33,1.67
+"Naso unicornis","Bluespine unicornfish - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,2.33,1.67
+"Sebastes hopkinsi","Squarespot rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.67,2,1.67
+"Myoxocephalus jaok","Bering Sea / Aleutian Islands Sculpin Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,2.33,1.67
+"Myoxocephalus jaok","Gulf of Alaska Sculpin Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2.33,1.67
+"Etelis coruscans","Flame snapper - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",1.67,2,1.67
+"Chlorurus microrhinos","Steephead parrotfish - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,2.33,1.67
+"Pristipomoides flavipinnis","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.67,1.67
+"Pristipomoides flavipinnis","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.67,1.67
+"Pristipomoides auricilla","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.67,1.67
+"Pristipomoides flavipinnis","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.67,1.67
+"Pristipomoides auricilla","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.67,1.67
+"Leucoraja ocellata","Winter skate - Georges Bank / Southern New England","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.5,1.67,1.64
+"Sebastes melanops","Black rockfish - California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.67,1.64
+"Raja eglanteria","Clearnose skate - Southern New England / Mid-Atlantic","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.5,1.67,1.64
+"Leucoraja garmani","Rosette skate - Southern New England / Mid-Atlantic","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.5,1.67,1.64
+"Sebastes variabilis","Dusky rockfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,1.67,1.64
+"Sebastes levis","Cowcod - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.67,1.64
+"Sebastes paucispinis","Bocaccio - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.67,1.64
+"Sebastes flavidus","Yellowtail rockfish - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.67,1.64
+"Sebastes diploproa","Splitnose rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.67,1.64
+"Sebastes melanostictus","Bering Sea / Aleutian Islands Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,1.67,1.64
+"Sebastes melanostictus","Gulf of Alaska Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,1.67,1.64
+"Bathyraja parmifera","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.71,2,1.63
+"Bathyraja parmifera","Gulf of Alaska Skate Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.71,2,1.63
+"Bathyraja lindbergi","Bering Sea / Aleutian Islands Other Skates Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.71,2,1.63
+"Sebastes alutus","Pacific ocean perch - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.43,1.25,1.59
+"Sebastes alutus","Pacific ocean perch - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.43,1.25,1.59
+"Chlorurus perspicillatus","Spectacled parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,2.33,1.59
+"Sebastes alutus","Pacific ocean perch - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.43,1.2,1.58
+"Sebastes entomelas","Widow rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.5,1.58
+"Sebastes pinniger","Canary rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.5,1.58
+"Sebastes crameri","Darkblotched rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.5,1.58
+"Somniosus pacificus","Pacific sleeper shark - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.57,1.67,1.58
+"Sebastes aleutianus","Rougheye rockfish - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.57,1.67,1.58
+"Sebastes aleutianus","Aleutian Islands Blackspotted and Rougheye rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.57,1.67,1.58
+"Somniosus pacificus","Gulf of Alaska Shark Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.57,1.67,1.58
+"Sebastes aleutianus","Pacific Coast Blackspotted and Rougheye Rockfish Complex","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.57,1.67,1.58
+"Gadus morhua","Atlantic cod - Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.17,2.33,1.57
+"Lamna ditropis","Bering Sea / Aleutian Islands Shark Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.43,1,1.57
+"Sebastes polyspinis","Northern rockfish - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.5,1.33,1.54
+"Microstomus pacificus","Dover sole - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.83,2,1.54
+"Sebastes polyspinis","Northern rockfish - Western / Central Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.5,1.33,1.54
+"Sebastes goodei","Chilipepper - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1.33,1.54
+"Hyporthodus niveatus","Snowy grouper - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",1.86,2,1.52
+"Aphareus rutilans","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,2.25,1.52
+"Aphareus rutilans","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,2.25,1.52
+"Aphareus rutilans","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,2.25,1.52
+"Hyporthodus quernus","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,2.25,1.52
+"Sebastes aleutianus","Bering Sea / Aleutian Islands Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.57,1.5,1.51
+"Sebastes aleutianus","Gulf of Alaska Blackspotted and Rougheye Rockfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.57,1.5,1.51
+"Hipposcarus longiceps","Pacific longnose parrotfish - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.33,1.51
+"Chlorurus sordidus","Bullethead parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.33,1.51
+"Sparisoma aurofrenatum","Caribbean Parrotfishes Complex","CFMC","Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands","SEFSC","Caribbean Sea",2.86,2.5,1.51
+"Raja rhina","Longnose skate - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.5,1,1.5
+"Limanda ferruginea","Yellowtail flounder - Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.33,2.33,1.49
+"Leucoraja erinacea","Little skate - Georges Bank / Southern New England","NEFMC","Northeast Skate Complex","NEFSC","Northeast Shelf",1.67,1.67,1.49
+"Reinhardtius hippoglossoides","Greenland halibut - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.67,1.67,1.49
+"Sebastes jordani","Shortbelly rockfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.67,1.67,1.49
+"Scarus rubroviolaceus","Redlip parrotfish - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.43,2.33,1.45
+"Scarus rubroviolaceus","Redlip parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.43,2.33,1.45
+"Platichthys stellatus","Bering Sea / Aleutian Islands Other Flatfish Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.43,2.33,1.45
+"Caranx ignobilis","Giant trevally - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.43,2.33,1.45
+"Squalus acanthias","Spiny dogfish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.57,1.25,1.45
+"Hippoglossus stenolepis","Pacific halibut - Pacific Coast / Alaska","IPHC","Species Managed Under International Agreement - IPHC","NWFSC / AFSC","California Current / Alaska Ecosystem Complex",1.71,1.67,1.45
+"Squalus acanthias","Spiny dogfish - Atlantic Coast","NEFMC / MAFMC","Spiny Dogfish","NEFSC","Northeast Shelf",1.57,1.2,1.44
+"Lutjanus kasmira","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Lutjanus kasmira","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Lutjanus kasmira","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Pristipomoides filamentosus","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Pristipomoides filamentosus","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Pristipomoides filamentosus","Main Hawaiian Islands Deep 7 Bottomfish Multi-species Complex","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Pristipomoides filamentosus","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.29,2.25,1.44
+"Somniosus pacificus","Bering Sea / Aleutian Islands Shark Complex","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.57,1,1.43
+"Sebastolobus altivelis","Longspine thornyhead - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.67,1.5,1.42
+"Lopholatilus chamaeleonticeps","Tilefish - Mid-Atlantic Coast","MAFMC","Tilefish","NEFSC","Northeast Shelf",1.71,1.6,1.42
+"Merluccius bilinearis","Silver hake - Southern Georges Bank / Mid-Atlantic","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,2,1.41
+"Glyptocephalus zachirus","Rex sole - Eastern Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Glyptocephalus zachirus","Rex sole - Western / Central Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Glyptocephalus zachirus","Rex sole - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2,2,1.41
+"Clupea harengus","Atlantic herring - Northwestern Atlantic Coast","NEFMC","Atlantic Herring","NEFSC","Northeast Shelf",2,2,1.41
+"Naso hexacanthus","Sleek unicornfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2,2,1.41
+"Mycteroperca microlepis","Gag - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2,2,1.41
+"Lepidopsetta bilineata","Rock sole - Central Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Lepidopsetta bilineata","Rock sole - Western Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Mycteroperca phenax","Scamp - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2,2,1.41
+"Mycteroperca microlepis","Gag - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2,2,1.41
+"Lepidopsetta bilineata","Rock sole - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Caulolatilus microps","Blueline tilefish - Mid-Atlantic Coast","MAFMC","Tilefish","SEFSC","Northeast Shelf / Southeast Shelf",2,2,1.41
+"Caulolatilus microps","Blueline tilefish - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2,2,1.41
+"Lepidopsetta bilineata","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,2,1.41
+"Caranx melampygus","Bluefin trevally - Guam","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.57,2.33,1.4
+"Lopholatilus chamaeleonticeps","Tilefish - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",1.71,1.5,1.38
+"Caranx ignobilis","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.43,2.25,1.37
+"Caranx ignobilis","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.43,2.25,1.37
+"Mycteroperca bonaci","Black grouper - Southern Atlantic Coast / Gulf of Mexico","SAFMC / GMFMC","Snapper-Grouper Fishery of the South Atlantic Region / Reef Fish Resources of the Gulf of Mexico","SEFSC","Southeast Shelf / Gulf of Mexico",1.86,1.75,1.37
+"Scomberomorus cavalla","King mackerel - Gulf of Mexico","SAFMC / GMFMC","Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic","SEFSC","Gulf of Mexico",1.71,1.4,1.35
+"Scomberomorus cavalla","King mackerel - Southern Atlantic Coast","SAFMC / GMFMC","Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic","SEFSC","Southeast Shelf",1.71,1.4,1.35
+"Sebastolobus alascanus","Shortspine thornyhead - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.71,1.4,1.35
+"Lopholatilus chamaeleonticeps","Tilefish - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",1.71,1.4,1.35
+"Pseudopleuronectes americanus","Winter flounder - Gulf of Maine","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.5,2.25,1.35
+"Urophycis tenuis","White hake - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",1.83,1.67,1.34
+"Scarus psittacus","Palenose parrotfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.33,1.33
+"Mulloidichthys vanicolensis","Yellowfin goatfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.33,1.33
+"Mulloidichthys flavolineatus","Yellowstripe goatfish - Main Hawaiian Islands","WPFMC","Hawaii Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,2.33,1.33
+"Bathyraja parmifera","Alaska skate - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",1.71,1.33,1.33
+"Rachycentron canadum","Cobia - Gulf of Mexico","SAFMC / GMFMC","Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic","SEFSC","Gulf of Mexico",2.14,2,1.32
+"Scomber scombrus","Atlantic mackerel - Gulf of Maine / Cape Hatteras","MAFMC","Mackerel, Squid and Butterfish","NEFSC","Northeast Shelf",2.17,2,1.3
+"Lutjanus kasmira","Common bluestripe snapper - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2,1.3
+"Lethrinus rubrioperculatus","Spotcheek emperor - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.17,2,1.3
+"Psettichthys melanostictus","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.17,2,1.3
+"Anoplopoma fimbria","Sablefish - Eastern Bering Sea / Aleutian Islands / Gulf of Alaska","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area / Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",1.71,1,1.29
+"Anoplopoma fimbria","Sablefish - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.71,1,1.29
+"Aprion virescens","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,2.25,1.28
+"Pristipomoides zonatus","American Samoa Bottomfish Multi-species Complex","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,2.25,1.28
+"Pristipomoides zonatus","Guam Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,2.25,1.28
+"Pristipomoides zonatus","Northern Mariana Islands Bottomfish Multi-species Complex","WPFMC","Mariana Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,2.25,1.28
+"Hippoglossoides platessoides","American plaice - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",1.83,1.5,1.27
+"Microstomus pacificus","Dover sole - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.83,1.5,1.27
+"Merluccius bilinearis","Silver hake - Gulf of Maine / Northern Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,1.75,1.25
+"Epinephelus morio","Red grouper - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2,1.75,1.25
+"Hyporthodus flavolimbatus","Yellowedge grouper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2,1.75,1.25
+"Mycteroperca phenax","Scamp - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2,1.75,1.25
+"Lutjanus campechanus","Red snapper - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.29,2,1.23
+"Lutjanus synagris","Lane snapper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2.86,2.2,1.21
+"Glyptocephalus zachirus","Rex sole - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,1.67,1.2
+"Pleuronectes quadrituberculatus","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,1.67,1.2
+"Variola louti","Yellow-edged lyretail - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.33,2,1.2
+"Pleurogrammus monopterygius","Atka mackerel - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.33,2,1.2
+"Parophrys vetulus","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.33,2,1.2
+"Melanogrammus aeglefinus","Haddock - Gulf of Maine","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.14,1.8,1.17
+"Merluccius productus","Pacific hake - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",1.83,1,1.17
+"Lutjanus griseus","Gray snapper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2,1.6,1.17
+"Epinephelus morio","Red grouper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2,1.6,1.17
+"Platichthys stellatus","Starry flounder - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.43,2,1.15
+"Platichthys stellatus","Starry flounder - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.43,2,1.15
+"Seriola dumerili","Greater amberjack - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2.14,1.75,1.14
+"Lutjanus analis","Mutton snapper - Southern Atlantic Coast / Gulf of Mexico","SAFMC / GMFMC","Snapper-Grouper Fishery of the South Atlantic Region / Reef Fish Resources of the Gulf of Mexico","SEFSC","Southeast Shelf / Gulf of Mexico",2.14,1.75,1.14
+"Sebastes fasciatus","Acadian redfish - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2,1.5,1.12
+"Pleuronectes quadrituberculatus","Alaska plaice - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,1.5,1.12
+"Atheresthes stomias","Arrowtooth flounder - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,1.5,1.12
+"Atheresthes evermanni","Kamchatka flounder - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2,1.5,1.12
+"Atheresthes stomias","Arrowtooth flounder - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2,1.5,1.12
+"Eopsetta jordani","Petrale sole - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2,1.5,1.12
+"Caranx lugubris","Black jack - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.5,2,1.12
+"Scorpaenichthys marmoratus","Cabezon - Northern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.5,2,1.12
+"Scorpaenichthys marmoratus","Cabezon - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.5,2,1.12
+"Scorpaenichthys marmoratus","Cabezon - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.5,2,1.12
+"Isopsetta isolepis","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.5,2,1.12
+"Pomatomus saltatrix","Bluefish - Atlantic Coast","MAFMC","Bluefish","NEFSC","Northeast Shelf",2.57,2,1.09
+"Pagrus pagrus","Red porgy - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.57,2,1.09
+"Melanogrammus aeglefinus","Haddock - Eastern Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.14,1.67,1.09
+"Aphareus rutilans","Rusty jobfish - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.14,1.67,1.09
+"Limanda aspera","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.14,1.67,1.09
+"Atheresthes stomias","Arrowtooth flounder - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2,1.4,1.08
+"Gadus chalcogrammus","Walleye pollock - Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,1.67,1.07
+"Gadus chalcogrammus","Walleye pollock - Eastern Bering Sea","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,1.67,1.07
+"Gadus chalcogrammus","Walleye pollock - Western / Central / West Yakutat Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.17,1.67,1.07
+"Gadus morhua","Atlantic cod - Gulf of Maine","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.17,1.67,1.07
+"Gadus macrocephalus","Pacific cod - Bering Sea","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.17,1.67,1.07
+"Gadus macrocephalus","Pacific cod - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.17,1.67,1.07
+"Scorpaena guttata","California scorpionfish - Southern California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.17,1.67,1.07
+"Sardinops sagax","Pacific sardine - Northern Subpopulation","PFMC","Coastal Pelagic Species","SWFSC","California Current",2.17,1.67,1.07
+"Hexagrammos decagrammus","Kelp greenling - Oregon","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.67,2,1.05
+"Merluccius albidus","Offshore hake - Northwestern Atlantic Coast","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.67,2,1.05
+"Seriola dumerili","Greater amberjack - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.14,1.6,1.05
+"Scophthalmus aquosus","Windowpane - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.71,2,1.04
+"Scophthalmus aquosus","Windowpane - Southern New England / Mid-Atlantic","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.71,2,1.04
+"Brevoortia tyrannus","Atlantic menhaden - Atlantic Coast","ASMFC","ASMFC Not In FMP","NEFSC / SEFSC","Northeast Shelf / Southeast Shelf",2.71,2,1.04
+"Ophiodon elongatus","Lingcod - Northern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.29,1.75,1.04
+"Ophiodon elongatus","Lingcod - Southern Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.29,1.75,1.04
+"Lutjanus campechanus","Red snapper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2.29,1.75,1.04
+"Limanda ferruginea","Yellowtail flounder - Cape Cod / Gulf of Maine","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.33,1.75,1
+"Parophrys vetulus","English sole - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.33,1.75,1
+"Citharichthys sordidus","Pacific sanddab - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",3,2,1
+"Balistes vetula","Queen triggerfish - Puerto Rico","CFMC","Puerto Rico Fishery Management Plan","SEFSC","Caribbean Sea",3,2,1
+"Balistes vetula","Queen triggerfish - St. Croix","CFMC","St. Croix Fishery Management Plan","SEFSC","Caribbean Sea",3,2,1
+"Balistes capriscus","Gray triggerfish - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",3,2,1
+"Limanda aspera","Yellowfin sole - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.14,1.5,0.99
+"Hippoglossoides elassodon","Flathead sole - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.29,1.67,0.98
+"Melanogrammus aeglefinus","Haddock - Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.14,1.4,0.95
+"Pollachius virens","Pollock - Gulf of Maine / Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.14,1.4,0.95
+"Scomberomorus maculatus","Spanish mackerel - Gulf of Mexico","SAFMC / GMFMC","Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic","SEFSC","Gulf of Mexico",2.14,1.4,0.95
+"Scomberomorus maculatus","Spanish mackerel - Southern Atlantic Coast","SAFMC / GMFMC","Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic","SEFSC","Southeast Shelf",2.14,1.4,0.95
+"Ocyurus chrysurus","Yellowtail snapper - Southern Atlantic Coast / Gulf of Mexico","SAFMC / GMFMC","Snapper-Grouper Fishery of the South Atlantic Region / Reef Fish Resources of the Gulf of Mexico","SEFSC","Southeast Shelf / Gulf of Mexico",2.43,1.75,0.94
+"Lachnolaimus maximus","Hogfish - Eastern Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2.43,1.75,0.94
+"Lachnolaimus maximus","Hogfish - Carolinas","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.43,1.75,0.94
+"Lachnolaimus maximus","Hogfish - Southeast Florida","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.43,1.75,0.94
+"Limanda ferruginea","Yellowtail flounder - Southern New England / Mid-Atlantic","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.33,1.67,0.94
+"Rhomboplites aurorubens","Vermilion snapper - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",2.29,1.6,0.93
+"Rhomboplites aurorubens","Vermilion snapper - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.29,1.6,0.93
+"Pseudopleuronectes americanus","Winter flounder - Georges Bank","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.5,1.75,0.9
+"Platichthys stellatus","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Lepidopsetta polyxystra","Northern rock sole - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Lepidopsetta polyxystra","Northern rock sole - Central Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Lepidopsetta polyxystra","Northern rock sole - Western Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Lepidopsetta polyxystra","Northern rock sole - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Lepidopsetta polyxystra","Gulf of Alaska Shallow Water Flatfish Complex","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.43,1.67,0.88
+"Hippoglossoides elassodon","Flathead sole - Gulf of Alaska","NPFMC","Groundfish of the Gulf of Alaska","AFSC","Alaska Ecosystem Complex",2.29,1.5,0.87
+"Pseudopleuronectes americanus","Winter flounder - Southern New England / Mid-Atlantic","NEFMC","Northeast Multispecies","NEFSC","Northeast Shelf",2.5,1.67,0.83
+"Scorpaenichthys marmoratus","Cabezon - California","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.5,1.67,0.83
+"Engraulis mordax","Northern anchovy - Southern Pacific Coast","PFMC","Coastal Pelagic Species","SWFSC","California Current",2.83,1.75,0.77
+"Platichthys stellatus","Starry flounder - Pacific Coast","PFMC","Pacific Coast Groundfish","NWFSC / SWFSC","California Current",2.43,1.5,0.76
+"Balistes capriscus","Gray triggerfish - Gulf of Mexico","GMFMC","Reef Fish Resources of the Gulf of Mexico","SEFSC","Gulf of Mexico",3,1.75,0.75
+"Pleurogrammus monopterygius","Atka mackerel - Bering Sea / Aleutian Islands","NPFMC","Groundfish of the Bering Sea and Aleutian Islands Management Area","AFSC","Alaska Ecosystem Complex",2.33,1.33,0.75
+"Stenotomus chrysops","Scup - Atlantic Coast","MAFMC","Summer Flounder, Scup and Black Sea Bass","NEFSC","Northeast Shelf",2.57,1.6,0.74
+"Aprion virescens","Green jobfish - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,1.67,0.73
+"Pristipomoides zonatus","Oblique-banded snapper - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",2.71,1.67,0.73
+"Scomber japonicus","Pacific chub mackerel - Pacific Coast","PFMC","Coastal Pelagic Species","SWFSC","California Current",2.83,1.67,0.69
+"Pristipomoides flavipinnis","Golden eye jobfish - American Samoa","WPFMC","American Samoa Archipelago Ecosystem","PIFSC","Pacific Islands Ecosystem Complex",3,1.67,0.67
+"Centropristis striata","Black sea bass - Southern Atlantic Coast","SAFMC","Snapper-Grouper Fishery of the South Atlantic Region","SEFSC","Southeast Shelf",2.71,1.6,0.66
+"Centropristis striata","Black sea bass - Mid-Atlantic Coast","MAFMC","Summer Flounder, Scup and Black Sea Bass","NEFSC","Northeast Shelf",2.71,1.6,0.66
+"Paralichthys dentatus","Summer flounder - Mid-Atlantic Coast","MAFMC","Summer Flounder, Scup and Black Sea Bass","NEFSC","Northeast Shelf",2.83,1.5,0.53
+"Peprilus triacanthus","Butterfish - Gulf of Maine / Cape Hatteras","MAFMC","Mackerel, Squid and Butterfish","NEFSC","Northeast Shelf",3,1.4,0.4

@@ -74,7 +74,7 @@ scores_survey_type_region[] <- lapply(scores_survey_type_region, function(x) gsu
 
 #rename first few columns
 colnames(scores_survey_type_region)<-c("Area and method", "n stocks", "n species", "n surveys", "n stock-weighted vulnerability score",
-                                       "Vulnerability score", "Susceptibility score", "Risk score")
+                                       "Vulnerability score", "Productivity score", "Susceptibility score")
 
 #write csv
 setwd(tables)

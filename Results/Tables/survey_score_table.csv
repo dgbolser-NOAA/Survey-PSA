@@ -1,0 +1,97 @@
+"Survey name","Area and method","method","n stocks","n species","n stock-weighted vulnerability score","Vulnerability score","Productivity score","Susceptibility score"
+"Alaska Department of Fish and Game SEO ROV survey","Alaska visual","visual",1,1,2.61,2.6,1.33,3
+"Alaska Department of Fish and Game SEO Submersible Survey","Alaska visual","visual",1,1,2.61,2.6,1.33,3
+"AFSC slope trawl survey","Alaska bottom trawl","bottom trawl",52,91,2.43,1.91,1.83,2.37
+"GAP Aleutian Island Bottom Trawl_Summer","Alaska bottom trawl","bottom trawl",17,70,2.11,1.94,2.08,2.58
+"GAP-SAP Eastern Bering Sea Bottom Trawl_Summer","Alaska bottom trawl","bottom trawl",15,68,2.07,1.92,2.12,2.59
+"Coral Reef Ecosystem Research","Pacific Islands visual","visual",19,19,1.93,1.74,2.46,2.6
+"West Coast Groundfish Bottom Trawl","West Coast bottom trawl","bottom trawl",35,35,1.88,1.53,1.69,1.7
+"MACE Bogoslof Pollock Acoustic Trawl_Winter","Alaska bottom trawl","bottom trawl",1,1,1.87,1.86,2.17,2.67
+"CCFRP Hook-and-Line Survey","West Coast hook and line","hook and line",3,3,1.83,1.8,1.5,2
+"Main Hawaiian Island (MHI) Insular Bottomfish Survey (Cooperative Research)","Pacific Islands hook and line","hook and line",1,7,1.81,1.8,2.16,2.55
+"Olympic Coast Monitoring Inventory","West Coast visual","visual",1,1,1.81,1.8,1.5,2
+"PISCO Dive Survey 15+ cm fish","West Coast visual","visual",1,2,1.81,1.8,1.5,2
+"PISCO Dive Survey age=0 fish","West Coast visual","visual",1,2,1.81,1.8,1.5,2
+"Washington Nearshore Survey","West Coast hook and line","hook and line",1,1,1.81,1.8,1.5,2
+"AFSC/NWFSC shelf bottom trawl survey","West Coast bottom trawl","bottom trawl",27,27,1.76,1.49,1.73,1.66
+"Bottom Trawl Survey_Fall","Northeast Shelf bottom trawl","bottom trawl",39,27,1.73,1.34,2.09,1.9
+"Hawaiian Archipelago Insular Bottomfish Survey (Cooperative Research)","Pacific Islands hook and line","hook and line",1,1,1.73,1.72,2.17,2.5
+"Juvenile Rockfish Survey","West Coast midwater trawl","midwater trawl",7,8,1.72,1.65,1.52,1.71
+"West Coast Rockfish Hook and Line","West Coast hook and line","hook and line",7,8,1.72,1.65,1.62,1.89
+"CalCOFI_Fall","West Coast midwater trawl","midwater trawl",1,1,1.65,1.64,1.5,1.67
+"Combined LA/OC Sanitation District Trawl Survey Index","West Coast bottom trawl","bottom trawl",1,1,1.65,1.64,1.5,1.67
+"Cowcod","West Coast hook and line","hook and line",1,1,1.65,1.64,1.5,1.67
+"CalCOFI_Spring","West Coast midwater trawl","midwater trawl",3,3,1.62,1.59,1.56,1.67
+"CalCOFI_Winter","West Coast midwater trawl","midwater trawl",3,3,1.62,1.59,1.56,1.67
+"MESA Gulf of Alaska & Eastern Bering Sea & Aleutian Islands Longline_Summer","Alaska hook and line","hook and line",7,7,1.62,1.55,1.67,1.72
+"IPHC Longline Survey","West Coast hook and line","hook and line",3,3,1.61,1.58,1.52,1.44
+"GAP Gulf of Alaska Bottom Trawl_Summer","Alaska bottom trawl","bottom trawl",2,2,1.6,1.58,1.67,1.83
+"AFSC Pacific Ocean Perch Survey - West Coast (1979, 1985). This survey has been discontinued.","West Coast bottom trawl","bottom trawl",1,1,1.59,1.58,1.43,1.2
+"Bottom Trawl Survey_Spring","Northeast Shelf bottom trawl","bottom trawl",31,22,1.58,1.27,2.13,1.85
+"SWFSC Annual Pinniped survey on CA Coast and Islands (conducted by M. Lowry at SWFSC)","West Coast predator food habits","predator food habits",1,1,1.5,1.49,1.67,1.67
+"Seabird Food Habits Survey (1975-2004) by the Point Reyes Bird Observatory (PRBO) on the Southeast Farallon Islands.","West Coast predator food habits","predator food habits",1,1,1.5,1.49,1.67,1.67
+"Age-0 Gag Grouper survey developed for the Gulf of Mexico using three available databases, the Florida State University Estuarine Gag Survey, the NMFS PC Lab St. Andrew Bay Survey, and the State of Florida FWC Estuarine (FIM) Survey.","Gulf of Mexico inshore net","inshore net",1,1,1.42,1.41,2,2
+"Atlantic Herring Acoustic Survey","Northeast Shelf acoustic-trawl","acoustic-trawl",1,1,1.42,1.41,2,2
+"Shrimp Survey (ASMFC) Northern Shrimp","Northeast Shelf bottom trawl","bottom trawl",1,1,1.42,1.41,2,2
+"Gulf of Mexico Pelagic Longline","Gulf of Mexico hook and line","hook and line",2,2,1.39,1.37,1.79,1.62
+"MARMAP","Gulf of Mexico hook and line","hook and line",1,1,1.39,1.38,1.71,1.5
+"Dry Tortugas Reef Fish Visual Census (RVC)","Gulf of Mexico visual","visual",1,1,1.38,1.37,1.86,1.75
+"DFO Canada bottom trawl","Northeast Shelf bottom trawl","bottom trawl",5,4,1.37,1.32,2.26,2.03
+"SEAMAP Reef Fish Camera/Trap","Gulf of Mexico visual","visual",4,4,1.32,1.28,2.04,1.84
+"MARMAP Reef Fish Long Bottom Longline Survey (SCDNR)","Southeast Shelf hook and line","hook and line",3,3,1.3,1.27,1.97,1.69
+"SEAMAP Gulf of Mexico Reef Fish","Gulf of Mexico visual","visual",3,3,1.26,1.23,2.1,1.83
+"SEAMAP-GOM Plankton","Gulf of Mexico midwater trawl","midwater trawl",3,2,1.24,1.21,1.9,1.47
+"SEAMAP South Atlantic Bottom Trawl_Fall","Southeast Shelf bottom trawl","bottom trawl",2,2,1.21,1.19,2.21,1.7
+"SEAMAP South Atlantic Bottom Trawl_Winter","Southeast Shelf bottom trawl","bottom trawl",2,2,1.21,1.19,2.21,1.7
+"NH/ME Inshore Trawl Survey (MDMF)","Northeast Shelf bottom trawl","bottom trawl",2,2,1.19,1.17,2.42,2
+"Panama City Laboratory Reef Fish Trap/Video","Gulf of Mexico visual","visual",9,8,1.19,1.1,2.25,1.76
+"FWRI Hook and Line Repetitive Time Drop Survey - 2014 - 2017","Gulf of Mexico hook and line","hook and line",1,1,1.18,1.17,2,1.6
+"Florida Fish and Wildlife Conservation Commission Inshore Survey","Gulf of Mexico inshore net","inshore net",1,1,1.18,1.17,2,1.6
+"Hake Acoustic_Summer","West Coast acoustic-trawl","acoustic-trawl",1,1,1.18,1.17,1.83,1
+"MARMAP/SEAMAP South Atlantic Reef Fish (SCDNR)","Southeast Shelf visual","visual",8,8,1.18,1.1,2.25,1.76
+"Reef Fish Integrated Visual Survey","Gulf of Mexico visual","visual",1,1,1.18,1.17,2,1.6
+"SEAMAP-GOM Bottom Longline Survey","Gulf of Mexico hook and line","hook and line",3,3,1.18,1.15,2.1,1.7
+"Sardine - Hake Acoustic Trawl Survey (SaKe)","West Coast bottom trawl","bottom trawl",1,1,1.18,1.17,1.83,1
+"Southeast Fishery-Independent Survey (SEFIS)","Southeast Shelf visual","visual",9,9,1.18,1.09,2.24,1.74
+"FWRI FIM Inshore Seine Survey","Gulf of Mexico inshore net","inshore net",1,1,1.15,1.14,2.14,1.75
+"Fishery Independent Survey - Florida Fish & Wildlife Research Institute Video Survey (Part of three-survey abundance index)","Gulf of Mexico visual","visual",1,1,1.15,1.14,2.14,1.75
+"Gulf Video Surveys","Gulf of Mexico visual","visual",1,1,1.15,1.14,2.14,1.75
+"Florida Keys/Southeast Reef Fish Visual Census (RVC)","Southeast Shelf visual","visual",4,4,1.14,1.1,2.21,1.75
+"Northeast Ecosystem Monitoring (EcoMon)_Fall","Northeast Shelf midwater trawl","midwater trawl",2,2,1.14,1.12,2.25,1.83
+"SEAMAP South Atlantic Bottom Trawl_Summer","Southeast Shelf bottom trawl","bottom trawl",3,3,1.14,1.11,2.29,1.72
+"North Carolina Pamlico Sound Independent Gillnet Survey","Northeast Shelf inshore net","inshore net",1,1,1.1,1.09,2.57,2
+"Reef Fish Visual Census Survey - U.S. Caribbean","Caribbean Sea visual","visual",2,2,1.1,1.08,2.5,1.8
+"Alaska Department of Fish and Game Large-mesh Trawl Survey of Gulf of Alaska and Eastern Aleutian Islands_Summer","Alaska bottom trawl","bottom trawl",1,1,1.08,1.07,2.17,1.67
+"Aleutian Islands Cooperative Acoustic Survey Studies","Alaska acoustic-trawl","acoustic-trawl",1,1,1.08,1.07,2.17,1.67
+"Bering Sea Biennial Walleye Pollock Accoustic_Summer","Alaska acoustic-trawl","acoustic-trawl",1,1,1.08,1.07,2.17,1.67
+"California State University Northridge with Vantuna Research Group (CSUN/VRG) gillnet survey (1995-2008)","West Coast inshore net","inshore net",1,1,1.08,1.07,2.17,1.67
+"MACE Kenai/PWS Pollock Acoustic Trawl_Winter","Alaska bottom trawl","bottom trawl",1,1,1.08,1.07,2.17,1.67
+"MACE Shelikof Strait Pollock Acoustic Trawl_Winter","Alaska bottom trawl","bottom trawl",1,1,1.08,1.07,2.17,1.67
+"Sanitation index Publicly Owned Treatment Works (POTW) trawl survey","West Coast bottom trawl","bottom trawl",1,1,1.08,1.07,2.17,1.67
+"Southern California Bight Regional Monitoring Project Trawl Survey","West Coast bottom trawl","bottom trawl",1,1,1.08,1.07,2.17,1.67
+"Massachusetts DMF Bottom Trawl_Fall","Northeast Shelf bottom trawl","bottom trawl",6,6,1.07,1.01,2.38,1.73
+"SEAMAP-GOM Shrimp/Groundfish Trawl_Summer","Gulf of Mexico bottom trawl","bottom trawl",5,5,1.06,1.01,2.34,1.69
+"Ecological Monitoring Trawl Survey (GADNR)","Southeast Shelf bottom trawl","bottom trawl",1,1,1.05,1.04,2.71,2
+"SEAMAP-GOM Shrimp/Groundfish Trawl_Fall","Gulf of Mexico bottom trawl","bottom trawl",5,5,1.05,1,2.29,1.58
+"SEAMAP Plankton_Fall","Gulf of Mexico midwater trawl","midwater trawl",2,2,1.01,0.99,2.21,1.57
+"Epifaunal (small fish and macro-invertebrates) Sampling","Southeast Shelf visual","visual",1,1,0.95,0.94,2.43,1.75
+"FWC-FWRI Baitfish Survey","Gulf of Mexico bottom trawl","bottom trawl",1,1,0.95,0.94,2.43,1.75
+"FWC-FWRI Juvenile Seagrass Survey","Gulf of Mexico inshore net","inshore net",1,1,0.95,0.94,2.43,1.75
+"Northeast Atlantic Benthic Habitat_Winter","Northeast Shelf visual","visual",1,1,0.95,0.94,2.33,1.67
+"Northeast Ecosystem Monitoring (EcoMon)_Summer","Northeast Shelf midwater trawl","midwater trawl",3,3,0.95,0.92,2.44,1.72
+"New Jersey DEP spring bottom trawl","Northeast Shelf bottom trawl","bottom trawl",2,2,0.9,0.88,2.64,1.8
+"California Current Ecosystem Survey (CCES)","West Coast acoustic-trawl","acoustic-trawl",3,3,0.87,0.84,2.61,1.69
+"Bottom Trawl Survey_Winter","Northeast Shelf bottom trawl","bottom trawl",4,4,0.8,0.76,2.56,1.61
+"CT bottom trawl survey spring and fall","Northeast Shelf bottom trawl","bottom trawl",3,3,0.79,0.76,2.71,1.7
+"CDFG and Interagency Ecological Program Pre-Recruit Survey","West Coast midwater trawl","midwater trawl",1,1,0.77,0.76,2.43,1.5
+"Massachusetts DMF Bottom Trawl_Spring","Northeast Shelf bottom trawl","bottom trawl",4,4,0.77,0.73,2.61,1.61
+"SEAMAP-GOM Shrimp/Groundfish Trawl_Spring","Gulf of Mexico bottom trawl","bottom trawl",1,1,0.76,0.75,3,1.75
+"Northeast Area Monitoring and Assessment Program (NEAMAP)_Spring (MDMR/VIMS)","Northeast Shelf bottom trawl","bottom trawl",5,5,0.73,0.68,2.74,1.62
+"DE DFW spring trawl","Northeast Shelf bottom trawl","bottom trawl",1,1,0.67,0.66,2.71,1.6
+"Maryland DNR inshore trawl survey","Northeast Shelf bottom trawl","bottom trawl",1,1,0.67,0.66,2.71,1.6
+"New York DEC juvenile seine","Northeast Shelf inshore net","inshore net",1,1,0.67,0.66,2.71,1.6
+"Rhode Island DFW spring trawl","Northeast Shelf bottom trawl","bottom trawl",1,1,0.67,0.66,2.71,1.6
+"VIMS ChesMMAP bottom trawl","Northeast Shelf bottom trawl","bottom trawl",2,2,0.62,0.6,2.77,1.55
+"DE, NY, NJ trawl surveys","Northeast Shelf bottom trawl","bottom trawl",1,1,0.54,0.53,2.83,1.5
+"RI trawl survey","Northeast Shelf bottom trawl","bottom trawl",1,1,0.54,0.53,2.83,1.5
+"URI GSO trawl survey","Northeast Shelf bottom trawl","bottom trawl",1,1,0.54,0.53,2.83,1.5
