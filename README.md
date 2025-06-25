@@ -1,0 +1,18 @@
+This study is currently under review and results should be considered preliminary. 
+
+Project title: Evaluating fishery-independent surveys with stock vulnerability to support precautionary fisheries management
+
+Authors: @dgbolser-NOAA, @Lewis-Barnett-NOAA, @shcaba
+
+Abstract:
+Taking a precautionary approach to fisheries management implies that the most vulnerable stocks must be managed the most effectively. The consequences of mis-managing vulnerable stocks are high and potentially permanent, so precautionary buffers are often coupled with reference points to avoid negative outcomes. However, the best way to manage effectively is to base advice on precise and accurate population assessments, which are best improved by appropriately provisioning more and better data. It follows that data collection priorities should be informed by vulnerability. We modified the Productivity-Susceptibility Analysis to assess the vulnerability to unpredicted, negative changes in stock status of 426 fish stocks or species within stock complexes that NOAA Fisheries assessed from 2005-2024 (excluding highly migratory and salmon stocks). We then identified the fishery-independent surveys (i.e., surveys) that informed their stock assessments and examined patterns of vulnerability by taxonomy, survey method, and area. The most vulnerable stocks were demersal teleosts (e.g., Psychrolutids, Macrourids, Scorpaenids). On average, bottom trawl surveys provided stock assessment information for nearly twice as many stocks as any other survey method, and those conducted in Alaska sampled the second-most vulnerable stocks of any area-method combination (preceded by Alaska visual surveys). Of stocks without survey data informing their assessments, those in the Caribbean Sea, West Coast, and Pacific Islands were the most vulnerable on average. Vulnerability does not represent the societal consequences of failing to sample adequately, but given its association with recovery probability and time, incorporating vulnerability in decision-making would increase the effectiveness of survey resources.
+
+NOAA README
+This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+
+NOAA License
+Software code created by U.S. Government employees is not subject to copyright in the United States (17 U.S.C. §105). The United States/Department of Commerce reserve all rights to seek and obtain copyright protection in countries other than the United States for Software authored in its entirety by the Department of Commerce. To this end, the Department of Commerce hereby grants to Recipient a royalty-free, nonexclusive license to use, copy, and create derivative works of the Software outside of the United States.
+
+NOAA Fisheries
+
+U.S. Department of Commerce | National Oceanographic and Atmospheric Administration | NOAA Fisheries
