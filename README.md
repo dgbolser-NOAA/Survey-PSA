@@ -1,4 +1,4 @@
-This study is currently under review and results should be considered preliminary. 
+This study is currently under review and results should be considered preliminary. It was written for local development; future work will generalize the code for easier use by others. 
 
 Project title: Evaluating fishery-independent surveys with stock vulnerability to support precautionary fisheries management
 
